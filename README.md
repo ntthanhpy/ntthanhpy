@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently working on HPT Vietnam
-🌱 I’m currently learning Machine Learning, Deep Learning, Math, Python.
+- 🔭 I’m currently working on HPT Vietnam
+- 🌱 I’m currently learning Machine Learning, Deep Learning, Math, Python.
 
 <!--
 **ntthanhpy/ntthanhpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
