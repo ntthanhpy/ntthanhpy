@@ -1,7 +1,10 @@
 ### Hi there 👋
 - 🔭 I’m currently working on HPT Vietnam
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Math, Python.
+- GitHub stats
 
+![Thanh NT's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntthanhpy&show_icons=true&theme=algolia)
+- Updating
 <!--
 **ntthanhpy/ntthanhpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
