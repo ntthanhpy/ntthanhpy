@@ -1,5 +1,7 @@
 ### Hi there 👋
+<!-- 
 - 🔭 I’m currently working on HPT Vietnam
+-->
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Math, Python.
 - GitHub stats
 
