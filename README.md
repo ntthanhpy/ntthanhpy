@@ -1,8 +1,8 @@
 ### Hi there 👋
 <!-- 
-- 🔭 I’m currently working on HPT Vietnam
--->
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Math, Python.
+-->
+- 🔭 I’m currently working on ACSTV
 - GitHub stats
 
 ![Thanh NT's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntthanhpy&show_icons=true&theme=algolia)
