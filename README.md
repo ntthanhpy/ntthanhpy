@@ -5,11 +5,11 @@
 - 🔭 I’m currently working on ACSTV
 - GitHub stats
 
-![Thanh NT's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntthanhpy&show_icons=true&theme=great-gatsby)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ntthanhpy&show_icons=true&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 - Top languages: 
    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 - Updating
 <!--
