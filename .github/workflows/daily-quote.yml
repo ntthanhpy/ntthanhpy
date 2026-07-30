@@ -1,0 +1,53 @@
+name: Update Daily Quote
+
+on:
+  schedule:
+    # Chạy lúc 07:30 mỗi ngày theo giờ Việt Nam.
+    # Tránh đúng đầu giờ để giảm nguy cơ workflow bị chậm.
+    - cron: "30 7 * * *"
+      timezone: "Asia/Ho_Chi_Minh"
+
+  # Cho phép chạy thử thủ công trong tab Actions.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-daily-quote
+  cancel-in-progress: true
+
+jobs:
+  update-quote:
+    name: Update README quote
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+
+      - name: Generate daily quote
+        run: python scripts/update_daily_quote.py
+
+      - name: Commit updated README
+        shell: bash
+        run: |
+          if git diff --quiet README.md; then
+            echo "README has no changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+          git commit -m "chore: update daily inspiration"
+          git push
