@@ -12,7 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-> Nội dung câu thánh thư sẽ được tự động cập nhật tại đây.
+### 📖 Câu thánh thư hôm nay
+
+> “Chớ mệt nhọc về sự làm lành.”
+>
+> — **Ga La Ti 6:9**
+
+<sub>🗓️ Cập nhật ngày 30/07/2026</sub>
+<!-- quote-id: scripture-003 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
