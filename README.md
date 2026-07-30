@@ -11,6 +11,10 @@
    
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
+<!-- DAILY_QUOTE:START -->
+> Nội dung câu thánh thư sẽ được tự động cập nhật tại đây.
+<!-- DAILY_QUOTE:END -->
+
 - Updating
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
