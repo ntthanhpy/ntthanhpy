@@ -2,43 +2,2556 @@
   {
     "id": "scripture-001",
     "type": "📖 Câu thánh thư hôm nay",
-    "text": "Ta làm được mọi sự nhờ Đấng ban thêm sức cho ta.",
-    "author": "Phi-líp 4:13",
+    "text": "Ánh sáng có thể xuất hiện ngay giữa nơi tối tăm nhất.",
+    "author": "Sáng Thế Ký 1:3",
     "url": ""
   },
   {
     "id": "scripture-002",
     "type": "📖 Câu thánh thư hôm nay",
-    "text": "Khi nào các ngươi phục vụ đồng bào mình, thì các ngươi chỉ phục vụ Thượng Đế của mình mà thôi.",
-    "author": "Mô Si A 2:17",
-    "url": ""
-  },
-  {
-    "id": "quote-001",
-    "type": "✨ Câu nói truyền cảm hứng",
-    "text": "Thành công không phải là điểm cuối, thất bại không phải là dấu chấm hết; lòng can đảm để tiếp tục mới là điều quan trọng.",
-    "author": "Winston Churchill",
-    "url": ""
-  },
-  {
-    "id": "quote-002",
-    "type": "✨ Câu nói truyền cảm hứng",
-    "text": "Cách duy nhất để làm nên công việc tuyệt vời là yêu điều bạn đang làm.",
-    "author": "Steve Jobs",
+    "text": "Một đời sống vâng lời có thể trở thành nguồn phước cho nhiều người.",
+    "author": "Sáng Thế Ký 12:2",
     "url": ""
   },
   {
     "id": "scripture-003",
     "type": "📖 Câu thánh thư hôm nay",
-    "text": "Chớ mệt nhọc về sự làm lành.",
+    "text": "Đúng lúc cần thiết, Thượng Đế có thể chuẩn bị một con đường.",
+    "author": "Sáng Thế Ký 22:14",
+    "url": ""
+  },
+  {
+    "id": "scripture-004",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Có những trận chiến ta thắng bằng sự bình tĩnh và tin cậy.",
+    "author": "Xuất Ê Díp Tô Ký 14:14",
+    "url": ""
+  },
+  {
+    "id": "scripture-005",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Tôn kính cha mẹ là nền tảng của một đời sống có trật tự.",
+    "author": "Xuất Ê Díp Tô Ký 20:12",
+    "url": ""
+  },
+  {
+    "id": "scripture-006",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy yêu mến Thượng Đế bằng cả tấm lòng, tâm hồn và sức lực.",
+    "author": "Phục Truyền Luật Lệ Ký 6:5",
+    "url": ""
+  },
+  {
+    "id": "scripture-007",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy mạnh mẽ vì bạn không phải bước đi một mình.",
+    "author": "Phục Truyền Luật Lệ Ký 31:6",
+    "url": ""
+  },
+  {
+    "id": "scripture-008",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Suy ngẫm lời Thượng Đế mỗi ngày giúp ta hành động khôn ngoan.",
+    "author": "Giô Suê 1:8",
+    "url": ""
+  },
+  {
+    "id": "scripture-009",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Lòng can đảm lớn lên khi ta nhớ rằng Thượng Đế ở cùng mình.",
+    "author": "Giô Suê 1:9",
+    "url": ""
+  },
+  {
+    "id": "scripture-010",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Mỗi ngày đều là một cơ hội để chọn điều mình sẽ phụng sự.",
+    "author": "Giô Suê 24:15",
+    "url": ""
+  },
+  {
+    "id": "scripture-011",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Lòng trung thành được thể hiện rõ nhất khi con đường trở nên khó khăn.",
+    "author": "Ru Tơ 1:16",
+    "url": ""
+  },
+  {
+    "id": "scripture-012",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Con người nhìn bề ngoài, nhưng Thượng Đế nhìn vào tấm lòng.",
+    "author": "1 Sa Mu Ên 16:7",
+    "url": ""
+  },
+  {
+    "id": "scripture-013",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Chiến thắng không chỉ đến từ sức mạnh, mà còn từ đức tin.",
+    "author": "1 Sa Mu Ên 17:47",
+    "url": ""
+  },
+  {
+    "id": "scripture-014",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Trong lúc bất an, hãy tìm một nơi nương náu thuộc linh.",
+    "author": "2 Sa Mu Ên 22:3",
+    "url": ""
+  },
+  {
+    "id": "scripture-015",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Đôi khi sự hướng dẫn đến trong một tiếng nói rất nhỏ nhẹ.",
+    "author": "1 Các Vua 19:12",
+    "url": ""
+  },
+  {
+    "id": "scripture-016",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Khi con người khiêm nhường và quay về điều thiện, sự chữa lành có thể bắt đầu.",
+    "author": "2 Sử Ký 7:14",
+    "url": ""
+  },
+  {
+    "id": "scripture-017",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Niềm vui trong Chúa có thể trở thành sức mạnh cho ngày mới.",
+    "author": "Nê Hê Mi 8:10",
+    "url": ""
+  },
+  {
+    "id": "scripture-018",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Có thể bạn được đặt vào hoàn cảnh này vì một mục đích quan trọng.",
+    "author": "Ê Xơ Tê 4:14",
+    "url": ""
+  },
+  {
+    "id": "scripture-019",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Ngay trong mất mát, lòng biết ơn vẫn có thể gìn giữ đức tin.",
+    "author": "Gióp 1:21",
+    "url": ""
+  },
+  {
+    "id": "scripture-020",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hy vọng vững bền khi ta biết Đấng Cứu Chuộc hằng sống.",
+    "author": "Gióp 19:25",
+    "url": ""
+  },
+  {
+    "id": "scripture-021",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Người kiên định trong điều tốt lành sẽ sinh trái đúng mùa.",
+    "author": "Thi Thiên 1:3",
+    "url": ""
+  },
+  {
+    "id": "scripture-022",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Thượng Đế có thể nâng đầu ta lên khi tinh thần đang nặng nề.",
+    "author": "Thi Thiên 3:3",
+    "url": ""
+  },
+  {
+    "id": "scripture-023",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Sự bình an thật giúp ta nghỉ ngơi ngay cả khi đời sống chưa hoàn hảo.",
+    "author": "Thi Thiên 4:8",
+    "url": ""
+  },
+  {
+    "id": "scripture-024",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Đức tin tạo nên một nền đá vững chắc giữa những biến động.",
+    "author": "Thi Thiên 18:2",
+    "url": ""
+  },
+  {
+    "id": "scripture-025",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Khi Thượng Đế dẫn dắt, ta không cần sống trong nỗi thiếu thốn.",
+    "author": "Thi Thiên 23:1",
+    "url": ""
+  },
+  {
+    "id": "scripture-026",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Ngay trong thung lũng tối tăm, ta vẫn có thể bước đi mà không sợ hãi.",
+    "author": "Thi Thiên 23:4",
+    "url": ""
+  },
+  {
+    "id": "scripture-027",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Ánh sáng và sự cứu rỗi làm giảm sức mạnh của nỗi sợ.",
+    "author": "Thi Thiên 27:1",
+    "url": ""
+  },
+  {
+    "id": "scripture-028",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Nỗi buồn có thể kéo dài một đêm, nhưng niềm vui vẫn có thể trở lại.",
+    "author": "Thi Thiên 30:5",
+    "url": ""
+  },
+  {
+    "id": "scripture-029",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy tự mình trải nghiệm sự tốt lành của Thượng Đế.",
+    "author": "Thi Thiên 34:8",
+    "url": ""
+  },
+  {
+    "id": "scripture-030",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy trao đường lối mình cho Thượng Đế và tiếp tục làm phần việc của mình.",
+    "author": "Thi Thiên 37:5",
+    "url": ""
+  },
+  {
+    "id": "scripture-031",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Trong hoạn nạn, Thượng Đế là nơi nương náu luôn sẵn có.",
+    "author": "Thi Thiên 46:1",
+    "url": ""
+  },
+  {
+    "id": "scripture-032",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy dừng lại đủ lâu để nhận biết quyền năng của Thượng Đế.",
+    "author": "Thi Thiên 46:10",
+    "url": ""
+  },
+  {
+    "id": "scripture-033",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Một tấm lòng trong sạch có thể bắt đầu từ lời cầu xin chân thành.",
+    "author": "Thi Thiên 51:10",
+    "url": ""
+  },
+  {
+    "id": "scripture-034",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Đừng mang gánh nặng một mình; hãy trao nó cho Thượng Đế.",
+    "author": "Thi Thiên 55:22",
+    "url": ""
+  },
+  {
+    "id": "scripture-035",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Biết quý từng ngày giúp ta sống khôn ngoan hơn.",
+    "author": "Thi Thiên 90:12",
+    "url": ""
+  },
+  {
+    "id": "scripture-036",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Đức tin biến Thượng Đế thành nơi trú ẩn trong tâm hồn.",
+    "author": "Thi Thiên 91:2",
+    "url": ""
+  },
+  {
+    "id": "scripture-037",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Lòng biết ơn mở cánh cửa dẫn vào sự thờ phượng.",
+    "author": "Thi Thiên 100:4",
+    "url": ""
+  },
+  {
+    "id": "scripture-038",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Lời Thượng Đế có thể soi sáng bước kế tiếp, dù chưa cho thấy toàn bộ con đường.",
+    "author": "Thi Thiên 119:105",
+    "url": ""
+  },
+  {
+    "id": "scripture-039",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Sự giúp đỡ thật đến từ Đấng dựng nên trời và đất.",
+    "author": "Thi Thiên 121:1-2",
+    "url": ""
+  },
+  {
+    "id": "scripture-040",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Bạn được tạo dựng cách kỳ diệu và có giá trị.",
+    "author": "Thi Thiên 139:14",
+    "url": ""
+  },
+  {
+    "id": "scripture-041",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy tin cậy Thượng Đế hơn sự hiểu biết giới hạn của riêng mình.",
+    "author": "Châm Ngôn 3:5-6",
+    "url": ""
+  },
+  {
+    "id": "scripture-042",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy bảo vệ tấm lòng vì từ đó phát sinh hướng đi của cuộc đời.",
+    "author": "Châm Ngôn 4:23",
+    "url": ""
+  },
+  {
+    "id": "scripture-043",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Tình yêu có khả năng che phủ và chữa lành nhiều tổn thương.",
+    "author": "Châm Ngôn 10:12",
+    "url": ""
+  },
+  {
+    "id": "scripture-044",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Một lời đáp dịu dàng có thể làm nguôi cơn giận.",
+    "author": "Châm Ngôn 15:1",
+    "url": ""
+  },
+  {
+    "id": "scripture-045",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Khi dâng công việc cho Thượng Đế, suy nghĩ của ta trở nên ngay thẳng hơn.",
+    "author": "Châm Ngôn 16:3",
+    "url": ""
+  },
+  {
+    "id": "scripture-046",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Ta có thể lập kế hoạch, nhưng Thượng Đế vẫn có thể điều chỉnh từng bước.",
+    "author": "Châm Ngôn 16:9",
+    "url": ""
+  },
+  {
+    "id": "scripture-047",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Người bạn thật vẫn yêu thương trong những thời điểm khó khăn.",
+    "author": "Châm Ngôn 17:17",
+    "url": ""
+  },
+  {
+    "id": "scripture-048",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Danh của Chúa là nơi an toàn cho người tìm đến.",
+    "author": "Châm Ngôn 18:10",
+    "url": ""
+  },
+  {
+    "id": "scripture-049",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Nhiều kế hoạch có thể thay đổi, nhưng mục đích tốt lành vẫn đứng vững.",
+    "author": "Châm Ngôn 19:21",
+    "url": ""
+  },
+  {
+    "id": "scripture-050",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Con người trưởng thành hơn khi biết học hỏi và mài giũa lẫn nhau.",
+    "author": "Châm Ngôn 27:17",
+    "url": ""
+  },
+  {
+    "id": "scripture-051",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Mọi điều đều có thời điểm thích hợp của nó.",
+    "author": "Truyền Đạo 3:1",
+    "url": ""
+  },
+  {
+    "id": "scripture-052",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hai người đồng lòng có thể nâng đỡ nhau tốt hơn một người đơn độc.",
+    "author": "Truyền Đạo 4:9",
+    "url": ""
+  },
+  {
+    "id": "scripture-053",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Đấng Cứu Rỗi mang đến sự bình an vượt trên quyền lực của thế gian.",
+    "author": "Ê Sai 9:6",
+    "url": ""
+  },
+  {
+    "id": "scripture-054",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Một tâm trí hướng về Thượng Đế có thể được gìn giữ trong bình an.",
+    "author": "Ê Sai 26:3",
+    "url": ""
+  },
+  {
+    "id": "scripture-055",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Người trông cậy Chúa sẽ nhận được sức mới để tiếp tục.",
+    "author": "Ê Sai 40:31",
+    "url": ""
+  },
+  {
+    "id": "scripture-056",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Đừng sợ, vì Thượng Đế có thể thêm sức và nâng đỡ bạn.",
+    "author": "Ê Sai 41:10",
+    "url": ""
+  },
+  {
+    "id": "scripture-057",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Qua nước sâu hay lửa nóng, bạn vẫn không bị bỏ rơi.",
+    "author": "Ê Sai 43:2",
+    "url": ""
+  },
+  {
+    "id": "scripture-058",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Qua sự hy sinh của Đấng Cứu Rỗi, sự chữa lành trở nên khả thi.",
+    "author": "Ê Sai 53:5",
+    "url": ""
+  },
+  {
+    "id": "scripture-059",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Đường lối của Thượng Đế cao hơn tầm nhìn hiện tại của chúng ta.",
+    "author": "Ê Sai 55:8-9",
+    "url": ""
+  },
+  {
+    "id": "scripture-060",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Thượng Đế có thể hướng dẫn và làm mạnh mẽ tâm hồn khô hạn.",
+    "author": "Ê Sai 58:11",
+    "url": ""
+  },
+  {
+    "id": "scripture-061",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Cuộc đời bạn có ý nghĩa trước cả khi bạn hiểu hết chính mình.",
+    "author": "Giê Rê Mi 1:5",
+    "url": ""
+  },
+  {
+    "id": "scripture-062",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Phước lành đến với người đặt niềm tin nơi Chúa.",
+    "author": "Giê Rê Mi 17:7",
+    "url": ""
+  },
+  {
+    "id": "scripture-063",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Thượng Đế có thể chuẩn bị một tương lai đầy hy vọng.",
+    "author": "Giê Rê Mi 29:11",
+    "url": ""
+  },
+  {
+    "id": "scripture-064",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Tình yêu bền vững của Thượng Đế không dễ bị lay chuyển.",
+    "author": "Giê Rê Mi 31:3",
+    "url": ""
+  },
+  {
+    "id": "scripture-065",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Lòng thương xót được làm mới mỗi buổi sáng.",
+    "author": "Ca Thương 3:22-23",
+    "url": ""
+  },
+  {
+    "id": "scripture-066",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Thượng Đế có thể ban một tấm lòng mới và một tinh thần mới.",
+    "author": "Ê Xê Chi Ên 36:26",
+    "url": ""
+  },
+  {
+    "id": "scripture-067",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Đức tin chân thật vẫn đứng vững ngay cả khi kết quả chưa như mong muốn.",
+    "author": "Đa Ni Ên 3:17-18",
+    "url": ""
+  },
+  {
+    "id": "scripture-068",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy sống công bình, yêu sự thương xót và bước đi khiêm nhường.",
+    "author": "Mi Chê 6:8",
+    "url": ""
+  },
+  {
+    "id": "scripture-069",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Trong ngày hoạn nạn, Chúa biết những ai tìm nơi nương náu nơi Ngài.",
+    "author": "Na Hum 1:7",
+    "url": ""
+  },
+  {
+    "id": "scripture-070",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Người xây dựng hòa bình đang làm một công việc thiêng liêng.",
+    "author": "Ma Thi Ơ 5:9",
+    "url": ""
+  },
+  {
+    "id": "scripture-071",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Bạn được kêu gọi để mang ánh sáng đến nơi mình sống.",
+    "author": "Ma Thi Ơ 5:14",
+    "url": ""
+  },
+  {
+    "id": "scripture-072",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Điều bạn trân quý sẽ dần định hình tấm lòng bạn.",
+    "author": "Ma Thi Ơ 6:21",
+    "url": ""
+  },
+  {
+    "id": "scripture-073",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hôm nay đã có đủ việc của hôm nay; đừng để ngày mai cướp mất bình an.",
+    "author": "Ma Thi Ơ 6:34",
+    "url": ""
+  },
+  {
+    "id": "scripture-074",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy tiếp tục xin, tìm kiếm và gõ cửa với lòng chân thành.",
+    "author": "Ma Thi Ơ 7:7",
+    "url": ""
+  },
+  {
+    "id": "scripture-075",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Đấng Cứu Rỗi mời người mệt mỏi đến để được yên nghỉ.",
+    "author": "Ma Thi Ơ 11:28",
+    "url": ""
+  },
+  {
+    "id": "scripture-076",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Đức tin nhỏ nhưng chân thành vẫn có thể tạo nên thay đổi lớn.",
+    "author": "Ma Thi Ơ 17:20",
+    "url": ""
+  },
+  {
+    "id": "scripture-077",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Yêu Thượng Đế và yêu người khác là trọng tâm của một đời sống tốt lành.",
+    "author": "Ma Thi Ơ 22:37-39",
+    "url": ""
+  },
+  {
+    "id": "scripture-078",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Điều ta làm cho người nhỏ bé cũng là điều ta dâng lên Chúa.",
+    "author": "Ma Thi Ơ 25:40",
+    "url": ""
+  },
+  {
+    "id": "scripture-079",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Bạn không bị bỏ lại một mình trên hành trình môn đồ.",
+    "author": "Ma Thi Ơ 28:20",
+    "url": ""
+  },
+  {
+    "id": "scripture-080",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Đức tin mở ra những khả năng mà nỗi sợ không thể nhìn thấy.",
+    "author": "Mác 9:23",
+    "url": ""
+  },
+  {
+    "id": "scripture-081",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Điều con người không thể làm vẫn có thể nằm trong quyền năng của Thượng Đế.",
+    "author": "Mác 10:27",
+    "url": ""
+  },
+  {
+    "id": "scripture-082",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Không lời hứa tốt lành nào của Thượng Đế là bất khả thi.",
+    "author": "Lu Ca 1:37",
+    "url": ""
+  },
+  {
+    "id": "scripture-083",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy đối xử với người khác theo cách bạn mong được đối xử.",
+    "author": "Lu Ca 6:31",
+    "url": ""
+  },
+  {
+    "id": "scripture-084",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Kho báu của bạn cho thấy nơi tấm lòng bạn đang hướng đến.",
+    "author": "Lu Ca 12:34",
+    "url": ""
+  },
+  {
+    "id": "scripture-085",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Tình yêu của Thượng Đế được bày tỏ qua món quà là Đấng Cứu Rỗi.",
+    "author": "Giăng 3:16",
+    "url": ""
+  },
+  {
+    "id": "scripture-086",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Người đi theo Đấng Christ không cần bước mãi trong bóng tối.",
+    "author": "Giăng 8:12",
+    "url": ""
+  },
+  {
+    "id": "scripture-087",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Đấng Cứu Rỗi muốn ban một đời sống đầy đủ và có ý nghĩa.",
+    "author": "Giăng 10:10",
+    "url": ""
+  },
+  {
+    "id": "scripture-088",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Dấu hiệu rõ ràng của người môn đồ là tình yêu dành cho nhau.",
+    "author": "Giăng 13:34",
+    "url": ""
+  },
+  {
+    "id": "scripture-089",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Đừng để lòng bối rối; hãy tiếp tục tin cậy.",
+    "author": "Giăng 14:1",
+    "url": ""
+  },
+  {
+    "id": "scripture-090",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Đấng Christ là con đường dẫn đến lẽ thật và sự sống.",
+    "author": "Giăng 14:6",
+    "url": ""
+  },
+  {
+    "id": "scripture-091",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Sự bình an của Đấng Christ khác với sự yên ổn tạm thời của thế gian.",
+    "author": "Giăng 14:27",
+    "url": ""
+  },
+  {
+    "id": "scripture-092",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Khi ở gần Đấng Christ, đời sống ta có thể sinh nhiều trái tốt.",
+    "author": "Giăng 15:5",
+    "url": ""
+  },
+  {
+    "id": "scripture-093",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Tình yêu lớn lao được chứng minh bằng sự hy sinh.",
+    "author": "Giăng 15:13",
+    "url": ""
+  },
+  {
+    "id": "scripture-094",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Ban cho có thể đem lại niềm vui sâu sắc hơn nhận lãnh.",
+    "author": "Công Vụ Các Sứ Đồ 20:35",
+    "url": ""
+  },
+  {
+    "id": "scripture-095",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Thử thách có thể rèn nên sự kiên trì, phẩm chất và hy vọng.",
+    "author": "Rô Ma 5:3-4",
+    "url": ""
+  },
+  {
+    "id": "scripture-096",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Thượng Đế có thể dùng cả những điều khó hiểu để tạo nên điều tốt.",
+    "author": "Rô Ma 8:28",
+    "url": ""
+  },
+  {
+    "id": "scripture-097",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Khi Thượng Đế ở cùng ta, nỗi chống đối không còn quyền lực cuối cùng.",
+    "author": "Rô Ma 8:31",
+    "url": ""
+  },
+  {
+    "id": "scripture-098",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Sự đổi mới trong tâm trí sẽ dẫn đến một đời sống được biến đổi.",
+    "author": "Rô Ma 12:2",
+    "url": ""
+  },
+  {
+    "id": "scripture-099",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy vui trong hy vọng, kiên nhẫn trong hoạn nạn và bền lòng cầu nguyện.",
+    "author": "Rô Ma 12:12",
+    "url": ""
+  },
+  {
+    "id": "scripture-100",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Trong cám dỗ, luôn có một lối thoát để ta chọn điều đúng.",
+    "author": "1 Cô Rinh Tô 10:13",
+    "url": ""
+  },
+  {
+    "id": "scripture-101",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Tình yêu thật biết kiên nhẫn và nhân từ.",
+    "author": "1 Cô Rinh Tô 13:4",
+    "url": ""
+  },
+  {
+    "id": "scripture-102",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Đức tin, hy vọng và tình yêu đều quý giá, nhưng tình yêu là lớn nhất.",
+    "author": "1 Cô Rinh Tô 13:13",
+    "url": ""
+  },
+  {
+    "id": "scripture-103",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy để mọi việc mình làm được dẫn dắt bởi tình yêu.",
+    "author": "1 Cô Rinh Tô 16:14",
+    "url": ""
+  },
+  {
+    "id": "scripture-104",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Dù bên ngoài mệt mỏi, con người bên trong vẫn có thể được đổi mới mỗi ngày.",
+    "author": "2 Cô Rinh Tô 4:16",
+    "url": ""
+  },
+  {
+    "id": "scripture-105",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Có lúc ta phải bước đi bằng đức tin thay vì bằng điều mắt thấy.",
+    "author": "2 Cô Rinh Tô 5:7",
+    "url": ""
+  },
+  {
+    "id": "scripture-106",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Ân điển có thể đủ cho ta ngay trong sự yếu đuối.",
+    "author": "2 Cô Rinh Tô 12:9",
+    "url": ""
+  },
+  {
+    "id": "scripture-107",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Tình yêu, niềm vui, bình an và tự chủ là những trái của đời sống thuộc linh.",
+    "author": "Ga La Ti 5:22-23",
+    "url": ""
+  },
+  {
+    "id": "scripture-108",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Đừng mệt mỏi khi làm điều tốt; kết quả sẽ đến đúng mùa.",
     "author": "Ga La Ti 6:9",
     "url": ""
   },
   {
-    "id": "quote-003",
-    "type": "✨ Câu nói truyền cảm hứng",
-    "text": "Điều quan trọng không phải là bạn đi chậm thế nào, miễn là bạn không dừng lại.",
-    "author": "Khổng Tử",
+    "id": "scripture-109",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Bạn được tạo dựng để thực hiện những việc tốt lành có ý nghĩa.",
+    "author": "Ê Phê Sô 2:10",
+    "url": ""
+  },
+  {
+    "id": "scripture-110",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy tử tế, cảm thông và biết tha thứ.",
+    "author": "Ê Phê Sô 4:32",
+    "url": ""
+  },
+  {
+    "id": "scripture-111",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy trang bị đời sống thuộc linh để đứng vững trước điều xấu.",
+    "author": "Ê Phê Sô 6:11",
+    "url": ""
+  },
+  {
+    "id": "scripture-112",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Thượng Đế sẽ tiếp tục hoàn thành công việc tốt lành Ngài đã bắt đầu nơi bạn.",
+    "author": "Phi Líp 1:6",
+    "url": ""
+  },
+  {
+    "id": "scripture-113",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Cầu nguyện với lòng biết ơn có thể đưa tâm hồn đến sự bình an.",
+    "author": "Phi Líp 4:6-7",
+    "url": ""
+  },
+  {
+    "id": "scripture-114",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy nuôi dưỡng tâm trí bằng những điều chân thật, tốt đẹp và đáng quý.",
+    "author": "Phi Líp 4:8",
+    "url": ""
+  },
+  {
+    "id": "scripture-115",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Bạn có thể làm điều cần làm nhờ sức mạnh Đấng Christ ban cho.",
+    "author": "Phi Líp 4:13",
+    "url": ""
+  },
+  {
+    "id": "scripture-116",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy làm việc hết lòng như đang dâng công việc ấy lên Chúa.",
+    "author": "Cô Lô Se 3:23",
+    "url": ""
+  },
+  {
+    "id": "scripture-117",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy vui mừng, cầu nguyện và biết ơn trong mọi hoàn cảnh.",
+    "author": "1 Tê Sa Lô Ni Ca 5:16-18",
+    "url": ""
+  },
+  {
+    "id": "scripture-118",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Thượng Đế ban tinh thần mạnh mẽ, yêu thương và tự chủ, không phải sợ hãi.",
+    "author": "2 Ti Mô Thê 1:7",
+    "url": ""
+  },
+  {
+    "id": "scripture-119",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Đức tin giúp ta nắm giữ điều hy vọng ngay khi chưa nhìn thấy.",
+    "author": "Hê Bơ Rơ 11:1",
+    "url": ""
+  },
+  {
+    "id": "scripture-120",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy kiên trì chạy cuộc đua của mình và bỏ xuống những gánh nặng không cần thiết.",
+    "author": "Hê Bơ Rơ 12:1",
+    "url": ""
+  },
+  {
+    "id": "scripture-121",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Khi thiếu khôn ngoan, hãy chân thành cầu xin Thượng Đế.",
+    "author": "Gia Cơ 1:5",
+    "url": ""
+  },
+  {
+    "id": "scripture-122",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Đức tin trưởng thành khi lời tốt lành được biến thành hành động.",
+    "author": "Gia Cơ 1:22",
+    "url": ""
+  },
+  {
+    "id": "scripture-123",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy trao mọi lo âu cho Thượng Đế vì Ngài quan tâm đến bạn.",
+    "author": "1 Phi E Rơ 5:7",
+    "url": ""
+  },
+  {
+    "id": "scripture-124",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Tình yêu trọn vẹn có thể đẩy lui nỗi sợ.",
+    "author": "1 Giăng 4:18",
+    "url": ""
+  },
+  {
+    "id": "scripture-125",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Một ngày sẽ đến khi nước mắt, đau buồn và sự chết không còn nữa.",
+    "author": "Khải Huyền 21:4",
+    "url": ""
+  },
+  {
+    "id": "scripture-126",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Khi Thượng Đế truyền lệnh, Ngài cũng có thể chuẩn bị con đường để thực hiện.",
+    "author": "1 Nê Phi 3:7",
+    "url": ""
+  },
+  {
+    "id": "scripture-127",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Con người hiện hữu để có được niềm vui.",
+    "author": "2 Nê Phi 2:25",
+    "url": ""
+  },
+  {
+    "id": "scripture-128",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy nói, vui mừng và làm chứng về Đấng Christ.",
+    "author": "2 Nê Phi 25:26",
+    "url": ""
+  },
+  {
+    "id": "scripture-129",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Khi phục vụ người khác, ta cũng đang phục vụ Thượng Đế.",
+    "author": "Mô Si A 2:17",
+    "url": ""
+  },
+  {
+    "id": "scripture-130",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy làm mọi việc trong sự khôn ngoan và trật tự, không chạy nhanh hơn sức mình.",
+    "author": "Mô Si A 4:27",
+    "url": ""
+  },
+  {
+    "id": "scripture-131",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Đức tin không đòi hỏi phải biết chắc mọi điều trước khi hành động.",
+    "author": "An Ma 32:21",
+    "url": ""
+  },
+  {
+    "id": "scripture-132",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Người đặt lòng tin nơi Thượng Đế sẽ được nâng đỡ trong thử thách.",
+    "author": "An Ma 36:3",
+    "url": ""
+  },
+  {
+    "id": "scripture-133",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Những điều nhỏ bé và đơn giản có thể đem lại kết quả lớn lao.",
+    "author": "An Ma 37:6",
+    "url": ""
+  },
+  {
+    "id": "scripture-134",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy xây nền móng đời mình trên Đấng Christ để bão tố không thể quật ngã.",
+    "author": "Hê La Man 5:12",
+    "url": ""
+  },
+  {
+    "id": "scripture-135",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Tinh thần tranh chấp không đến từ Đấng Christ.",
+    "author": "3 Nê Phi 11:29",
+    "url": ""
+  },
+  {
+    "id": "scripture-136",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy để ánh sáng của mình soi trước mặt người khác qua việc tốt.",
+    "author": "3 Nê Phi 12:16",
+    "url": ""
+  },
+  {
+    "id": "scripture-137",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy tìm kiếm nước Thượng Đế trước, rồi những điều cần thiết sẽ được thêm cho.",
+    "author": "3 Nê Phi 13:33",
+    "url": ""
+  },
+  {
+    "id": "scripture-138",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy làm việc cho sự cứu rỗi của mình với lòng tôn kính và kiên trì.",
+    "author": "Mặc Môn 9:27",
+    "url": ""
+  },
+  {
+    "id": "scripture-139",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Lời chứng thường đến sau khi đức tin đã được thử thách.",
+    "author": "Ê The 12:6",
+    "url": ""
+  },
+  {
+    "id": "scripture-140",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Sự yếu đuối có thể trở thành sức mạnh khi ta khiêm nhường.",
+    "author": "Ê The 12:27",
+    "url": ""
+  },
+  {
+    "id": "scripture-141",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Lòng bác ái biết nhịn nhục, nhân từ và không dễ bị kích động.",
+    "author": "Mô Rô Ni 7:45",
+    "url": ""
+  },
+  {
+    "id": "scripture-142",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy đến cùng Đấng Christ và để ân điển Ngài hoàn thiện bạn.",
+    "author": "Mô Rô Ni 10:32",
+    "url": ""
+  },
+  {
+    "id": "scripture-143",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy hướng mọi ý nghĩ về Đấng Christ; đừng nghi ngờ hay sợ hãi.",
+    "author": "Giáo Lý và Giao Ước 6:36",
+    "url": ""
+  },
+  {
+    "id": "scripture-144",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Cầu nguyện luôn luôn giúp ta đứng vững trước điều xấu.",
+    "author": "Giáo Lý và Giao Ước 10:5",
+    "url": ""
+  },
+  {
+    "id": "scripture-145",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Giá trị của mỗi linh hồn đều lớn lao trước mắt Thượng Đế.",
+    "author": "Giáo Lý và Giao Ước 18:10",
+    "url": ""
+  },
+  {
+    "id": "scripture-146",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy học nơi Đấng Christ để nhận được sự bình an.",
+    "author": "Giáo Lý và Giao Ước 19:23",
+    "url": ""
+  },
+  {
+    "id": "scripture-147",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy bám chặt các giao ước và vui mừng trong đức tin.",
+    "author": "Giáo Lý và Giao Ước 25:13",
+    "url": ""
+  },
+  {
+    "id": "scripture-148",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Khi được chuẩn bị, ta sẽ bớt sợ hãi.",
+    "author": "Giáo Lý và Giao Ước 38:30",
+    "url": ""
+  },
+  {
+    "id": "scripture-149",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Điều thuộc về Thượng Đế đem lại ánh sáng và ngày càng sáng hơn.",
+    "author": "Giáo Lý và Giao Ước 50:24",
+    "url": ""
+  },
+  {
+    "id": "scripture-150",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy tích cực tham gia vào những việc tốt bằng ý chí tự nguyện.",
+    "author": "Giáo Lý và Giao Ước 58:27",
+    "url": ""
+  },
+  {
+    "id": "scripture-151",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Đừng mệt mỏi khi làm điều tốt; bạn đang đặt nền móng cho một công việc lớn.",
+    "author": "Giáo Lý và Giao Ước 64:33",
+    "url": ""
+  },
+  {
+    "id": "scripture-152",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Người nhận mọi điều với lòng biết ơn sẽ được ban phước.",
+    "author": "Giáo Lý và Giao Ước 78:19",
+    "url": ""
+  },
+  {
+    "id": "scripture-153",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Hãy tìm kiếm sự học hỏi bằng cả nghiên cứu lẫn đức tin.",
+    "author": "Giáo Lý và Giao Ước 88:118",
+    "url": ""
+  },
+  {
+    "id": "scripture-154",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Nghịch cảnh chỉ kéo dài trong một thời gian; hãy giữ lòng trung tín.",
+    "author": "Giáo Lý và Giao Ước 121:7-8",
+    "url": ""
+  },
+  {
+    "id": "inspiration-001",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay có thể mở ra một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-002",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay có thể mở ra một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-003",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay có thể mở ra một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-004",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay có thể mở ra một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-005",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay có thể mở ra một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-006",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay đang âm thầm xây nên một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-007",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay đang âm thầm xây nên một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-008",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay đang âm thầm xây nên một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-009",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay đang âm thầm xây nên một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-010",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay đang âm thầm xây nên một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-011",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay sẽ góp phần tạo nên một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-012",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay sẽ góp phần tạo nên một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-013",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay sẽ góp phần tạo nên một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-014",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay sẽ góp phần tạo nên một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-015",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay sẽ góp phần tạo nên một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-016",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay có thể dẫn bạn đến một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-017",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay có thể dẫn bạn đến một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-018",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay có thể dẫn bạn đến một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-019",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay có thể dẫn bạn đến một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-020",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay có thể dẫn bạn đến một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-021",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay là nền móng của một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-022",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay là nền móng của một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-023",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay là nền móng của một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-024",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay là nền móng của một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-025",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một bước nhỏ hôm nay là nền móng của một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-026",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay có thể mở ra một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-027",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay có thể mở ra một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-028",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay có thể mở ra một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-029",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay có thể mở ra một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-030",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay có thể mở ra một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-031",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay đang âm thầm xây nên một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-032",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay đang âm thầm xây nên một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-033",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay đang âm thầm xây nên một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-034",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay đang âm thầm xây nên một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-035",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay đang âm thầm xây nên một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-036",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay sẽ góp phần tạo nên một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-037",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay sẽ góp phần tạo nên một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-038",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay sẽ góp phần tạo nên một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-039",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay sẽ góp phần tạo nên một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-040",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay sẽ góp phần tạo nên một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-041",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay có thể dẫn bạn đến một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-042",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay có thể dẫn bạn đến một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-043",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay có thể dẫn bạn đến một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-044",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay có thể dẫn bạn đến một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-045",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay có thể dẫn bạn đến một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-046",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay là nền móng của một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-047",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay là nền móng của một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-048",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay là nền móng của một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-049",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay là nền móng của một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-050",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một quyết định đúng hôm nay là nền móng của một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-051",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay có thể mở ra một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-052",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay có thể mở ra một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-053",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay có thể mở ra một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-054",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay có thể mở ra một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-055",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay có thể mở ra một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-056",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay đang âm thầm xây nên một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-057",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay đang âm thầm xây nên một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-058",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay đang âm thầm xây nên một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-059",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay đang âm thầm xây nên một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-060",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay đang âm thầm xây nên một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-061",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay sẽ góp phần tạo nên một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-062",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay sẽ góp phần tạo nên một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-063",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay sẽ góp phần tạo nên một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-064",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay sẽ góp phần tạo nên một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-065",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay sẽ góp phần tạo nên một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-066",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay có thể dẫn bạn đến một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-067",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay có thể dẫn bạn đến một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-068",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay có thể dẫn bạn đến một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-069",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay có thể dẫn bạn đến một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-070",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay có thể dẫn bạn đến một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-071",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay là nền móng của một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-072",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay là nền móng của một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-073",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay là nền móng của một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-074",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay là nền móng của một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-075",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một giờ tập trung hôm nay là nền móng của một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-076",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay có thể mở ra một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-077",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay có thể mở ra một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-078",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay có thể mở ra một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-079",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay có thể mở ra một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-080",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay có thể mở ra một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-081",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay đang âm thầm xây nên một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-082",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay đang âm thầm xây nên một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-083",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay đang âm thầm xây nên một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-084",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay đang âm thầm xây nên một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-085",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay đang âm thầm xây nên một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-086",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay sẽ góp phần tạo nên một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-087",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay sẽ góp phần tạo nên một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-088",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay sẽ góp phần tạo nên một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-089",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay sẽ góp phần tạo nên một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-090",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay sẽ góp phần tạo nên một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-091",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay có thể dẫn bạn đến một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-092",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay có thể dẫn bạn đến một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-093",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay có thể dẫn bạn đến một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-094",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay có thể dẫn bạn đến một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-095",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay có thể dẫn bạn đến một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-096",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay là nền móng của một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-097",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay là nền móng của một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-098",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay là nền móng của một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-099",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay là nền móng của một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-100",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lời tử tế hôm nay là nền móng của một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-101",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay có thể mở ra một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-102",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay có thể mở ra một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-103",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay có thể mở ra một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-104",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay có thể mở ra một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-105",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay có thể mở ra một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-106",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay đang âm thầm xây nên một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-107",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay đang âm thầm xây nên một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-108",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay đang âm thầm xây nên một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-109",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay đang âm thầm xây nên một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-110",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay đang âm thầm xây nên một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-111",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay sẽ góp phần tạo nên một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-112",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay sẽ góp phần tạo nên một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-113",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay sẽ góp phần tạo nên một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-114",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay sẽ góp phần tạo nên một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-115",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay sẽ góp phần tạo nên một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-116",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay có thể dẫn bạn đến một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-117",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay có thể dẫn bạn đến một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-118",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay có thể dẫn bạn đến một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-119",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay có thể dẫn bạn đến một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-120",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay có thể dẫn bạn đến một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-121",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay là nền móng của một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-122",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay là nền móng của một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-123",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay là nền móng của một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-124",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay là nền móng của một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-125",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần đứng dậy hôm nay là nền móng của một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-126",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay có thể mở ra một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-127",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay có thể mở ra một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-128",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay có thể mở ra một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-129",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay có thể mở ra một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-130",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay có thể mở ra một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-131",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay đang âm thầm xây nên một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-132",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay đang âm thầm xây nên một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-133",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay đang âm thầm xây nên một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-134",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay đang âm thầm xây nên một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-135",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay đang âm thầm xây nên một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-136",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay sẽ góp phần tạo nên một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-137",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay sẽ góp phần tạo nên một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-138",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay sẽ góp phần tạo nên một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-139",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay sẽ góp phần tạo nên một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-140",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay sẽ góp phần tạo nên một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-141",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay có thể dẫn bạn đến một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-142",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay có thể dẫn bạn đến một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-143",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay có thể dẫn bạn đến một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-144",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay có thể dẫn bạn đến một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-145",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay có thể dẫn bạn đến một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-146",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay là nền móng của một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-147",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay là nền móng của một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-148",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay là nền móng của một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-149",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay là nền móng của một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-150",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lựa chọn có kỷ luật hôm nay là nền móng của một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-151",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay có thể mở ra một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-152",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay có thể mở ra một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-153",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay có thể mở ra một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-154",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay có thể mở ra một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-155",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay có thể mở ra một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-156",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay đang âm thầm xây nên một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-157",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay đang âm thầm xây nên một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-158",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay đang âm thầm xây nên một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-159",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay đang âm thầm xây nên một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-160",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay đang âm thầm xây nên một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-161",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay sẽ góp phần tạo nên một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-162",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay sẽ góp phần tạo nên một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-163",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay sẽ góp phần tạo nên một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-164",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay sẽ góp phần tạo nên một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-165",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay sẽ góp phần tạo nên một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-166",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay có thể dẫn bạn đến một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-167",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay có thể dẫn bạn đến một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-168",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay có thể dẫn bạn đến một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-169",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay có thể dẫn bạn đến một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-170",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay có thể dẫn bạn đến một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-171",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay là nền móng của một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-172",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay là nền móng của một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-173",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay là nền móng của một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-174",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay là nền móng của một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-175",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một phút biết ơn hôm nay là nền móng của một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-176",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay có thể mở ra một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-177",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay có thể mở ra một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-178",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay có thể mở ra một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-179",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay có thể mở ra một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-180",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay có thể mở ra một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-181",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay đang âm thầm xây nên một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-182",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay đang âm thầm xây nên một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-183",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay đang âm thầm xây nên một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-184",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay đang âm thầm xây nên một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-185",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay đang âm thầm xây nên một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-186",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay sẽ góp phần tạo nên một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-187",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay sẽ góp phần tạo nên một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-188",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay sẽ góp phần tạo nên một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-189",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay sẽ góp phần tạo nên một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-190",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay sẽ góp phần tạo nên một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-191",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay có thể dẫn bạn đến một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-192",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay có thể dẫn bạn đến một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-193",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay có thể dẫn bạn đến một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-194",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay có thể dẫn bạn đến một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-195",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay có thể dẫn bạn đến một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-196",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay là nền móng của một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-197",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay là nền móng của một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-198",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay là nền móng của một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-199",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay là nền móng của một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-200",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một hành động can đảm hôm nay là nền móng của một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-201",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần lắng nghe thật lòng hôm nay có thể mở ra một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-202",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần lắng nghe thật lòng hôm nay có thể mở ra một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-203",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần lắng nghe thật lòng hôm nay có thể mở ra một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-204",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần lắng nghe thật lòng hôm nay có thể mở ra một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-205",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần lắng nghe thật lòng hôm nay có thể mở ra một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-206",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần lắng nghe thật lòng hôm nay đang âm thầm xây nên một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-207",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần lắng nghe thật lòng hôm nay đang âm thầm xây nên một phiên bản trưởng thành hơn của chính mình.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-208",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần lắng nghe thật lòng hôm nay đang âm thầm xây nên một con đường mà hôm qua bạn chưa nhìn thấy.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-209",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần lắng nghe thật lòng hôm nay đang âm thầm xây nên một kết quả lớn hơn điều bạn đang tưởng tượng.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-210",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần lắng nghe thật lòng hôm nay đang âm thầm xây nên một cuộc đời có nhiều ý nghĩa hơn.",
+    "author": "Daily Inspiration",
+    "url": ""
+  },
+  {
+    "id": "inspiration-211",
+    "type": "✨ Câu truyền cảm hứng",
+    "text": "Một lần lắng nghe thật lòng hôm nay sẽ góp phần tạo nên một ngày mai tốt đẹp hơn.",
+    "author": "Daily Inspiration",
     "url": ""
   }
 ]
