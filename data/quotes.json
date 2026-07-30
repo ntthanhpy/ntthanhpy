@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scripture-001",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Ta làm được mọi sự nhờ Đấng ban thêm sức cho ta.",
+    "author": "Phi-líp 4:13",
+    "url": ""
+  },
+  {
+    "id": "scripture-002",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Khi nào các ngươi phục vụ đồng bào mình, thì các ngươi chỉ phục vụ Thượng Đế của mình mà thôi.",
+    "author": "Mô Si A 2:17",
+    "url": ""
+  },
+  {
+    "id": "quote-001",
+    "type": "✨ Câu nói truyền cảm hứng",
+    "text": "Thành công không phải là điểm cuối, thất bại không phải là dấu chấm hết; lòng can đảm để tiếp tục mới là điều quan trọng.",
+    "author": "Winston Churchill",
+    "url": ""
+  },
+  {
+    "id": "quote-002",
+    "type": "✨ Câu nói truyền cảm hứng",
+    "text": "Cách duy nhất để làm nên công việc tuyệt vời là yêu điều bạn đang làm.",
+    "author": "Steve Jobs",
+    "url": ""
+  },
+  {
+    "id": "scripture-003",
+    "type": "📖 Câu thánh thư hôm nay",
+    "text": "Chớ mệt nhọc về sự làm lành.",
+    "author": "Ga La Ti 6:9",
+    "url": ""
+  },
+  {
+    "id": "quote-003",
+    "type": "✨ Câu nói truyền cảm hứng",
+    "text": "Điều quan trọng không phải là bạn đi chậm thế nào, miễn là bạn không dừng lại.",
+    "author": "Khổng Tử",
+    "url": ""
+  }
+]
