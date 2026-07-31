@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Chớ mệt nhọc về sự làm lành.”
+> “Một lần đứng dậy hôm nay sẽ góp phần tạo nên một phiên bản trưởng thành hơn của chính mình.”
 >
-> — **Ga La Ti 6:9**
+> — **Daily Inspiration**
 
-<sub>🗓️ Cập nhật ngày 30/07/2026</sub>
-<!-- quote-id: scripture-003 -->
+<sub>🗓️ Cập nhật ngày 31/07/2026</sub>
+<!-- quote-id: inspiration-112 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
