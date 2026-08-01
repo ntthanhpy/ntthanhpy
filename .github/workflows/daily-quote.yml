@@ -2,9 +2,9 @@ name: Update Daily Quote
 
 on:
   schedule:
-    # Chạy lúc 07:30 mỗi ngày theo giờ Việt Nam.
+    # Chạy mỗi lần 30 phút theo giờ Việt Nam.
     # Tránh đúng đầu giờ để giảm nguy cơ workflow bị chậm.
-    - cron: "30 7 * * *"
+    - cron: "*/30 * * * *"
       timezone: "Asia/Ho_Chi_Minh"
 
   # Cho phép chạy thử thủ công trong tab Actions.
