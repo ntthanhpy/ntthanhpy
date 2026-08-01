@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Lời chứng thường đến sau khi đức tin đã được thử thách.”
+> “Kho báu của bạn cho thấy nơi tấm lòng bạn đang hướng đến.”
 >
-> — **Ê The 12:6**
+> — **Lu Ca 12:34**
 
-<sub>🕒 Cập nhật 02/08/2026 lúc 03:02</sub>
-<!-- quote-id: scripture-139 -->
+<sub>🕒 Cập nhật 02/08/2026 lúc 04:13</sub>
+<!-- quote-id: scripture-084 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
