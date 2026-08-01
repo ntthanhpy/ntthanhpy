@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### ✨ Câu truyền cảm hứng
 
-> “Một lần đứng dậy hôm nay sẽ góp phần tạo nên một phiên bản trưởng thành hơn của chính mình.”
+> “Một lựa chọn có kỷ luật hôm nay sẽ góp phần tạo nên một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
 > — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 01/08/2026 lúc 17:24</sub>
-<!-- quote-id: inspiration-112 -->
+<sub>🕒 Cập nhật 01/08/2026 lúc 18:37</sub>
+<!-- quote-id: inspiration-138 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
