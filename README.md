@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hãy trang bị đời sống thuộc linh để đứng vững trước điều xấu.”
+> “Một lần đứng dậy hôm nay sẽ góp phần tạo nên một kết quả lớn hơn điều bạn đang tưởng tượng.”
 >
-> — **Ê Phê Sô 6:11**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 01/08/2026 lúc 22:32</sub>
-<!-- quote-id: scripture-111 -->
+<sub>🕒 Cập nhật 01/08/2026 lúc 23:43</sub>
+<!-- quote-id: inspiration-114 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
