@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Thượng Đế có thể dùng cả những điều khó hiểu để tạo nên điều tốt.”
+> “Hãy trang bị đời sống thuộc linh để đứng vững trước điều xấu.”
 >
-> — **Rô Ma 8:28**
+> — **Ê Phê Sô 6:11**
 
-<sub>🕒 Cập nhật 01/08/2026 lúc 21:18</sub>
-<!-- quote-id: scripture-096 -->
+<sub>🕒 Cập nhật 01/08/2026 lúc 22:32</sub>
+<!-- quote-id: scripture-111 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
