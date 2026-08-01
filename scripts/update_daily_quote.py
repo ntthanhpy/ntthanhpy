@@ -129,8 +129,36 @@ def clean_text(value: object) -> str:
     """Normalize whitespace to keep generated Markdown clean."""
     return " ".join(str(value).split())
 
+def build_markdown(quote: dict[str, str], current_time: datetime, ) -> str:
+    quote_type = clean_text(quote["type"])
+    text = clean_text(quote["text"])
+    author = clean_text(quote["author"])
+    quote_id = clean_text(quote["id"])
+    url = clean_text(quote.get("url", ""))
 
-def build_markdown(quote: dict[str, str], today: date) -> str:
+    if url:
+        attribution = f"— **[{author}]({url})**"
+    else:
+        attribution = f"— **{author}**"
+
+    formatted_time = current_time.strftime( "%d/%m/%Y lúc %H:%M")
+
+    return "\n".join(
+        [
+            START_MARKER,
+            f"### {quote_type}",
+            "",
+            f'> “{text}”',
+            ">",
+            f"> {attribution}",
+            "",
+            f"<sub>🕒 Cập nhật {formatted_time}</sub>",
+            f"<!-- quote-id: {quote_id} -->",
+            END_MARKER,
+        ]
+    )
+
+def build_markdown_day(quote: dict[str, str], today: date) -> str:
     quote_type = clean_text(quote["type"])
     text = clean_text(quote["text"])
     author = clean_text(quote["author"])
