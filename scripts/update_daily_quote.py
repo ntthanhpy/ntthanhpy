@@ -65,8 +65,44 @@ def create_daily_order(quotes_count: int, year: int) -> list[int]:
 
     return order
 
+def select_quote_index(target_time: datetime, quotes_count: int, ) -> int:
+    """
+    Chọn một câu cho mỗi khung thời gian 30 phút.
 
-def select_quote_index(target_date: date, quotes_count: int) -> int:
+    Trong cùng một khung 30 phút, chạy lại workflow
+    vẫn cho ra cùng một câu.
+    """
+    if quotes_count == 1:
+        return 0
+
+    slot_start = target_time.replace(
+        minute=(target_time.minute // 30) * 30,
+        second=0,
+        microsecond=0,
+    )
+
+    previous_slot = slot_start - timedelta(minutes=30)
+
+    def index_for_slot(slot_time: datetime) -> int:
+        slot_key = slot_time.strftime("%Y-%m-%d-%H-%M")
+        seed_text = f"ntthanhpy-quote-{slot_key}"
+
+        digest = hashlib.sha256(
+            seed_text.encode("utf-8")
+        ).hexdigest()
+
+        return int(digest, 16) % quotes_count
+
+    selected_index = index_for_slot(slot_start)
+    previous_index = index_for_slot(previous_slot)
+
+    # Không để hai khung 30 phút liên tiếp trùng câu.
+    if selected_index == previous_index:
+        selected_index = (selected_index + 1) % quotes_count
+
+    return selected_index
+
+def select_quote_index_day(target_date: date, quotes_count: int) -> int:
     """Select a quote based on the local calendar date."""
     if quotes_count == 1:
         return 0
@@ -149,19 +185,35 @@ def update_readme(markdown: str) -> None:
     README_FILE.write_text(updated_content, encoding="utf-8")
 
 
+# def main() -> None:
+#     today = datetime.now(TIMEZONE).date()
+#     quotes = load_quotes()
+
+#     selected_index = select_quote_index_day(today, len(quotes))
+#     selected_quote = quotes[selected_index]
+
+#     markdown = build_markdown(selected_quote, today)
+#     update_readme(markdown)
+
+#     print(
+#         f"Updated README with quote: "
+#         f"{selected_quote['id']} for {today.isoformat()}"
+#     )
 def main() -> None:
-    today = datetime.now(TIMEZONE).date()
+    current_time = datetime.now(TIMEZONE)
     quotes = load_quotes()
 
-    selected_index = select_quote_index(today, len(quotes))
+    selected_index = select_quote_index(current_time, len(quotes), )
     selected_quote = quotes[selected_index]
 
-    markdown = build_markdown(selected_quote, today)
+    markdown = build_markdown(selected_quote, current_time,    )
+
     update_readme(markdown)
 
     print(
-        f"Updated README with quote: "
-        f"{selected_quote['id']} for {today.isoformat()}"
+        f"Updated README with quote "
+        f"{selected_quote['id']} at "
+        f"{current_time.isoformat()}"
     )
 
 
