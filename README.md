@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lần đứng dậy hôm nay có thể mở ra một kết quả lớn hơn điều bạn đang tưởng tượng.”
+> “Thượng Đế có thể dùng cả những điều khó hiểu để tạo nên điều tốt.”
 >
-> — **Daily Inspiration**
+> — **Rô Ma 8:28**
 
-<sub>🕒 Cập nhật 01/08/2026 lúc 19:45</sub>
-<!-- quote-id: inspiration-104 -->
+<sub>🕒 Cập nhật 01/08/2026 lúc 21:18</sub>
+<!-- quote-id: scripture-096 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
