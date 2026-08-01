@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Lòng trung thành được thể hiện rõ nhất khi con đường trở nên khó khăn.”
+> “Sự yếu đuối có thể trở thành sức mạnh khi ta khiêm nhường.”
 >
-> — **Ru Tơ 1:16**
+> — **Ê The 12:27**
 
-<sub>🕒 Cập nhật 01/08/2026 lúc 13:23</sub>
-<!-- quote-id: scripture-011 -->
+<sub>🕒 Cập nhật 01/08/2026 lúc 15:37</sub>
+<!-- quote-id: scripture-140 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
