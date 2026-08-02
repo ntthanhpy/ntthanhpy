@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Điều con người không thể làm vẫn có thể nằm trong quyền năng của Thượng Đế.”
+> “Một bước nhỏ hôm nay có thể mở ra một kết quả lớn hơn điều bạn đang tưởng tượng.”
 >
-> — **Mác 10:27**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 02/08/2026 lúc 23:42</sub>
-<!-- quote-id: scripture-081 -->
+<sub>🕒 Cập nhật 03/08/2026 lúc 00:48</sub>
+<!-- quote-id: inspiration-004 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
