@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đức tin biến Thượng Đế thành nơi trú ẩn trong tâm hồn.”
+> “Sự giúp đỡ thật đến từ Đấng dựng nên trời và đất.”
 >
-> — **Thi Thiên 91:2**
+> — **Thi Thiên 121:1-2**
 
-<sub>🕒 Cập nhật 02/08/2026 lúc 18:55</sub>
-<!-- quote-id: scripture-036 -->
+<sub>🕒 Cập nhật 02/08/2026 lúc 19:54</sub>
+<!-- quote-id: scripture-039 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
