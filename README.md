@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một hành động can đảm hôm nay sẽ góp phần tạo nên một phiên bản trưởng thành hơn của chính mình.”
+> “Đức tin biến Thượng Đế thành nơi trú ẩn trong tâm hồn.”
 >
-> — **Daily Inspiration**
+> — **Thi Thiên 91:2**
 
-<sub>🕒 Cập nhật 02/08/2026 lúc 17:57</sub>
-<!-- quote-id: inspiration-187 -->
+<sub>🕒 Cập nhật 02/08/2026 lúc 18:55</sub>
+<!-- quote-id: scripture-036 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
