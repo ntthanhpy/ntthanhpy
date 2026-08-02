@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Sự giúp đỡ thật đến từ Đấng dựng nên trời và đất.”
+> “Hãy trao mọi lo âu cho Thượng Đế vì Ngài quan tâm đến bạn.”
 >
-> — **Thi Thiên 121:1-2**
+> — **1 Phi E Rơ 5:7**
 
-<sub>🕒 Cập nhật 02/08/2026 lúc 19:54</sub>
-<!-- quote-id: scripture-039 -->
+<sub>🕒 Cập nhật 02/08/2026 lúc 21:19</sub>
+<!-- quote-id: scripture-123 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
