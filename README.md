@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hãy dừng lại đủ lâu để nhận biết quyền năng của Thượng Đế.”
+> “Một lời tử tế hôm nay có thể dẫn bạn đến một kết quả lớn hơn điều bạn đang tưởng tượng.”
 >
-> — **Thi Thiên 46:10**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 03/08/2026 lúc 15:18</sub>
-<!-- quote-id: scripture-032 -->
+<sub>🕒 Cập nhật 03/08/2026 lúc 18:51</sub>
+<!-- quote-id: inspiration-094 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
