@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy trao mọi lo âu cho Thượng Đế vì Ngài quan tâm đến bạn.”
+> “Hãy dừng lại đủ lâu để nhận biết quyền năng của Thượng Đế.”
 >
-> — **1 Phi E Rơ 5:7**
+> — **Thi Thiên 46:10**
 
-<sub>🕒 Cập nhật 03/08/2026 lúc 11:54</sub>
-<!-- quote-id: scripture-123 -->
+<sub>🕒 Cập nhật 03/08/2026 lúc 15:18</sub>
+<!-- quote-id: scripture-032 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
