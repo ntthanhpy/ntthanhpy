@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Qua nước sâu hay lửa nóng, bạn vẫn không bị bỏ rơi.”
+> “Một hành động can đảm hôm nay đang âm thầm xây nên một phiên bản trưởng thành hơn của chính mình.”
 >
-> — **Ê Sai 43:2**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 03/08/2026 lúc 23:43</sub>
-<!-- quote-id: scripture-057 -->
+<sub>🕒 Cập nhật 04/08/2026 lúc 01:29</sub>
+<!-- quote-id: inspiration-182 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
