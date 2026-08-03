@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hai người đồng lòng có thể nâng đỡ nhau tốt hơn một người đơn độc.”
+> “Qua nước sâu hay lửa nóng, bạn vẫn không bị bỏ rơi.”
 >
-> — **Truyền Đạo 4:9**
+> — **Ê Sai 43:2**
 
-<sub>🕒 Cập nhật 03/08/2026 lúc 21:07</sub>
-<!-- quote-id: scripture-052 -->
+<sub>🕒 Cập nhật 03/08/2026 lúc 23:43</sub>
+<!-- quote-id: scripture-057 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
