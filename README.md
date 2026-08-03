@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một quyết định đúng hôm nay sẽ góp phần tạo nên một kết quả lớn hơn điều bạn đang tưởng tượng.”
+> “Hãy trao mọi lo âu cho Thượng Đế vì Ngài quan tâm đến bạn.”
 >
-> — **Daily Inspiration**
+> — **1 Phi E Rơ 5:7**
 
-<sub>🕒 Cập nhật 03/08/2026 lúc 08:00</sub>
-<!-- quote-id: inspiration-039 -->
+<sub>🕒 Cập nhật 03/08/2026 lúc 11:54</sub>
+<!-- quote-id: scripture-123 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
