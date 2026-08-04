@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một phút biết ơn hôm nay đang âm thầm xây nên một cuộc đời có nhiều ý nghĩa hơn.”
+> “Hãy bảo vệ tấm lòng vì từ đó phát sinh hướng đi của cuộc đời.”
 >
-> — **Daily Inspiration**
+> — **Châm Ngôn 4:23**
 
-<sub>🕒 Cập nhật 05/08/2026 lúc 01:20</sub>
-<!-- quote-id: inspiration-160 -->
+<sub>🕒 Cập nhật 05/08/2026 lúc 03:04</sub>
+<!-- quote-id: scripture-042 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
