@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Bạn được kêu gọi để mang ánh sáng đến nơi mình sống.”
+> “Hãy mạnh mẽ vì bạn không phải bước đi một mình.”
 >
-> — **Ma Thi Ơ 5:14**
+> — **Phục Truyền Luật Lệ Ký 31:6**
 
-<sub>🕒 Cập nhật 04/08/2026 lúc 14:28</sub>
-<!-- quote-id: scripture-071 -->
+<sub>🕒 Cập nhật 04/08/2026 lúc 17:07</sub>
+<!-- quote-id: scripture-007 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
