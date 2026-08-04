@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hãy mạnh mẽ vì bạn không phải bước đi một mình.”
+> “Một phút biết ơn hôm nay có thể mở ra một phiên bản trưởng thành hơn của chính mình.”
 >
-> — **Phục Truyền Luật Lệ Ký 31:6**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 04/08/2026 lúc 17:07</sub>
-<!-- quote-id: scripture-007 -->
+<sub>🕒 Cập nhật 04/08/2026 lúc 19:22</sub>
+<!-- quote-id: inspiration-152 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
