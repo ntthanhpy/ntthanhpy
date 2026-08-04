@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy đến cùng Đấng Christ và để ân điển Ngài hoàn thiện bạn.”
+> “Ngay trong thung lũng tối tăm, ta vẫn có thể bước đi mà không sợ hãi.”
 >
-> — **Mô Rô Ni 10:32**
+> — **Thi Thiên 23:4**
 
-<sub>🕒 Cập nhật 04/08/2026 lúc 06:56</sub>
-<!-- quote-id: scripture-142 -->
+<sub>🕒 Cập nhật 04/08/2026 lúc 08:25</sub>
+<!-- quote-id: scripture-026 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
