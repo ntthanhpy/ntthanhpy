@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hãy bảo vệ tấm lòng vì từ đó phát sinh hướng đi của cuộc đời.”
+> “Một giờ tập trung hôm nay đang âm thầm xây nên một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
-> — **Châm Ngôn 4:23**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 05/08/2026 lúc 03:04</sub>
-<!-- quote-id: scripture-042 -->
+<sub>🕒 Cập nhật 05/08/2026 lúc 04:44</sub>
+<!-- quote-id: inspiration-058 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
