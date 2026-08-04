@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một phút biết ơn hôm nay có thể mở ra một phiên bản trưởng thành hơn của chính mình.”
+> “Bạn được kêu gọi để mang ánh sáng đến nơi mình sống.”
 >
-> — **Daily Inspiration**
+> — **Ma Thi Ơ 5:14**
 
-<sub>🕒 Cập nhật 04/08/2026 lúc 11:36</sub>
-<!-- quote-id: inspiration-152 -->
+<sub>🕒 Cập nhật 04/08/2026 lúc 14:28</sub>
+<!-- quote-id: scripture-071 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
