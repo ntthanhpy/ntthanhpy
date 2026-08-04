@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Khi con người khiêm nhường và quay về điều thiện, sự chữa lành có thể bắt đầu.”
+> “Một giờ tập trung hôm nay có thể mở ra một cuộc đời có nhiều ý nghĩa hơn.”
 >
-> — **2 Sử Ký 7:14**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 04/08/2026 lúc 21:56</sub>
-<!-- quote-id: scripture-016 -->
+<sub>🕒 Cập nhật 04/08/2026 lúc 23:45</sub>
+<!-- quote-id: inspiration-055 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
