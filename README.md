@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hãy kiên trì chạy cuộc đua của mình và bỏ xuống những gánh nặng không cần thiết.”
+> “Một phút biết ơn hôm nay sẽ góp phần tạo nên một ngày mai tốt đẹp hơn.”
 >
-> — **Hê Bơ Rơ 12:1**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 05/08/2026 lúc 17:05</sub>
-<!-- quote-id: scripture-120 -->
+<sub>🕒 Cập nhật 05/08/2026 lúc 19:21</sub>
+<!-- quote-id: inspiration-161 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
