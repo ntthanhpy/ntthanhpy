@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### ✨ Câu truyền cảm hứng
 
-> “Một lựa chọn có kỷ luật hôm nay đang âm thầm xây nên một phiên bản trưởng thành hơn của chính mình.”
+> “Một lần đứng dậy hôm nay có thể mở ra một cuộc đời có nhiều ý nghĩa hơn.”
 >
 > — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 06/08/2026 lúc 02:26</sub>
-<!-- quote-id: inspiration-132 -->
+<sub>🕒 Cập nhật 06/08/2026 lúc 03:42</sub>
+<!-- quote-id: inspiration-105 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
