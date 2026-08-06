@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Khi phục vụ người khác, ta cũng đang phục vụ Thượng Đế.”
+> “Một giờ tập trung hôm nay sẽ góp phần tạo nên một cuộc đời có nhiều ý nghĩa hơn.”
 >
-> — **Mô Si A 2:17**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 06/08/2026 lúc 07:48</sub>
-<!-- quote-id: scripture-129 -->
+<sub>🕒 Cập nhật 06/08/2026 lúc 10:55</sub>
+<!-- quote-id: inspiration-065 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
