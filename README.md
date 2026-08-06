@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một quyết định đúng hôm nay có thể mở ra một cuộc đời có nhiều ý nghĩa hơn.”
+> “Đức tin chân thật vẫn đứng vững ngay cả khi kết quả chưa như mong muốn.”
 >
-> — **Daily Inspiration**
+> — **Đa Ni Ên 3:17-18**
 
-<sub>🕒 Cập nhật 06/08/2026 lúc 13:20</sub>
-<!-- quote-id: inspiration-030 -->
+<sub>🕒 Cập nhật 06/08/2026 lúc 16:17</sub>
+<!-- quote-id: scripture-067 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
