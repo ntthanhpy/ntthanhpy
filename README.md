@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Niềm vui trong Chúa có thể trở thành sức mạnh cho ngày mới.”
+> “Khi phục vụ người khác, ta cũng đang phục vụ Thượng Đế.”
 >
-> — **Nê Hê Mi 8:10**
+> — **Mô Si A 2:17**
 
-<sub>🕒 Cập nhật 06/08/2026 lúc 06:26</sub>
-<!-- quote-id: scripture-017 -->
+<sub>🕒 Cập nhật 06/08/2026 lúc 07:48</sub>
+<!-- quote-id: scripture-129 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
