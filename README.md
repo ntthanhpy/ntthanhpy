@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Dù bên ngoài mệt mỏi, con người bên trong vẫn có thể được đổi mới mỗi ngày.”
+> “Nỗi buồn có thể kéo dài một đêm, nhưng niềm vui vẫn có thể trở lại.”
 >
-> — **2 Cô Rinh Tô 4:16**
+> — **Thi Thiên 30:5**
 
-<sub>🕒 Cập nhật 07/08/2026 lúc 10:41</sub>
-<!-- quote-id: scripture-104 -->
+<sub>🕒 Cập nhật 07/08/2026 lúc 12:25</sub>
+<!-- quote-id: scripture-028 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
