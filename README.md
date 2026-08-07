@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Phước lành đến với người đặt niềm tin nơi Chúa.”
+> “Một quyết định đúng hôm nay là nền móng của một kết quả lớn hơn điều bạn đang tưởng tượng.”
 >
-> — **Giê Rê Mi 17:7**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 06/08/2026 lúc 22:38</sub>
-<!-- quote-id: scripture-062 -->
+<sub>🕒 Cập nhật 07/08/2026 lúc 07:34</sub>
+<!-- quote-id: inspiration-049 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
