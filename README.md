@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Trong ngày hoạn nạn, Chúa biết những ai tìm nơi nương náu nơi Ngài.”
+> “Một phút biết ơn hôm nay sẽ góp phần tạo nên một ngày mai tốt đẹp hơn.”
 >
-> — **Na Hum 1:7**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 08/08/2026 lúc 00:37</sub>
-<!-- quote-id: scripture-069 -->
+<sub>🕒 Cập nhật 08/08/2026 lúc 01:34</sub>
+<!-- quote-id: inspiration-161 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
