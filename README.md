@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Bạn được kêu gọi để mang ánh sáng đến nơi mình sống.”
+> “Trong ngày hoạn nạn, Chúa biết những ai tìm nơi nương náu nơi Ngài.”
 >
-> — **Ma Thi Ơ 5:14**
+> — **Na Hum 1:7**
 
-<sub>🕒 Cập nhật 07/08/2026 lúc 23:37</sub>
-<!-- quote-id: scripture-071 -->
+<sub>🕒 Cập nhật 08/08/2026 lúc 00:37</sub>
+<!-- quote-id: scripture-069 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
