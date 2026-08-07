@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lời tử tế hôm nay đang âm thầm xây nên một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Lời Thượng Đế có thể soi sáng bước kế tiếp, dù chưa cho thấy toàn bộ con đường.”
 >
-> — **Daily Inspiration**
+> — **Thi Thiên 119:105**
 
-<sub>🕒 Cập nhật 08/08/2026 lúc 04:05</sub>
-<!-- quote-id: inspiration-083 -->
+<sub>🕒 Cập nhật 08/08/2026 lúc 05:01</sub>
+<!-- quote-id: scripture-038 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
