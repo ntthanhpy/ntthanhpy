@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Bạn được tạo dựng cách kỳ diệu và có giá trị.”
+> “Một phút biết ơn hôm nay có thể dẫn bạn đến một cuộc đời có nhiều ý nghĩa hơn.”
 >
-> — **Thi Thiên 139:14**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 09/08/2026 lúc 02:49</sub>
-<!-- quote-id: scripture-040 -->
+<sub>🕒 Cập nhật 09/08/2026 lúc 03:14</sub>
+<!-- quote-id: inspiration-170 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
