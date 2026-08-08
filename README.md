@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lần đứng dậy hôm nay là nền móng của một phiên bản trưởng thành hơn của chính mình.”
+> “Nỗi buồn có thể kéo dài một đêm, nhưng niềm vui vẫn có thể trở lại.”
 >
-> — **Daily Inspiration**
+> — **Thi Thiên 30:5**
 
-<sub>🕒 Cập nhật 08/08/2026 lúc 22:52</sub>
-<!-- quote-id: inspiration-122 -->
+<sub>🕒 Cập nhật 08/08/2026 lúc 23:16</sub>
+<!-- quote-id: scripture-028 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
