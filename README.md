@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### ✨ Câu truyền cảm hứng
 
-> “Một giờ tập trung hôm nay là nền móng của một cuộc đời có nhiều ý nghĩa hơn.”
+> “Một lần đứng dậy hôm nay là nền móng của một phiên bản trưởng thành hơn của chính mình.”
 >
 > — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 08/08/2026 lúc 22:15</sub>
-<!-- quote-id: inspiration-075 -->
+<sub>🕒 Cập nhật 08/08/2026 lúc 22:52</sub>
+<!-- quote-id: inspiration-122 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
