@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Điều bạn trân quý sẽ dần định hình tấm lòng bạn.”
+> “Hãy tin cậy Thượng Đế hơn sự hiểu biết giới hạn của riêng mình.”
 >
-> — **Ma Thi Ơ 6:21**
+> — **Châm Ngôn 3:5-6**
 
-<sub>🕒 Cập nhật 08/08/2026 lúc 15:04</sub>
-<!-- quote-id: scripture-072 -->
+<sub>🕒 Cập nhật 08/08/2026 lúc 16:06</sub>
+<!-- quote-id: scripture-041 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
