@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hãy tin cậy Thượng Đế hơn sự hiểu biết giới hạn của riêng mình.”
+> “Một lời tử tế hôm nay là nền móng của một cuộc đời có nhiều ý nghĩa hơn.”
 >
-> — **Châm Ngôn 3:5-6**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 08/08/2026 lúc 16:06</sub>
-<!-- quote-id: scripture-041 -->
+<sub>🕒 Cập nhật 08/08/2026 lúc 16:59</sub>
+<!-- quote-id: inspiration-100 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
