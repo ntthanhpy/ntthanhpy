@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lần lắng nghe thật lòng hôm nay đang âm thầm xây nên một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Hãy tìm kiếm nước Thượng Đế trước, rồi những điều cần thiết sẽ được thêm cho.”
 >
-> — **Daily Inspiration**
+> — **3 Nê Phi 13:33**
 
-<sub>🕒 Cập nhật 09/08/2026 lúc 05:52</sub>
-<!-- quote-id: inspiration-208 -->
+<sub>🕒 Cập nhật 09/08/2026 lúc 06:15</sub>
+<!-- quote-id: scripture-137 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
