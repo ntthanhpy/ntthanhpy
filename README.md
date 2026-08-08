@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Sự đổi mới trong tâm trí sẽ dẫn đến một đời sống được biến đổi.”
+> “Hãy đối xử với người khác theo cách bạn mong được đối xử.”
 >
-> — **Rô Ma 12:2**
+> — **Lu Ca 6:31**
 
-<sub>🕒 Cập nhật 08/08/2026 lúc 07:38</sub>
-<!-- quote-id: scripture-098 -->
+<sub>🕒 Cập nhật 08/08/2026 lúc 09:46</sub>
+<!-- quote-id: scripture-083 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
