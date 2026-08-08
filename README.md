@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một quyết định đúng hôm nay là nền móng của một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Hãy làm việc hết lòng như đang dâng công việc ấy lên Chúa.”
 >
-> — **Daily Inspiration**
+> — **Cô Lô Se 3:23**
 
-<sub>🕒 Cập nhật 08/08/2026 lúc 18:17</sub>
-<!-- quote-id: inspiration-048 -->
+<sub>🕒 Cập nhật 08/08/2026 lúc 18:49</sub>
+<!-- quote-id: scripture-116 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
