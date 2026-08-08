@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hãy tìm kiếm nước Thượng Đế trước, rồi những điều cần thiết sẽ được thêm cho.”
+> “Một giờ tập trung hôm nay là nền móng của một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
-> — **3 Nê Phi 13:33**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 09/08/2026 lúc 06:15</sub>
-<!-- quote-id: scripture-137 -->
+<sub>🕒 Cập nhật 09/08/2026 lúc 06:49</sub>
+<!-- quote-id: inspiration-073 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
