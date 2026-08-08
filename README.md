@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Bạn không bị bỏ lại một mình trên hành trình môn đồ.”
+> “Bạn được tạo dựng cách kỳ diệu và có giá trị.”
 >
-> — **Ma Thi Ơ 28:20**
+> — **Thi Thiên 139:14**
 
-<sub>🕒 Cập nhật 09/08/2026 lúc 02:04</sub>
-<!-- quote-id: scripture-079 -->
+<sub>🕒 Cập nhật 09/08/2026 lúc 02:49</sub>
+<!-- quote-id: scripture-040 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
