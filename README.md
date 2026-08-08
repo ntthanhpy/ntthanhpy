@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Mỗi ngày đều là một cơ hội để chọn điều mình sẽ phụng sự.”
+> “Bạn không bị bỏ lại một mình trên hành trình môn đồ.”
 >
-> — **Giô Suê 24:15**
+> — **Ma Thi Ơ 28:20**
 
-<sub>🕒 Cập nhật 09/08/2026 lúc 01:17</sub>
-<!-- quote-id: scripture-010 -->
+<sub>🕒 Cập nhật 09/08/2026 lúc 02:04</sub>
+<!-- quote-id: scripture-079 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
