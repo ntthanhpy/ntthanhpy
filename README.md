@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hãy đối xử với người khác theo cách bạn mong được đối xử.”
+> “Một hành động can đảm hôm nay có thể mở ra một kết quả lớn hơn điều bạn đang tưởng tượng.”
 >
-> — **Lu Ca 6:31**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 08/08/2026 lúc 09:46</sub>
-<!-- quote-id: scripture-083 -->
+<sub>🕒 Cập nhật 08/08/2026 lúc 11:00</sub>
+<!-- quote-id: inspiration-179 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
