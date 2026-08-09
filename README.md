@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một quyết định đúng hôm nay là nền móng của một ngày mai tốt đẹp hơn.”
+> “Đừng mang gánh nặng một mình; hãy trao nó cho Thượng Đế.”
 >
-> — **Daily Inspiration**
+> — **Thi Thiên 55:22**
 
-<sub>🕒 Cập nhật 10/08/2026 lúc 03:57</sub>
-<!-- quote-id: inspiration-046 -->
+<sub>🕒 Cập nhật 10/08/2026 lúc 04:25</sub>
+<!-- quote-id: scripture-034 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
