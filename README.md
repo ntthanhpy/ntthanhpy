@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hôm nay đã có đủ việc của hôm nay; đừng để ngày mai cướp mất bình an.”
+> “Một quyết định đúng hôm nay có thể dẫn bạn đến một cuộc đời có nhiều ý nghĩa hơn.”
 >
-> — **Ma Thi Ơ 6:34**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 09/08/2026 lúc 17:58</sub>
-<!-- quote-id: scripture-073 -->
+<sub>🕒 Cập nhật 09/08/2026 lúc 18:23</sub>
+<!-- quote-id: inspiration-045 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
