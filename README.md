@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Tinh thần tranh chấp không đến từ Đấng Christ.”
+> “Một quyết định đúng hôm nay có thể mở ra một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
-> — **3 Nê Phi 11:29**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 10/08/2026 lúc 06:17</sub>
-<!-- quote-id: scripture-135 -->
+<sub>🕒 Cập nhật 10/08/2026 lúc 06:53</sub>
+<!-- quote-id: inspiration-028 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
