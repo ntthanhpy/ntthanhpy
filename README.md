@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hãy tử tế, cảm thông và biết tha thứ.”
+> “Một lần lắng nghe thật lòng hôm nay có thể mở ra một phiên bản trưởng thành hơn của chính mình.”
 >
-> — **Ê Phê Sô 4:32**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 09/08/2026 lúc 15:06</sub>
-<!-- quote-id: scripture-110 -->
+<sub>🕒 Cập nhật 09/08/2026 lúc 16:07</sub>
+<!-- quote-id: inspiration-202 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
