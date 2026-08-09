@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đường lối của Thượng Đế cao hơn tầm nhìn hiện tại của chúng ta.”
+> “Lòng biết ơn mở cánh cửa dẫn vào sự thờ phượng.”
 >
-> — **Ê Sai 55:8-9**
+> — **Thi Thiên 100:4**
 
-<sub>🕒 Cập nhật 10/08/2026 lúc 02:53</sub>
-<!-- quote-id: scripture-059 -->
+<sub>🕒 Cập nhật 10/08/2026 lúc 03:16</sub>
+<!-- quote-id: scripture-037 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
