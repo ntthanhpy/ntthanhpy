@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Người nhận mọi điều với lòng biết ơn sẽ được ban phước.”
+> “Đường lối của Thượng Đế cao hơn tầm nhìn hiện tại của chúng ta.”
 >
-> — **Giáo Lý và Giao Ước 78:19**
+> — **Ê Sai 55:8-9**
 
-<sub>🕒 Cập nhật 10/08/2026 lúc 02:08</sub>
-<!-- quote-id: scripture-152 -->
+<sub>🕒 Cập nhật 10/08/2026 lúc 02:53</sub>
+<!-- quote-id: scripture-059 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
