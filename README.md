@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Bạn có thể làm điều cần làm nhờ sức mạnh Đấng Christ ban cho.”
+> “Tinh thần tranh chấp không đến từ Đấng Christ.”
 >
-> — **Phi Líp 4:13**
+> — **3 Nê Phi 11:29**
 
-<sub>🕒 Cập nhật 10/08/2026 lúc 05:55</sub>
-<!-- quote-id: scripture-115 -->
+<sub>🕒 Cập nhật 10/08/2026 lúc 06:17</sub>
+<!-- quote-id: scripture-135 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
