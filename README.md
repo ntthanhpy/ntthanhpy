@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### ✨ Câu truyền cảm hứng
 
-> “Một lần lắng nghe thật lòng hôm nay có thể mở ra một kết quả lớn hơn điều bạn đang tưởng tượng.”
+> “Một lựa chọn có kỷ luật hôm nay là nền móng của một phiên bản trưởng thành hơn của chính mình.”
 >
 > — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 09/08/2026 lúc 13:06</sub>
-<!-- quote-id: inspiration-204 -->
+<sub>🕒 Cập nhật 09/08/2026 lúc 14:28</sub>
+<!-- quote-id: inspiration-147 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
