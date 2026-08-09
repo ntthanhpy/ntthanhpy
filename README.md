@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hai người đồng lòng có thể nâng đỡ nhau tốt hơn một người đơn độc.”
+> “Hôm nay đã có đủ việc của hôm nay; đừng để ngày mai cướp mất bình an.”
 >
-> — **Truyền Đạo 4:9**
+> — **Ma Thi Ơ 6:34**
 
-<sub>🕒 Cập nhật 09/08/2026 lúc 17:01</sub>
-<!-- quote-id: scripture-052 -->
+<sub>🕒 Cập nhật 09/08/2026 lúc 17:58</sub>
+<!-- quote-id: scripture-073 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
