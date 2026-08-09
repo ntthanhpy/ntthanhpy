@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hãy tự mình trải nghiệm sự tốt lành của Thượng Đế.”
+> “Một bước nhỏ hôm nay đang âm thầm xây nên một phiên bản trưởng thành hơn của chính mình.”
 >
-> — **Thi Thiên 34:8**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 09/08/2026 lúc 22:24</sub>
-<!-- quote-id: scripture-029 -->
+<sub>🕒 Cập nhật 09/08/2026 lúc 22:53</sub>
+<!-- quote-id: inspiration-007 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
