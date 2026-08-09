@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy học nơi Đấng Christ để nhận được sự bình an.”
+> “Hãy xây nền móng đời mình trên Đấng Christ để bão tố không thể quật ngã.”
 >
-> — **Giáo Lý và Giao Ước 19:23**
+> — **Hê La Man 5:12**
 
-<sub>🕒 Cập nhật 09/08/2026 lúc 23:18</sub>
-<!-- quote-id: scripture-146 -->
+<sub>🕒 Cập nhật 10/08/2026 lúc 00:01</sub>
+<!-- quote-id: scripture-134 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
