@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### ✨ Câu truyền cảm hứng
 
-> “Một quyết định đúng hôm nay có thể dẫn bạn đến một cuộc đời có nhiều ý nghĩa hơn.”
+> “Một lần đứng dậy hôm nay là nền móng của một phiên bản trưởng thành hơn của chính mình.”
 >
 > — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 09/08/2026 lúc 18:23</sub>
-<!-- quote-id: inspiration-045 -->
+<sub>🕒 Cập nhật 09/08/2026 lúc 18:51</sub>
+<!-- quote-id: inspiration-122 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
