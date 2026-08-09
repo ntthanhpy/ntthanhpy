@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Đừng mang gánh nặng một mình; hãy trao nó cho Thượng Đế.”
+> “Một lần đứng dậy hôm nay có thể mở ra một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
-> — **Thi Thiên 55:22**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 10/08/2026 lúc 04:25</sub>
-<!-- quote-id: scripture-034 -->
+<sub>🕒 Cập nhật 10/08/2026 lúc 04:54</sub>
+<!-- quote-id: inspiration-103 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
