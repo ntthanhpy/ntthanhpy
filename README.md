@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Lòng biết ơn mở cánh cửa dẫn vào sự thờ phượng.”
+> “Một quyết định đúng hôm nay là nền móng của một ngày mai tốt đẹp hơn.”
 >
-> — **Thi Thiên 100:4**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 10/08/2026 lúc 03:16</sub>
-<!-- quote-id: scripture-037 -->
+<sub>🕒 Cập nhật 10/08/2026 lúc 03:57</sub>
+<!-- quote-id: inspiration-046 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
