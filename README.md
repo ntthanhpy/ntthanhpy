@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đúng lúc cần thiết, Thượng Đế có thể chuẩn bị một con đường.”
+> “Khi Thượng Đế truyền lệnh, Ngài cũng có thể chuẩn bị con đường để thực hiện.”
 >
-> — **Sáng Thế Ký 22:14**
+> — **1 Nê Phi 3:7**
 
-<sub>🕒 Cập nhật 11/08/2026 lúc 05:03</sub>
-<!-- quote-id: scripture-003 -->
+<sub>🕒 Cập nhật 11/08/2026 lúc 06:01</sub>
+<!-- quote-id: scripture-126 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
