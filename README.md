@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một bước nhỏ hôm nay là nền móng của một cuộc đời có nhiều ý nghĩa hơn.”
+> “Bạn không bị bỏ lại một mình trên hành trình môn đồ.”
 >
-> — **Daily Inspiration**
+> — **Ma Thi Ơ 28:20**
 
-<sub>🕒 Cập nhật 10/08/2026 lúc 07:41</sub>
-<!-- quote-id: inspiration-025 -->
+<sub>🕒 Cập nhật 10/08/2026 lúc 10:03</sub>
+<!-- quote-id: scripture-079 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
