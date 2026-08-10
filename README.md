@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Niềm vui trong Chúa có thể trở thành sức mạnh cho ngày mới.”
+> “Một đời sống vâng lời có thể trở thành nguồn phước cho nhiều người.”
 >
-> — **Nê Hê Mi 8:10**
+> — **Sáng Thế Ký 12:2**
 
-<sub>🕒 Cập nhật 10/08/2026 lúc 21:09</sub>
-<!-- quote-id: scripture-017 -->
+<sub>🕒 Cập nhật 10/08/2026 lúc 22:27</sub>
+<!-- quote-id: scripture-002 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
