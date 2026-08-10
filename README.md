@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Một đời sống vâng lời có thể trở thành nguồn phước cho nhiều người.”
+> “Hãy làm việc hết lòng như đang dâng công việc ấy lên Chúa.”
 >
-> — **Sáng Thế Ký 12:2**
+> — **Cô Lô Se 3:23**
 
-<sub>🕒 Cập nhật 10/08/2026 lúc 22:27</sub>
-<!-- quote-id: scripture-002 -->
+<sub>🕒 Cập nhật 10/08/2026 lúc 23:13</sub>
+<!-- quote-id: scripture-116 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
