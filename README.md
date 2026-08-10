@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Bạn không bị bỏ lại một mình trên hành trình môn đồ.”
+> “Một lần lắng nghe thật lòng hôm nay sẽ góp phần tạo nên một ngày mai tốt đẹp hơn.”
 >
-> — **Ma Thi Ơ 28:20**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 10/08/2026 lúc 10:03</sub>
-<!-- quote-id: scripture-079 -->
+<sub>🕒 Cập nhật 10/08/2026 lúc 11:59</sub>
+<!-- quote-id: inspiration-211 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
