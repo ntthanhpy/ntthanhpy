@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy học nơi Đấng Christ để nhận được sự bình an.”
+> “Hãy đến cùng Đấng Christ và để ân điển Ngài hoàn thiện bạn.”
 >
-> — **Giáo Lý và Giao Ước 19:23**
+> — **Mô Rô Ni 10:32**
 
-<sub>🕒 Cập nhật 10/08/2026 lúc 16:53</sub>
-<!-- quote-id: scripture-146 -->
+<sub>🕒 Cập nhật 10/08/2026 lúc 17:53</sub>
+<!-- quote-id: scripture-142 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
