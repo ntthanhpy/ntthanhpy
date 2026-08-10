@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Khi Thượng Đế truyền lệnh, Ngài cũng có thể chuẩn bị con đường để thực hiện.”
+> “Một hành động can đảm hôm nay có thể dẫn bạn đến một kết quả lớn hơn điều bạn đang tưởng tượng.”
 >
-> — **1 Nê Phi 3:7**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 11/08/2026 lúc 06:01</sub>
-<!-- quote-id: scripture-126 -->
+<sub>🕒 Cập nhật 11/08/2026 lúc 06:55</sub>
+<!-- quote-id: inspiration-194 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
