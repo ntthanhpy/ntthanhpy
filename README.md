@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Thượng Đế sẽ tiếp tục hoàn thành công việc tốt lành Ngài đã bắt đầu nơi bạn.”
+> “Một phút biết ơn hôm nay sẽ góp phần tạo nên một ngày mai tốt đẹp hơn.”
 >
-> — **Phi Líp 1:6**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 11/08/2026 lúc 18:34</sub>
-<!-- quote-id: scripture-112 -->
+<sub>🕒 Cập nhật 11/08/2026 lúc 19:33</sub>
+<!-- quote-id: inspiration-161 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
