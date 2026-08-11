@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lần lắng nghe thật lòng hôm nay đang âm thầm xây nên một ngày mai tốt đẹp hơn.”
+> “Hãy tìm kiếm sự học hỏi bằng cả nghiên cứu lẫn đức tin.”
 >
-> — **Daily Inspiration**
+> — **Giáo Lý và Giao Ước 88:118**
 
-<sub>🕒 Cập nhật 12/08/2026 lúc 03:30</sub>
-<!-- quote-id: inspiration-206 -->
+<sub>🕒 Cập nhật 12/08/2026 lúc 04:32</sub>
+<!-- quote-id: scripture-153 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
