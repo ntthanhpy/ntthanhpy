@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đức tin giúp ta nắm giữ điều hy vọng ngay khi chưa nhìn thấy.”
+> “Thượng Đế sẽ tiếp tục hoàn thành công việc tốt lành Ngài đã bắt đầu nơi bạn.”
 >
-> — **Hê Bơ Rơ 11:1**
+> — **Phi Líp 1:6**
 
-<sub>🕒 Cập nhật 11/08/2026 lúc 17:38</sub>
-<!-- quote-id: scripture-119 -->
+<sub>🕒 Cập nhật 11/08/2026 lúc 18:34</sub>
+<!-- quote-id: scripture-112 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
