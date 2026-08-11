@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Sự bình an thật giúp ta nghỉ ngơi ngay cả khi đời sống chưa hoàn hảo.”
+> “Một quyết định đúng hôm nay là nền móng của một ngày mai tốt đẹp hơn.”
 >
-> — **Thi Thiên 4:8**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 11/08/2026 lúc 12:32</sub>
-<!-- quote-id: scripture-023 -->
+<sub>🕒 Cập nhật 11/08/2026 lúc 13:41</sub>
+<!-- quote-id: inspiration-046 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
