@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Có những trận chiến ta thắng bằng sự bình tĩnh và tin cậy.”
+> “Sự bình an thật giúp ta nghỉ ngơi ngay cả khi đời sống chưa hoàn hảo.”
 >
-> — **Xuất Ê Díp Tô Ký 14:14**
+> — **Thi Thiên 4:8**
 
-<sub>🕒 Cập nhật 11/08/2026 lúc 11:11</sub>
-<!-- quote-id: scripture-004 -->
+<sub>🕒 Cập nhật 11/08/2026 lúc 12:32</sub>
+<!-- quote-id: scripture-023 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
