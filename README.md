@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lựa chọn có kỷ luật hôm nay là nền móng của một cuộc đời có nhiều ý nghĩa hơn.”
+> “Phước lành đến với người đặt niềm tin nơi Chúa.”
 >
-> — **Daily Inspiration**
+> — **Giê Rê Mi 17:7**
 
-<sub>🕒 Cập nhật 11/08/2026 lúc 23:15</sub>
-<!-- quote-id: inspiration-150 -->
+<sub>🕒 Cập nhật 12/08/2026 lúc 00:23</sub>
+<!-- quote-id: scripture-062 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
