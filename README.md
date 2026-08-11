@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy tìm kiếm sự học hỏi bằng cả nghiên cứu lẫn đức tin.”
+> “Đừng sợ, vì Thượng Đế có thể thêm sức và nâng đỡ bạn.”
 >
-> — **Giáo Lý và Giao Ước 88:118**
+> — **Ê Sai 41:10**
 
-<sub>🕒 Cập nhật 12/08/2026 lúc 04:32</sub>
-<!-- quote-id: scripture-153 -->
+<sub>🕒 Cập nhật 12/08/2026 lúc 05:28</sub>
+<!-- quote-id: scripture-056 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
