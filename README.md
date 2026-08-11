@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một quyết định đúng hôm nay sẽ góp phần tạo nên một kết quả lớn hơn điều bạn đang tưởng tượng.”
+> “Ban cho có thể đem lại niềm vui sâu sắc hơn nhận lãnh.”
 >
-> — **Daily Inspiration**
+> — **Công Vụ Các Sứ Đồ 20:35**
 
-<sub>🕒 Cập nhật 11/08/2026 lúc 14:59</sub>
-<!-- quote-id: inspiration-039 -->
+<sub>🕒 Cập nhật 11/08/2026 lúc 15:54</sub>
+<!-- quote-id: scripture-094 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
