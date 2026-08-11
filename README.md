@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lời tử tế hôm nay có thể dẫn bạn đến một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Có những trận chiến ta thắng bằng sự bình tĩnh và tin cậy.”
 >
-> — **Daily Inspiration**
+> — **Xuất Ê Díp Tô Ký 14:14**
 
-<sub>🕒 Cập nhật 11/08/2026 lúc 09:56</sub>
-<!-- quote-id: inspiration-093 -->
+<sub>🕒 Cập nhật 11/08/2026 lúc 11:11</sub>
+<!-- quote-id: scripture-004 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
