@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Đừng sợ, vì Thượng Đế có thể thêm sức và nâng đỡ bạn.”
+> “Một bước nhỏ hôm nay có thể mở ra một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
-> — **Ê Sai 41:10**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 12/08/2026 lúc 05:28</sub>
-<!-- quote-id: scripture-056 -->
+<sub>🕒 Cập nhật 12/08/2026 lúc 06:10</sub>
+<!-- quote-id: inspiration-003 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
