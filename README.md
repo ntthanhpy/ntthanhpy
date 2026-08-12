@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Thượng Đế có thể dùng cả những điều khó hiểu để tạo nên điều tốt.”
+> “Người đặt lòng tin nơi Thượng Đế sẽ được nâng đỡ trong thử thách.”
 >
-> — **Rô Ma 8:28**
+> — **An Ma 36:3**
 
-<sub>🕒 Cập nhật 12/08/2026 lúc 21:10</sub>
-<!-- quote-id: scripture-096 -->
+<sub>🕒 Cập nhật 12/08/2026 lúc 22:25</sub>
+<!-- quote-id: scripture-132 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
