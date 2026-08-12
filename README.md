@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hãy tiếp tục xin, tìm kiếm và gõ cửa với lòng chân thành.”
+> “Một giờ tập trung hôm nay sẽ góp phần tạo nên một cuộc đời có nhiều ý nghĩa hơn.”
 >
-> — **Ma Thi Ơ 7:7**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 12/08/2026 lúc 12:10</sub>
-<!-- quote-id: scripture-074 -->
+<sub>🕒 Cập nhật 12/08/2026 lúc 13:49</sub>
+<!-- quote-id: inspiration-065 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
