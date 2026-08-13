@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lựa chọn có kỷ luật hôm nay có thể mở ra một kết quả lớn hơn điều bạn đang tưởng tượng.”
+> “Người xây dựng hòa bình đang làm một công việc thiêng liêng.”
 >
-> — **Daily Inspiration**
+> — **Ma Thi Ơ 5:9**
 
-<sub>🕒 Cập nhật 13/08/2026 lúc 18:36</sub>
-<!-- quote-id: inspiration-129 -->
+<sub>🕒 Cập nhật 13/08/2026 lúc 19:37</sub>
+<!-- quote-id: scripture-070 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
