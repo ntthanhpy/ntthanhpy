@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đường lối của Thượng Đế cao hơn tầm nhìn hiện tại của chúng ta.”
+> “Khi dâng công việc cho Thượng Đế, suy nghĩ của ta trở nên ngay thẳng hơn.”
 >
-> — **Ê Sai 55:8-9**
+> — **Châm Ngôn 16:3**
 
-<sub>🕒 Cập nhật 13/08/2026 lúc 15:09</sub>
-<!-- quote-id: scripture-059 -->
+<sub>🕒 Cập nhật 13/08/2026 lúc 16:36</sub>
+<!-- quote-id: scripture-045 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
