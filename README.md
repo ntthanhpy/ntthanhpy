@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Khi dâng công việc cho Thượng Đế, suy nghĩ của ta trở nên ngay thẳng hơn.”
+> “Qua nước sâu hay lửa nóng, bạn vẫn không bị bỏ rơi.”
 >
-> — **Châm Ngôn 16:3**
+> — **Ê Sai 43:2**
 
-<sub>🕒 Cập nhật 13/08/2026 lúc 16:36</sub>
-<!-- quote-id: scripture-045 -->
+<sub>🕒 Cập nhật 13/08/2026 lúc 17:48</sub>
+<!-- quote-id: scripture-057 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
