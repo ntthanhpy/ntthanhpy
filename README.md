@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Scripture today - SMM
+### ✨ Câu truyền cảm hứng
 
-> “And it shall come to pass that whosoever shall believe on the Son of God, the same shall everlasting life.”
+> “Một lần đứng dậy hôm nay có thể mở ra một phiên bản trưởng thành hơn của chính mình.”
 >
-> — **Helaman 14: 8**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 15/08/2026 lúc 04:45</sub>
-<!-- quote-id: scripture-156 -->
+<sub>🕒 Cập nhật 15/08/2026 lúc 05:09</sub>
+<!-- quote-id: inspiration-102 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
