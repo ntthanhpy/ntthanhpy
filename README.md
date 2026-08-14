@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### ✨ Câu truyền cảm hứng
 
-> “Một hành động can đảm hôm nay có thể dẫn bạn đến một ngày mai tốt đẹp hơn.”
+> “Một lựa chọn có kỷ luật hôm nay là nền móng của một phiên bản trưởng thành hơn của chính mình.”
 >
 > — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 14/08/2026 lúc 10:04</sub>
-<!-- quote-id: inspiration-191 -->
+<sub>🕒 Cập nhật 14/08/2026 lúc 12:11</sub>
+<!-- quote-id: inspiration-147 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
