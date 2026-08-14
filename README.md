@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy học nơi Đấng Christ để nhận được sự bình an.”
+> “Điều ta làm cho người nhỏ bé cũng là điều ta dâng lên Chúa.”
 >
-> — **Giáo Lý và Giao Ước 19:23**
+> — **Ma Thi Ơ 25:40**
 
-<sub>🕒 Cập nhật 14/08/2026 lúc 13:49</sub>
-<!-- quote-id: scripture-146 -->
+<sub>🕒 Cập nhật 14/08/2026 lúc 15:05</sub>
+<!-- quote-id: scripture-078 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
