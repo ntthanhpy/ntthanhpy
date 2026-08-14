@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### ✨ Câu truyền cảm hứng
 
-> “Một giờ tập trung hôm nay đang âm thầm xây nên một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Một lựa chọn có kỷ luật hôm nay là nền móng của một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
 > — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 14/08/2026 lúc 06:08</sub>
-<!-- quote-id: inspiration-058 -->
+<sub>🕒 Cập nhật 14/08/2026 lúc 07:03</sub>
+<!-- quote-id: inspiration-148 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
