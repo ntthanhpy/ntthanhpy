@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Tình yêu lớn lao được chứng minh bằng sự hy sinh.”
+> “Khi phục vụ người khác, ta cũng đang phục vụ Thượng Đế.”
 >
-> — **Giăng 15:13**
+> — **Mô Si A 2:17**
 
-<sub>🕒 Cập nhật 15/08/2026 lúc 10:27</sub>
-<!-- quote-id: scripture-093 -->
+<sub>🕒 Cập nhật 15/08/2026 lúc 11:01</sub>
+<!-- quote-id: scripture-129 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
