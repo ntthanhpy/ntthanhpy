@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy để mọi việc mình làm được dẫn dắt bởi tình yêu.”
+> “Thử thách có thể rèn nên sự kiên trì, phẩm chất và hy vọng.”
 >
-> — **1 Cô Rinh Tô 16:14**
+> — **Rô Ma 5:3-4**
 
-<sub>🕒 Cập nhật 15/08/2026 lúc 16:45</sub>
-<!-- quote-id: scripture-103 -->
+<sub>🕒 Cập nhật 15/08/2026 lúc 17:09</sub>
+<!-- quote-id: scripture-095 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
