@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một hành động can đảm hôm nay sẽ góp phần tạo nên một phiên bản trưởng thành hơn của chính mình.”
+> “Tình yêu, niềm vui, bình an và tự chủ là những trái của đời sống thuộc linh.”
 >
-> — **Daily Inspiration**
+> — **Ga La Ti 5:22-23**
 
-<sub>🕒 Cập nhật 16/08/2026 lúc 03:44</sub>
-<!-- quote-id: inspiration-187 -->
+<sub>🕒 Cập nhật 16/08/2026 lúc 04:09</sub>
+<!-- quote-id: scripture-107 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
