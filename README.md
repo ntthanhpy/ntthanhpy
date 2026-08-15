@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Người đi theo Đấng Christ không cần bước mãi trong bóng tối.”
+> “Đôi khi sự hướng dẫn đến trong một tiếng nói rất nhỏ nhẹ.”
 >
-> — **Giăng 8:12**
+> — **1 Các Vua 19:12**
 
-<sub>🕒 Cập nhật 15/08/2026 lúc 12:47</sub>
-<!-- quote-id: scripture-086 -->
+<sub>🕒 Cập nhật 15/08/2026 lúc 13:15</sub>
+<!-- quote-id: scripture-015 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
