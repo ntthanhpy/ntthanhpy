@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Ánh sáng và sự cứu rỗi làm giảm sức mạnh của nỗi sợ.”
+> “Một bước nhỏ hôm nay sẽ góp phần tạo nên một phiên bản trưởng thành hơn của chính mình.”
 >
-> — **Thi Thiên 27:1**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 15/08/2026 lúc 18:07</sub>
-<!-- quote-id: scripture-027 -->
+<sub>🕒 Cập nhật 15/08/2026 lúc 18:40</sub>
+<!-- quote-id: inspiration-012 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
