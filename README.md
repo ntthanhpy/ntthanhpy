@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lần lắng nghe thật lòng hôm nay đang âm thầm xây nên một ngày mai tốt đẹp hơn.”
+> “Có lúc ta phải bước đi bằng đức tin thay vì bằng điều mắt thấy.”
 >
-> — **Daily Inspiration**
+> — **2 Cô Rinh Tô 5:7**
 
-<sub>🕒 Cập nhật 15/08/2026 lúc 20:47</sub>
-<!-- quote-id: inspiration-206 -->
+<sub>🕒 Cập nhật 15/08/2026 lúc 21:09</sub>
+<!-- quote-id: scripture-105 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
