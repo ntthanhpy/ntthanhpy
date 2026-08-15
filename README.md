@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đức tin, hy vọng và tình yêu đều quý giá, nhưng tình yêu là lớn nhất.”
+> “Hãy dừng lại đủ lâu để nhận biết quyền năng của Thượng Đế.”
 >
-> — **1 Cô Rinh Tô 13:13**
+> — **Thi Thiên 46:10**
 
-<sub>🕒 Cập nhật 16/08/2026 lúc 02:12</sub>
-<!-- quote-id: scripture-102 -->
+<sub>🕒 Cập nhật 16/08/2026 lúc 02:40</sub>
+<!-- quote-id: scripture-032 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
