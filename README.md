@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Thượng Đế có thể hướng dẫn và làm mạnh mẽ tâm hồn khô hạn.”
+> “Không lời hứa tốt lành nào của Thượng Đế là bất khả thi.”
 >
-> — **Ê Sai 58:11**
+> — **Lu Ca 1:37**
 
-<sub>🕒 Cập nhật 15/08/2026 lúc 15:50</sub>
-<!-- quote-id: scripture-060 -->
+<sub>🕒 Cập nhật 15/08/2026 lúc 16:13</sub>
+<!-- quote-id: scripture-082 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
