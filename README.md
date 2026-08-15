@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Điều bạn trân quý sẽ dần định hình tấm lòng bạn.”
+> “Thượng Đế có thể hướng dẫn và làm mạnh mẽ tâm hồn khô hạn.”
 >
-> — **Ma Thi Ơ 6:21**
+> — **Ê Sai 58:11**
 
-<sub>🕒 Cập nhật 15/08/2026 lúc 15:11</sub>
-<!-- quote-id: scripture-072 -->
+<sub>🕒 Cập nhật 15/08/2026 lúc 15:50</sub>
+<!-- quote-id: scripture-060 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
