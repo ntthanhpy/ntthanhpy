@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy dừng lại đủ lâu để nhận biết quyền năng của Thượng Đế.”
+> “Khi dâng công việc cho Thượng Đế, suy nghĩ của ta trở nên ngay thẳng hơn.”
 >
-> — **Thi Thiên 46:10**
+> — **Châm Ngôn 16:3**
 
-<sub>🕒 Cập nhật 16/08/2026 lúc 02:40</sub>
-<!-- quote-id: scripture-032 -->
+<sub>🕒 Cập nhật 16/08/2026 lúc 03:07</sub>
+<!-- quote-id: scripture-045 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
