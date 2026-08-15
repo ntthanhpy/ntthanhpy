@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Thử thách có thể rèn nên sự kiên trì, phẩm chất và hy vọng.”
+> “Đừng sợ, vì Thượng Đế có thể thêm sức và nâng đỡ bạn.”
 >
-> — **Rô Ma 5:3-4**
+> — **Ê Sai 41:10**
 
-<sub>🕒 Cập nhật 15/08/2026 lúc 17:09</sub>
-<!-- quote-id: scripture-095 -->
+<sub>🕒 Cập nhật 15/08/2026 lúc 17:44</sub>
+<!-- quote-id: scripture-056 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
