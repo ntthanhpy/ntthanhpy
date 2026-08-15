@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Khi dâng công việc cho Thượng Đế, suy nghĩ của ta trở nên ngay thẳng hơn.”
+> “Một hành động can đảm hôm nay sẽ góp phần tạo nên một phiên bản trưởng thành hơn của chính mình.”
 >
-> — **Châm Ngôn 16:3**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 16/08/2026 lúc 03:07</sub>
-<!-- quote-id: scripture-045 -->
+<sub>🕒 Cập nhật 16/08/2026 lúc 03:44</sub>
+<!-- quote-id: inspiration-187 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
