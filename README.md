@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Đúng lúc cần thiết, Thượng Đế có thể chuẩn bị một con đường.”
+> “Một hành động can đảm hôm nay là nền móng của một ngày mai tốt đẹp hơn.”
 >
-> — **Sáng Thế Ký 22:14**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 16/08/2026 lúc 00:41</sub>
-<!-- quote-id: scripture-003 -->
+<sub>🕒 Cập nhật 16/08/2026 lúc 01:09</sub>
+<!-- quote-id: inspiration-196 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
