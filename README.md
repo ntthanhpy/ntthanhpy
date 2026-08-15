@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đừng sợ, vì Thượng Đế có thể thêm sức và nâng đỡ bạn.”
+> “Ánh sáng và sự cứu rỗi làm giảm sức mạnh của nỗi sợ.”
 >
-> — **Ê Sai 41:10**
+> — **Thi Thiên 27:1**
 
-<sub>🕒 Cập nhật 15/08/2026 lúc 17:44</sub>
-<!-- quote-id: scripture-056 -->
+<sub>🕒 Cập nhật 15/08/2026 lúc 18:07</sub>
+<!-- quote-id: scripture-027 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
