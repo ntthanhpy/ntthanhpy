@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Không lời hứa tốt lành nào của Thượng Đế là bất khả thi.”
+> “Hãy để mọi việc mình làm được dẫn dắt bởi tình yêu.”
 >
-> — **Lu Ca 1:37**
+> — **1 Cô Rinh Tô 16:14**
 
-<sub>🕒 Cập nhật 15/08/2026 lúc 16:13</sub>
-<!-- quote-id: scripture-082 -->
+<sub>🕒 Cập nhật 15/08/2026 lúc 16:45</sub>
+<!-- quote-id: scripture-103 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
