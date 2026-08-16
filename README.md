@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy đối xử với người khác theo cách bạn mong được đối xử.”
+> “Ân điển có thể đủ cho ta ngay trong sự yếu đuối.”
 >
-> — **Lu Ca 6:31**
+> — **2 Cô Rinh Tô 12:9**
 
-<sub>🕒 Cập nhật 16/08/2026 lúc 21:44</sub>
-<!-- quote-id: scripture-083 -->
+<sub>🕒 Cập nhật 16/08/2026 lúc 22:08</sub>
+<!-- quote-id: scripture-106 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
