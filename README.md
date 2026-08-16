@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Trong cám dỗ, luôn có một lối thoát để ta chọn điều đúng.”
+> “Qua nước sâu hay lửa nóng, bạn vẫn không bị bỏ rơi.”
 >
-> — **1 Cô Rinh Tô 10:13**
+> — **Ê Sai 43:2**
 
-<sub>🕒 Cập nhật 16/08/2026 lúc 10:24</sub>
-<!-- quote-id: scripture-100 -->
+<sub>🕒 Cập nhật 16/08/2026 lúc 11:04</sub>
+<!-- quote-id: scripture-057 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
