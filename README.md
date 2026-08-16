@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Tinh thần tranh chấp không đến từ Đấng Christ.”
+> “Người kiên định trong điều tốt lành sẽ sinh trái đúng mùa.”
 >
-> — **3 Nê Phi 11:29**
+> — **Thi Thiên 1:3**
 
-<sub>🕒 Cập nhật 16/08/2026 lúc 14:05</sub>
-<!-- quote-id: scripture-135 -->
+<sub>🕒 Cập nhật 16/08/2026 lúc 14:50</sub>
+<!-- quote-id: scripture-021 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
