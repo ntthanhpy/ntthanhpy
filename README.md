@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Niềm vui trong Chúa có thể trở thành sức mạnh cho ngày mới.”
+> “Khi được chuẩn bị, ta sẽ bớt sợ hãi.”
 >
-> — **Nê Hê Mi 8:10**
+> — **Giáo Lý và Giao Ước 38:30**
 
-<sub>🕒 Cập nhật 17/08/2026 lúc 05:06</sub>
-<!-- quote-id: scripture-017 -->
+<sub>🕒 Cập nhật 17/08/2026 lúc 05:42</sub>
+<!-- quote-id: scripture-148 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
