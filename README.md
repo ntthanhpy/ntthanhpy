@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Người kiên định trong điều tốt lành sẽ sinh trái đúng mùa.”
+> “Có thể bạn được đặt vào hoàn cảnh này vì một mục đích quan trọng.”
 >
-> — **Thi Thiên 1:3**
+> — **Ê Xơ Tê 4:14**
 
-<sub>🕒 Cập nhật 16/08/2026 lúc 14:50</sub>
-<!-- quote-id: scripture-021 -->
+<sub>🕒 Cập nhật 16/08/2026 lúc 15:13</sub>
+<!-- quote-id: scripture-018 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
