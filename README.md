@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một phút biết ơn hôm nay đang âm thầm xây nên một phiên bản trưởng thành hơn của chính mình.”
+> “Hãy đối xử với người khác theo cách bạn mong được đối xử.”
 >
-> — **Daily Inspiration**
+> — **Lu Ca 6:31**
 
-<sub>🕒 Cập nhật 16/08/2026 lúc 21:10</sub>
-<!-- quote-id: inspiration-157 -->
+<sub>🕒 Cập nhật 16/08/2026 lúc 21:44</sub>
+<!-- quote-id: scripture-083 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
