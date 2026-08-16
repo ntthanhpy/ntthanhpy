@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Con người hiện hữu để có được niềm vui.”
+> “Tinh thần tranh chấp không đến từ Đấng Christ.”
 >
-> — **2 Nê Phi 2:25**
+> — **3 Nê Phi 11:29**
 
-<sub>🕒 Cập nhật 16/08/2026 lúc 13:17</sub>
-<!-- quote-id: scripture-127 -->
+<sub>🕒 Cập nhật 16/08/2026 lúc 14:05</sub>
+<!-- quote-id: scripture-135 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
