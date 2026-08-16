@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy tự mình trải nghiệm sự tốt lành của Thượng Đế.”
+> “Hãy trao mọi lo âu cho Thượng Đế vì Ngài quan tâm đến bạn.”
 >
-> — **Thi Thiên 34:8**
+> — **1 Phi E Rơ 5:7**
 
-<sub>🕒 Cập nhật 16/08/2026 lúc 22:41</sub>
-<!-- quote-id: scripture-029 -->
+<sub>🕒 Cập nhật 16/08/2026 lúc 23:09</sub>
+<!-- quote-id: scripture-123 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
