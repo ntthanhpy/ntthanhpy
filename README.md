@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một bước nhỏ hôm nay sẽ góp phần tạo nên một cuộc đời có nhiều ý nghĩa hơn.”
+> “Tình yêu của Thượng Đế được bày tỏ qua món quà là Đấng Cứu Rỗi.”
 >
-> — **Daily Inspiration**
+> — **Giăng 3:16**
 
-<sub>🕒 Cập nhật 16/08/2026 lúc 06:40</sub>
-<!-- quote-id: inspiration-015 -->
+<sub>🕒 Cập nhật 16/08/2026 lúc 07:28</sub>
+<!-- quote-id: scripture-085 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
