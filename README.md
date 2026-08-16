@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hôm nay đã có đủ việc của hôm nay; đừng để ngày mai cướp mất bình an.”
+> “Niềm vui trong Chúa có thể trở thành sức mạnh cho ngày mới.”
 >
-> — **Ma Thi Ơ 6:34**
+> — **Nê Hê Mi 8:10**
 
-<sub>🕒 Cập nhật 17/08/2026 lúc 04:40</sub>
-<!-- quote-id: scripture-073 -->
+<sub>🕒 Cập nhật 17/08/2026 lúc 05:06</sub>
+<!-- quote-id: scripture-017 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
