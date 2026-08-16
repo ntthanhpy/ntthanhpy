@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Ân điển có thể đủ cho ta ngay trong sự yếu đuối.”
+> “Hãy tự mình trải nghiệm sự tốt lành của Thượng Đế.”
 >
-> — **2 Cô Rinh Tô 12:9**
+> — **Thi Thiên 34:8**
 
-<sub>🕒 Cập nhật 16/08/2026 lúc 22:08</sub>
-<!-- quote-id: scripture-106 -->
+<sub>🕒 Cập nhật 16/08/2026 lúc 22:41</sub>
+<!-- quote-id: scripture-029 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
