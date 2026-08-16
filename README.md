@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hãy hướng mọi ý nghĩ về Đấng Christ; đừng nghi ngờ hay sợ hãi.”
+> “Một lần đứng dậy hôm nay có thể mở ra một cuộc đời có nhiều ý nghĩa hơn.”
 >
-> — **Giáo Lý và Giao Ước 6:36**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 16/08/2026 lúc 16:47</sub>
-<!-- quote-id: scripture-143 -->
+<sub>🕒 Cập nhật 16/08/2026 lúc 17:09</sub>
+<!-- quote-id: inspiration-105 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
