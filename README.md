@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Sự bình an của Đấng Christ khác với sự yên ổn tạm thời của thế gian.”
+> “Một lời tử tế hôm nay có thể dẫn bạn đến một ngày mai tốt đẹp hơn.”
 >
-> — **Giăng 14:27**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 16/08/2026 lúc 20:06</sub>
-<!-- quote-id: scripture-091 -->
+<sub>🕒 Cập nhật 16/08/2026 lúc 20:49</sub>
+<!-- quote-id: inspiration-091 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
