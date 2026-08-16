@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Khi Thượng Đế dẫn dắt, ta không cần sống trong nỗi thiếu thốn.”
+> “Một quyết định đúng hôm nay sẽ góp phần tạo nên một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
-> — **Thi Thiên 23:1**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 17/08/2026 lúc 03:07</sub>
-<!-- quote-id: scripture-025 -->
+<sub>🕒 Cập nhật 17/08/2026 lúc 03:43</sub>
+<!-- quote-id: inspiration-038 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
