@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy trao mọi lo âu cho Thượng Đế vì Ngài quan tâm đến bạn.”
+> “Tôn kính cha mẹ là nền tảng của một đời sống có trật tự.”
 >
-> — **1 Phi E Rơ 5:7**
+> — **Xuất Ê Díp Tô Ký 20:12**
 
-<sub>🕒 Cập nhật 16/08/2026 lúc 23:09</sub>
-<!-- quote-id: scripture-123 -->
+<sub>🕒 Cập nhật 16/08/2026 lúc 23:46</sub>
+<!-- quote-id: scripture-005 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
