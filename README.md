@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy tiếp tục xin, tìm kiếm và gõ cửa với lòng chân thành.”
+> “Đức tin biến Thượng Đế thành nơi trú ẩn trong tâm hồn.”
 >
-> — **Ma Thi Ơ 7:7**
+> — **Thi Thiên 91:2**
 
-<sub>🕒 Cập nhật 16/08/2026 lúc 18:40</sub>
-<!-- quote-id: scripture-074 -->
+<sub>🕒 Cập nhật 16/08/2026 lúc 19:11</sub>
+<!-- quote-id: scripture-036 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
