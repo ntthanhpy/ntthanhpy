@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Kho báu của bạn cho thấy nơi tấm lòng bạn đang hướng đến.”
+> “Hôm nay đã có đủ việc của hôm nay; đừng để ngày mai cướp mất bình an.”
 >
-> — **Lu Ca 12:34**
+> — **Ma Thi Ơ 6:34**
 
-<sub>🕒 Cập nhật 17/08/2026 lúc 04:07</sub>
-<!-- quote-id: scripture-084 -->
+<sub>🕒 Cập nhật 17/08/2026 lúc 04:40</sub>
+<!-- quote-id: scripture-073 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
