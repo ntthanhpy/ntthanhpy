@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đức tin biến Thượng Đế thành nơi trú ẩn trong tâm hồn.”
+> “Sự bình an của Đấng Christ khác với sự yên ổn tạm thời của thế gian.”
 >
-> — **Thi Thiên 91:2**
+> — **Giăng 14:27**
 
-<sub>🕒 Cập nhật 16/08/2026 lúc 19:11</sub>
-<!-- quote-id: scripture-036 -->
+<sub>🕒 Cập nhật 16/08/2026 lúc 20:06</sub>
+<!-- quote-id: scripture-091 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
