@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lựa chọn có kỷ luật hôm nay có thể dẫn bạn đến một phiên bản trưởng thành hơn của chính mình.”
+> “Khi được chuẩn bị, ta sẽ bớt sợ hãi.”
 >
-> — **Daily Inspiration**
+> — **Giáo Lý và Giao Ước 38:30**
 
-<sub>🕒 Cập nhật 16/08/2026 lúc 11:55</sub>
-<!-- quote-id: inspiration-142 -->
+<sub>🕒 Cập nhật 16/08/2026 lúc 12:17</sub>
+<!-- quote-id: scripture-148 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
