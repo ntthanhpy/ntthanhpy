@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lần đứng dậy hôm nay sẽ góp phần tạo nên một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Con người hiện hữu để có được niềm vui.”
 >
-> — **Daily Inspiration**
+> — **2 Nê Phi 2:25**
 
-<sub>🕒 Cập nhật 16/08/2026 lúc 12:49</sub>
-<!-- quote-id: inspiration-113 -->
+<sub>🕒 Cập nhật 16/08/2026 lúc 13:17</sub>
+<!-- quote-id: scripture-127 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
