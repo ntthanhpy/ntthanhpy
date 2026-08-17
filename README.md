@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Dấu hiệu rõ ràng của người môn đồ là tình yêu dành cho nhau.”
+> “Một hành động can đảm hôm nay có thể dẫn bạn đến một cuộc đời có nhiều ý nghĩa hơn.”
 >
-> — **Giăng 13:34**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 18/08/2026 lúc 03:11</sub>
-<!-- quote-id: scripture-088 -->
+<sub>🕒 Cập nhật 18/08/2026 lúc 03:48</sub>
+<!-- quote-id: inspiration-195 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
