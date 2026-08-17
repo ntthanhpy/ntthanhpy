@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Nghịch cảnh chỉ kéo dài trong một thời gian; hãy giữ lòng trung tín.”
+> “Một bước nhỏ hôm nay là nền móng của một ngày mai tốt đẹp hơn.”
 >
-> — **Giáo Lý và Giao Ước 121:7-8**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 17/08/2026 lúc 22:45</sub>
-<!-- quote-id: scripture-154 -->
+<sub>🕒 Cập nhật 17/08/2026 lúc 23:11</sub>
+<!-- quote-id: inspiration-021 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
