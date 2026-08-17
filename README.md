@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Khi con người khiêm nhường và quay về điều thiện, sự chữa lành có thể bắt đầu.”
+> “Thử thách có thể rèn nên sự kiên trì, phẩm chất và hy vọng.”
 >
-> — **2 Sử Ký 7:14**
+> — **Rô Ma 5:3-4**
 
-<sub>🕒 Cập nhật 17/08/2026 lúc 08:59</sub>
-<!-- quote-id: scripture-016 -->
+<sub>🕒 Cập nhật 17/08/2026 lúc 09:56</sub>
+<!-- quote-id: scripture-095 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
