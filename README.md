@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Mọi điều đều có thời điểm thích hợp của nó.”
+> “Biết quý từng ngày giúp ta sống khôn ngoan hơn.”
 >
-> — **Truyền Đạo 3:1**
+> — **Thi Thiên 90:12**
 
-<sub>🕒 Cập nhật 17/08/2026 lúc 18:13</sub>
-<!-- quote-id: scripture-051 -->
+<sub>🕒 Cập nhật 17/08/2026 lúc 18:46</sub>
+<!-- quote-id: scripture-035 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
