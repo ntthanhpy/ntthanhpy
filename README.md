@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Biết quý từng ngày giúp ta sống khôn ngoan hơn.”
+> “Một phút biết ơn hôm nay sẽ góp phần tạo nên một kết quả lớn hơn điều bạn đang tưởng tượng.”
 >
-> — **Thi Thiên 90:12**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 17/08/2026 lúc 18:46</sub>
-<!-- quote-id: scripture-035 -->
+<sub>🕒 Cập nhật 17/08/2026 lúc 19:15</sub>
+<!-- quote-id: inspiration-164 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
