@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Khi ở gần Đấng Christ, đời sống ta có thể sinh nhiều trái tốt.”
+> “Đúng lúc cần thiết, Thượng Đế có thể chuẩn bị một con đường.”
 >
-> — **Giăng 15:5**
+> — **Sáng Thế Ký 22:14**
 
-<sub>🕒 Cập nhật 17/08/2026 lúc 14:40</sub>
-<!-- quote-id: scripture-092 -->
+<sub>🕒 Cập nhật 17/08/2026 lúc 15:27</sub>
+<!-- quote-id: scripture-003 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
