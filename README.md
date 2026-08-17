@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Đúng lúc cần thiết, Thượng Đế có thể chuẩn bị một con đường.”
+> “Một giờ tập trung hôm nay sẽ góp phần tạo nên một cuộc đời có nhiều ý nghĩa hơn.”
 >
-> — **Sáng Thế Ký 22:14**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 17/08/2026 lúc 15:27</sub>
-<!-- quote-id: scripture-003 -->
+<sub>🕒 Cập nhật 17/08/2026 lúc 16:06</sub>
+<!-- quote-id: inspiration-065 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
