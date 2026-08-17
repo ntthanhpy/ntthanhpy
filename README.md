@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Thử thách có thể rèn nên sự kiên trì, phẩm chất và hy vọng.”
+> “Hãy làm mọi việc trong sự khôn ngoan và trật tự, không chạy nhanh hơn sức mình.”
 >
-> — **Rô Ma 5:3-4**
+> — **Mô Si A 4:27**
 
-<sub>🕒 Cập nhật 17/08/2026 lúc 09:56</sub>
-<!-- quote-id: scripture-095 -->
+<sub>🕒 Cập nhật 17/08/2026 lúc 10:41</sub>
+<!-- quote-id: scripture-130 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
