@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đức tin trưởng thành khi lời tốt lành được biến thành hành động.”
+> “Khi con người khiêm nhường và quay về điều thiện, sự chữa lành có thể bắt đầu.”
 >
-> — **Gia Cơ 1:22**
+> — **2 Sử Ký 7:14**
 
-<sub>🕒 Cập nhật 17/08/2026 lúc 07:26</sub>
-<!-- quote-id: scripture-122 -->
+<sub>🕒 Cập nhật 17/08/2026 lúc 08:59</sub>
+<!-- quote-id: scripture-016 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
