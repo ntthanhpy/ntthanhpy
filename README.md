@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một phút biết ơn hôm nay sẽ góp phần tạo nên một kết quả lớn hơn điều bạn đang tưởng tượng.”
+> “Khi thiếu khôn ngoan, hãy chân thành cầu xin Thượng Đế.”
 >
-> — **Daily Inspiration**
+> — **Gia Cơ 1:5**
 
-<sub>🕒 Cập nhật 17/08/2026 lúc 19:15</sub>
-<!-- quote-id: inspiration-164 -->
+<sub>🕒 Cập nhật 17/08/2026 lúc 20:12</sub>
+<!-- quote-id: scripture-121 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
