@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Thượng Đế có thể ban một tấm lòng mới và một tinh thần mới.”
+> “Thượng Đế sẽ tiếp tục hoàn thành công việc tốt lành Ngài đã bắt đầu nơi bạn.”
 >
-> — **Ê Xê Chi Ên 36:26**
+> — **Phi Líp 1:6**
 
-<sub>🕒 Cập nhật 17/08/2026 lúc 23:50</sub>
-<!-- quote-id: scripture-066 -->
+<sub>🕒 Cập nhật 18/08/2026 lúc 00:14</sub>
+<!-- quote-id: scripture-112 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
