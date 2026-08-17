@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Lời chứng thường đến sau khi đức tin đã được thử thách.”
+> “Suy ngẫm lời Thượng Đế mỗi ngày giúp ta hành động khôn ngoan.”
 >
-> — **Ê The 12:6**
+> — **Giô Suê 1:8**
 
-<sub>🕒 Cập nhật 18/08/2026 lúc 04:45</sub>
-<!-- quote-id: scripture-139 -->
+<sub>🕒 Cập nhật 18/08/2026 lúc 05:10</sub>
+<!-- quote-id: scripture-008 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
