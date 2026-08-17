@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Người xây dựng hòa bình đang làm một công việc thiêng liêng.”
+> “Khi ở gần Đấng Christ, đời sống ta có thể sinh nhiều trái tốt.”
 >
-> — **Ma Thi Ơ 5:9**
+> — **Giăng 15:5**
 
-<sub>🕒 Cập nhật 17/08/2026 lúc 13:30</sub>
-<!-- quote-id: scripture-070 -->
+<sub>🕒 Cập nhật 17/08/2026 lúc 14:40</sub>
+<!-- quote-id: scripture-092 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
