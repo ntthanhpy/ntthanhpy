@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy tiếp tục xin, tìm kiếm và gõ cửa với lòng chân thành.”
+> “Tinh thần tranh chấp không đến từ Đấng Christ.”
 >
-> — **Ma Thi Ơ 7:7**
+> — **3 Nê Phi 11:29**
 
-<sub>🕒 Cập nhật 18/08/2026 lúc 23:15</sub>
-<!-- quote-id: scripture-074 -->
+<sub>🕒 Cập nhật 18/08/2026 lúc 23:53</sub>
+<!-- quote-id: scripture-135 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
