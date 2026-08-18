@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### ✨ Câu truyền cảm hứng
 
-> “Một phút biết ơn hôm nay có thể mở ra một phiên bản trưởng thành hơn của chính mình.”
+> “Một lần lắng nghe thật lòng hôm nay có thể mở ra một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
 > — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 18/08/2026 lúc 16:54</sub>
-<!-- quote-id: inspiration-152 -->
+<sub>🕒 Cập nhật 18/08/2026 lúc 17:14</sub>
+<!-- quote-id: inspiration-203 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
