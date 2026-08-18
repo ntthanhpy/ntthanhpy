@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Ta có thể lập kế hoạch, nhưng Thượng Đế vẫn có thể điều chỉnh từng bước.”
+> “Khi phục vụ người khác, ta cũng đang phục vụ Thượng Đế.”
 >
-> — **Châm Ngôn 16:9**
+> — **Mô Si A 2:17**
 
-<sub>🕒 Cập nhật 18/08/2026 lúc 14:10</sub>
-<!-- quote-id: scripture-046 -->
+<sub>🕒 Cập nhật 18/08/2026 lúc 14:58</sub>
+<!-- quote-id: scripture-129 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
