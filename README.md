@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Lời chứng thường đến sau khi đức tin đã được thử thách.”
+> “Một hành động can đảm hôm nay là nền móng của một cuộc đời có nhiều ý nghĩa hơn.”
 >
-> — **Ê The 12:6**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 18/08/2026 lúc 22:24</sub>
-<!-- quote-id: scripture-139 -->
+<sub>🕒 Cập nhật 18/08/2026 lúc 22:53</sub>
+<!-- quote-id: inspiration-200 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
