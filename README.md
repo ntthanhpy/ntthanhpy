@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Tôn kính cha mẹ là nền tảng của một đời sống có trật tự.”
+> “Hãy yêu mến Thượng Đế bằng cả tấm lòng, tâm hồn và sức lực.”
 >
-> — **Xuất Ê Díp Tô Ký 20:12**
+> — **Phục Truyền Luật Lệ Ký 6:5**
 
-<sub>🕒 Cập nhật 19/08/2026 lúc 05:08</sub>
-<!-- quote-id: scripture-005 -->
+<sub>🕒 Cập nhật 19/08/2026 lúc 05:45</sub>
+<!-- quote-id: scripture-006 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
