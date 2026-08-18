@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Tình yêu bền vững của Thượng Đế không dễ bị lay chuyển.”
+> “Tôn kính cha mẹ là nền tảng của một đời sống có trật tự.”
 >
-> — **Giê Rê Mi 31:3**
+> — **Xuất Ê Díp Tô Ký 20:12**
 
-<sub>🕒 Cập nhật 19/08/2026 lúc 04:43</sub>
-<!-- quote-id: scripture-064 -->
+<sub>🕒 Cập nhật 19/08/2026 lúc 05:08</sub>
+<!-- quote-id: scripture-005 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
