@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Lòng trung thành được thể hiện rõ nhất khi con đường trở nên khó khăn.”
+> “Một lần đứng dậy hôm nay là nền móng của một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
-> — **Ru Tơ 1:16**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 18/08/2026 lúc 12:51</sub>
-<!-- quote-id: scripture-011 -->
+<sub>🕒 Cập nhật 18/08/2026 lúc 13:19</sub>
+<!-- quote-id: inspiration-123 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
