@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy yêu mến Thượng Đế bằng cả tấm lòng, tâm hồn và sức lực.”
+> “Bạn có thể làm điều cần làm nhờ sức mạnh Đấng Christ ban cho.”
 >
-> — **Phục Truyền Luật Lệ Ký 6:5**
+> — **Phi Líp 4:13**
 
-<sub>🕒 Cập nhật 19/08/2026 lúc 05:45</sub>
-<!-- quote-id: scripture-006 -->
+<sub>🕒 Cập nhật 19/08/2026 lúc 06:10</sub>
+<!-- quote-id: scripture-115 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
