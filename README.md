@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một hành động can đảm hôm nay đang âm thầm xây nên một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Một ngày sẽ đến khi nước mắt, đau buồn và sự chết không còn nữa.”
 >
-> — **Daily Inspiration**
+> — **Khải Huyền 21:4**
 
-<sub>🕒 Cập nhật 18/08/2026 lúc 06:42</sub>
-<!-- quote-id: inspiration-183 -->
+<sub>🕒 Cập nhật 18/08/2026 lúc 07:26</sub>
+<!-- quote-id: scripture-125 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
