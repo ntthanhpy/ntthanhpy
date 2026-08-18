@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Bạn có thể làm điều cần làm nhờ sức mạnh Đấng Christ ban cho.”
+> “Kho báu của bạn cho thấy nơi tấm lòng bạn đang hướng đến.”
 >
-> — **Phi Líp 4:13**
+> — **Lu Ca 12:34**
 
-<sub>🕒 Cập nhật 19/08/2026 lúc 06:10</sub>
-<!-- quote-id: scripture-115 -->
+<sub>🕒 Cập nhật 19/08/2026 lúc 06:41</sub>
+<!-- quote-id: scripture-084 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
