@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một bước nhỏ hôm nay có thể mở ra một phiên bản trưởng thành hơn của chính mình.”
+> “Lòng trung thành được thể hiện rõ nhất khi con đường trở nên khó khăn.”
 >
-> — **Daily Inspiration**
+> — **Ru Tơ 1:16**
 
-<sub>🕒 Cập nhật 18/08/2026 lúc 12:22</sub>
-<!-- quote-id: inspiration-002 -->
+<sub>🕒 Cập nhật 18/08/2026 lúc 12:51</sub>
+<!-- quote-id: scripture-011 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
