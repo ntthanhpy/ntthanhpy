@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một quyết định đúng hôm nay có thể dẫn bạn đến một ngày mai tốt đẹp hơn.”
+> “Dù bên ngoài mệt mỏi, con người bên trong vẫn có thể được đổi mới mỗi ngày.”
 >
-> — **Daily Inspiration**
+> — **2 Cô Rinh Tô 4:16**
 
-<sub>🕒 Cập nhật 19/08/2026 lúc 03:08</sub>
-<!-- quote-id: inspiration-041 -->
+<sub>🕒 Cập nhật 19/08/2026 lúc 03:44</sub>
+<!-- quote-id: scripture-104 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
