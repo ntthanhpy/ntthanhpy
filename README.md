@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một bước nhỏ hôm nay là nền móng của một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Dù bên ngoài mệt mỏi, con người bên trong vẫn có thể được đổi mới mỗi ngày.”
 >
-> — **Daily Inspiration**
+> — **2 Cô Rinh Tô 4:16**
 
-<sub>🕒 Cập nhật 18/08/2026 lúc 08:55</sub>
-<!-- quote-id: inspiration-023 -->
+<sub>🕒 Cập nhật 18/08/2026 lúc 09:45</sub>
+<!-- quote-id: scripture-104 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
