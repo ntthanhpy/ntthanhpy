@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Sự đổi mới trong tâm trí sẽ dẫn đến một đời sống được biến đổi.”
+> “Nghịch cảnh chỉ kéo dài trong một thời gian; hãy giữ lòng trung tín.”
 >
-> — **Rô Ma 12:2**
+> — **Giáo Lý và Giao Ước 121:7-8**
 
-<sub>🕒 Cập nhật 18/08/2026 lúc 20:14</sub>
-<!-- quote-id: scripture-098 -->
+<sub>🕒 Cập nhật 18/08/2026 lúc 21:02</sub>
+<!-- quote-id: scripture-154 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
