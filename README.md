@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lần đứng dậy hôm nay là nền móng của một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Ta có thể lập kế hoạch, nhưng Thượng Đế vẫn có thể điều chỉnh từng bước.”
 >
-> — **Daily Inspiration**
+> — **Châm Ngôn 16:9**
 
-<sub>🕒 Cập nhật 18/08/2026 lúc 13:19</sub>
-<!-- quote-id: inspiration-123 -->
+<sub>🕒 Cập nhật 18/08/2026 lúc 14:10</sub>
+<!-- quote-id: scripture-046 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
