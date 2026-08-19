@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Kho báu của bạn cho thấy nơi tấm lòng bạn đang hướng đến.”
+> “Một hành động can đảm hôm nay đang âm thầm xây nên một kết quả lớn hơn điều bạn đang tưởng tượng.”
 >
-> — **Lu Ca 12:34**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 19/08/2026 lúc 06:41</sub>
-<!-- quote-id: scripture-084 -->
+<sub>🕒 Cập nhật 19/08/2026 lúc 07:26</sub>
+<!-- quote-id: inspiration-184 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
