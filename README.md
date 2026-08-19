@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đức tin biến Thượng Đế thành nơi trú ẩn trong tâm hồn.”
+> “Đúng lúc cần thiết, Thượng Đế có thể chuẩn bị một con đường.”
 >
-> — **Thi Thiên 91:2**
+> — **Sáng Thế Ký 22:14**
 
-<sub>🕒 Cập nhật 20/08/2026 lúc 05:46</sub>
-<!-- quote-id: scripture-036 -->
+<sub>🕒 Cập nhật 20/08/2026 lúc 06:10</sub>
+<!-- quote-id: scripture-003 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
