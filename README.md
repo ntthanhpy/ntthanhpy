@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Lời chứng thường đến sau khi đức tin đã được thử thách.”
+> “Đường lối của Thượng Đế cao hơn tầm nhìn hiện tại của chúng ta.”
 >
-> — **Ê The 12:6**
+> — **Ê Sai 55:8-9**
 
-<sub>🕒 Cập nhật 19/08/2026 lúc 16:19</sub>
-<!-- quote-id: scripture-139 -->
+<sub>🕒 Cập nhật 19/08/2026 lúc 16:54</sub>
+<!-- quote-id: scripture-059 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
