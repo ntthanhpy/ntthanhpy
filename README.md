@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### ✨ Câu truyền cảm hứng
 
-> “Một lần đứng dậy hôm nay là nền móng của một kết quả lớn hơn điều bạn đang tưởng tượng.”
+> “Một lần đứng dậy hôm nay là nền móng của một ngày mai tốt đẹp hơn.”
 >
 > — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 20/08/2026 lúc 01:58</sub>
-<!-- quote-id: inspiration-124 -->
+<sub>🕒 Cập nhật 20/08/2026 lúc 02:21</sub>
+<!-- quote-id: inspiration-121 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
