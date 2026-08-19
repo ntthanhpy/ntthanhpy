@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một bước nhỏ hôm nay có thể dẫn bạn đến một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Tình yêu, niềm vui, bình an và tự chủ là những trái của đời sống thuộc linh.”
 >
-> — **Daily Inspiration**
+> — **Ga La Ti 5:22-23**
 
-<sub>🕒 Cập nhật 19/08/2026 lúc 17:50</sub>
-<!-- quote-id: inspiration-018 -->
+<sub>🕒 Cập nhật 19/08/2026 lúc 18:12</sub>
+<!-- quote-id: scripture-107 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
