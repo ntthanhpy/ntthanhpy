@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Đường lối của Thượng Đế cao hơn tầm nhìn hiện tại của chúng ta.”
+> “Một phút biết ơn hôm nay sẽ góp phần tạo nên một kết quả lớn hơn điều bạn đang tưởng tượng.”
 >
-> — **Ê Sai 55:8-9**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 19/08/2026 lúc 16:54</sub>
-<!-- quote-id: scripture-059 -->
+<sub>🕒 Cập nhật 19/08/2026 lúc 17:14</sub>
+<!-- quote-id: inspiration-164 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
