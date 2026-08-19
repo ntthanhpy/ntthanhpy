@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy sống công bình, yêu sự thương xót và bước đi khiêm nhường.”
+> “Lời chứng thường đến sau khi đức tin đã được thử thách.”
 >
-> — **Mi Chê 6:8**
+> — **Ê The 12:6**
 
-<sub>🕒 Cập nhật 19/08/2026 lúc 15:32</sub>
-<!-- quote-id: scripture-068 -->
+<sub>🕒 Cập nhật 19/08/2026 lúc 16:19</sub>
+<!-- quote-id: scripture-139 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
