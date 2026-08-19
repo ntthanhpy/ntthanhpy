@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy yêu mến Thượng Đế bằng cả tấm lòng, tâm hồn và sức lực.”
+> “Hãy tìm kiếm nước Thượng Đế trước, rồi những điều cần thiết sẽ được thêm cho.”
 >
-> — **Phục Truyền Luật Lệ Ký 6:5**
+> — **3 Nê Phi 13:33**
 
-<sub>🕒 Cập nhật 19/08/2026 lúc 18:45</sub>
-<!-- quote-id: scripture-006 -->
+<sub>🕒 Cập nhật 19/08/2026 lúc 19:17</sub>
+<!-- quote-id: scripture-137 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
