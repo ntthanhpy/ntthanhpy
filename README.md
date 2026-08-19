@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một quyết định đúng hôm nay là nền móng của một cuộc đời có nhiều ý nghĩa hơn.”
+> “Điều ta làm cho người nhỏ bé cũng là điều ta dâng lên Chúa.”
 >
-> — **Daily Inspiration**
+> — **Ma Thi Ơ 25:40**
 
-<sub>🕒 Cập nhật 19/08/2026 lúc 21:02</sub>
-<!-- quote-id: inspiration-050 -->
+<sub>🕒 Cập nhật 19/08/2026 lúc 21:58</sub>
+<!-- quote-id: scripture-078 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
