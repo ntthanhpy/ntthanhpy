@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Ngay trong thung lũng tối tăm, ta vẫn có thể bước đi mà không sợ hãi.”
+> “Một giờ tập trung hôm nay là nền móng của một phiên bản trưởng thành hơn của chính mình.”
 >
-> — **Thi Thiên 23:4**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 20/08/2026 lúc 03:49</sub>
-<!-- quote-id: scripture-026 -->
+<sub>🕒 Cập nhật 20/08/2026 lúc 04:13</sub>
+<!-- quote-id: inspiration-072 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
