@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### ✨ Câu truyền cảm hứng
 
-> “Một quyết định đúng hôm nay là nền móng của một phiên bản trưởng thành hơn của chính mình.”
+> “Một lần đứng dậy hôm nay là nền móng của một ngày mai tốt đẹp hơn.”
 >
 > — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 20/08/2026 lúc 02:45</sub>
-<!-- quote-id: inspiration-047 -->
+<sub>🕒 Cập nhật 20/08/2026 lúc 03:11</sub>
+<!-- quote-id: inspiration-121 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
