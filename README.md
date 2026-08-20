@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đấng Cứu Rỗi mang đến sự bình an vượt trên quyền lực của thế gian.”
+> “Ân điển có thể đủ cho ta ngay trong sự yếu đuối.”
 >
-> — **Ê Sai 9:6**
+> — **2 Cô Rinh Tô 12:9**
 
-<sub>🕒 Cập nhật 20/08/2026 lúc 18:48</sub>
-<!-- quote-id: scripture-053 -->
+<sub>🕒 Cập nhật 20/08/2026 lúc 19:18</sub>
+<!-- quote-id: scripture-106 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
