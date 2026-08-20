@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đấng Cứu Rỗi muốn ban một đời sống đầy đủ và có ý nghĩa.”
+> “Đức tin, hy vọng và tình yêu đều quý giá, nhưng tình yêu là lớn nhất.”
 >
-> — **Giăng 10:10**
+> — **1 Cô Rinh Tô 13:13**
 
-<sub>🕒 Cập nhật 20/08/2026 lúc 17:53</sub>
-<!-- quote-id: scripture-087 -->
+<sub>🕒 Cập nhật 20/08/2026 lúc 18:14</sub>
+<!-- quote-id: scripture-102 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
