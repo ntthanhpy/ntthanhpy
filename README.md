@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đường lối của Thượng Đế cao hơn tầm nhìn hiện tại của chúng ta.”
+> “Đấng Cứu Rỗi muốn ban một đời sống đầy đủ và có ý nghĩa.”
 >
-> — **Ê Sai 55:8-9**
+> — **Giăng 10:10**
 
-<sub>🕒 Cập nhật 20/08/2026 lúc 17:17</sub>
-<!-- quote-id: scripture-059 -->
+<sub>🕒 Cập nhật 20/08/2026 lúc 17:53</sub>
+<!-- quote-id: scripture-087 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
