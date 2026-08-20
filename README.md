@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Thượng Đế ban tinh thần mạnh mẽ, yêu thương và tự chủ, không phải sợ hãi.”
+> “Qua sự hy sinh của Đấng Cứu Rỗi, sự chữa lành trở nên khả thi.”
 >
-> — **2 Ti Mô Thê 1:7**
+> — **Ê Sai 53:5**
 
-<sub>🕒 Cập nhật 20/08/2026 lúc 10:35</sub>
-<!-- quote-id: scripture-118 -->
+<sub>🕒 Cập nhật 20/08/2026 lúc 11:23</sub>
+<!-- quote-id: scripture-058 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
