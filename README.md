@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Tình yêu thật biết kiên nhẫn và nhân từ.”
+> “Khi con người khiêm nhường và quay về điều thiện, sự chữa lành có thể bắt đầu.”
 >
-> — **1 Cô Rinh Tô 13:4**
+> — **2 Sử Ký 7:14**
 
-<sub>🕒 Cập nhật 21/08/2026 lúc 03:14</sub>
-<!-- quote-id: scripture-101 -->
+<sub>🕒 Cập nhật 21/08/2026 lúc 03:51</sub>
+<!-- quote-id: scripture-016 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
