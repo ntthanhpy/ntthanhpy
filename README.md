@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một bước nhỏ hôm nay có thể mở ra một ngày mai tốt đẹp hơn.”
+> “Sự giúp đỡ thật đến từ Đấng dựng nên trời và đất.”
 >
-> — **Daily Inspiration**
+> — **Thi Thiên 121:1-2**
 
-<sub>🕒 Cập nhật 20/08/2026 lúc 12:28</sub>
-<!-- quote-id: inspiration-001 -->
+<sub>🕒 Cập nhật 20/08/2026 lúc 12:56</sub>
+<!-- quote-id: scripture-039 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
