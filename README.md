@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Khi con người khiêm nhường và quay về điều thiện, sự chữa lành có thể bắt đầu.”
+> “Niềm vui trong Chúa có thể trở thành sức mạnh cho ngày mới.”
 >
-> — **2 Sử Ký 7:14**
+> — **Nê Hê Mi 8:10**
 
-<sub>🕒 Cập nhật 21/08/2026 lúc 03:51</sub>
-<!-- quote-id: scripture-016 -->
+<sub>🕒 Cập nhật 21/08/2026 lúc 04:15</sub>
+<!-- quote-id: scripture-017 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
