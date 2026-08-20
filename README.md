@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một quyết định đúng hôm nay có thể dẫn bạn đến một cuộc đời có nhiều ý nghĩa hơn.”
+> “Tình yêu thật biết kiên nhẫn và nhân từ.”
 >
-> — **Daily Inspiration**
+> — **1 Cô Rinh Tô 13:4**
 
-<sub>🕒 Cập nhật 21/08/2026 lúc 02:51</sub>
-<!-- quote-id: inspiration-045 -->
+<sub>🕒 Cập nhật 21/08/2026 lúc 03:14</sub>
+<!-- quote-id: scripture-101 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
