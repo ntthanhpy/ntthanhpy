@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Bạn được tạo dựng để thực hiện những việc tốt lành có ý nghĩa.”
+> “Đức tin không đòi hỏi phải biết chắc mọi điều trước khi hành động.”
 >
-> — **Ê Phê Sô 2:10**
+> — **An Ma 32:21**
 
-<sub>🕒 Cập nhật 20/08/2026 lúc 07:27</sub>
-<!-- quote-id: scripture-109 -->
+<sub>🕒 Cập nhật 20/08/2026 lúc 08:56</sub>
+<!-- quote-id: scripture-131 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
