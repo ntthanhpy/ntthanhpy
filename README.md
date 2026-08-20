@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy dừng lại đủ lâu để nhận biết quyền năng của Thượng Đế.”
+> “Đấng Cứu Rỗi mời người mệt mỏi đến để được yên nghỉ.”
 >
-> — **Thi Thiên 46:10**
+> — **Ma Thi Ơ 11:28**
 
-<sub>🕒 Cập nhật 20/08/2026 lúc 16:01</sub>
-<!-- quote-id: scripture-032 -->
+<sub>🕒 Cập nhật 20/08/2026 lúc 16:55</sub>
+<!-- quote-id: scripture-075 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
