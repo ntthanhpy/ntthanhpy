@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đấng Cứu Rỗi mời người mệt mỏi đến để được yên nghỉ.”
+> “Đường lối của Thượng Đế cao hơn tầm nhìn hiện tại của chúng ta.”
 >
-> — **Ma Thi Ơ 11:28**
+> — **Ê Sai 55:8-9**
 
-<sub>🕒 Cập nhật 20/08/2026 lúc 16:55</sub>
-<!-- quote-id: scripture-075 -->
+<sub>🕒 Cập nhật 20/08/2026 lúc 17:17</sub>
+<!-- quote-id: scripture-059 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
