@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Niềm vui trong Chúa có thể trở thành sức mạnh cho ngày mới.”
+> “Một lời tử tế hôm nay là nền móng của một ngày mai tốt đẹp hơn.”
 >
-> — **Nê Hê Mi 8:10**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 21/08/2026 lúc 04:15</sub>
-<!-- quote-id: scripture-017 -->
+<sub>🕒 Cập nhật 21/08/2026 lúc 04:49</sub>
+<!-- quote-id: inspiration-096 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
