@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Tôn kính cha mẹ là nền tảng của một đời sống có trật tự.”
+> “Hãy dừng lại đủ lâu để nhận biết quyền năng của Thượng Đế.”
 >
-> — **Xuất Ê Díp Tô Ký 20:12**
+> — **Thi Thiên 46:10**
 
-<sub>🕒 Cập nhật 20/08/2026 lúc 15:01</sub>
-<!-- quote-id: scripture-005 -->
+<sub>🕒 Cập nhật 20/08/2026 lúc 16:01</sub>
+<!-- quote-id: scripture-032 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
