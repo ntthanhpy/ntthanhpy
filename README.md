@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Đức tin không đòi hỏi phải biết chắc mọi điều trước khi hành động.”
+> “Một giờ tập trung hôm nay đang âm thầm xây nên một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
-> — **An Ma 32:21**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 20/08/2026 lúc 08:56</sub>
-<!-- quote-id: scripture-131 -->
+<sub>🕒 Cập nhật 20/08/2026 lúc 09:49</sub>
+<!-- quote-id: inspiration-058 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
