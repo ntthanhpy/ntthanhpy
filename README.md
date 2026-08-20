@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hãy tích cực tham gia vào những việc tốt bằng ý chí tự nguyện.”
+> “Một lần đứng dậy hôm nay có thể mở ra một ngày mai tốt đẹp hơn.”
 >
-> — **Giáo Lý và Giao Ước 58:27**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 20/08/2026 lúc 21:04</sub>
-<!-- quote-id: scripture-150 -->
+<sub>🕒 Cập nhật 20/08/2026 lúc 22:00</sub>
+<!-- quote-id: inspiration-101 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
