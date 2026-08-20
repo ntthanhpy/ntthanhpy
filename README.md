@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### ✨ Câu truyền cảm hứng
 
-> “Một lần đứng dậy hôm nay sẽ góp phần tạo nên một cuộc đời có nhiều ý nghĩa hơn.”
+> “Một phút biết ơn hôm nay có thể mở ra một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
 > — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 21/08/2026 lúc 06:13</sub>
-<!-- quote-id: inspiration-115 -->
+<sub>🕒 Cập nhật 21/08/2026 lúc 06:45</sub>
+<!-- quote-id: inspiration-153 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
