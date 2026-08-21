@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Con người nhìn bề ngoài, nhưng Thượng Đế nhìn vào tấm lòng.”
+> “Cầu nguyện luôn luôn giúp ta đứng vững trước điều xấu.”
 >
-> — **1 Sa Mu Ên 16:7**
+> — **Giáo Lý và Giao Ước 10:5**
 
-<sub>🕒 Cập nhật 21/08/2026 lúc 17:53</sub>
-<!-- quote-id: scripture-012 -->
+<sub>🕒 Cập nhật 21/08/2026 lúc 18:14</sub>
+<!-- quote-id: scripture-144 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
