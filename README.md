@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một phút biết ơn hôm nay sẽ góp phần tạo nên một ngày mai tốt đẹp hơn.”
+> “Ân điển có thể đủ cho ta ngay trong sự yếu đuối.”
 >
-> — **Daily Inspiration**
+> — **2 Cô Rinh Tô 12:9**
 
-<sub>🕒 Cập nhật 22/08/2026 lúc 00:21</sub>
-<!-- quote-id: inspiration-161 -->
+<sub>🕒 Cập nhật 22/08/2026 lúc 00:51</sub>
+<!-- quote-id: scripture-106 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
