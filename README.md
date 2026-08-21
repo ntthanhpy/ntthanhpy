@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đức tin không đòi hỏi phải biết chắc mọi điều trước khi hành động.”
+> “Hãy bảo vệ tấm lòng vì từ đó phát sinh hướng đi của cuộc đời.”
 >
-> — **An Ma 32:21**
+> — **Châm Ngôn 4:23**
 
-<sub>🕒 Cập nhật 21/08/2026 lúc 13:21</sub>
-<!-- quote-id: scripture-131 -->
+<sub>🕒 Cập nhật 21/08/2026 lúc 14:13</sub>
+<!-- quote-id: scripture-042 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
