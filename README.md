@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### ✨ Câu truyền cảm hứng
 
-> “Một lời tử tế hôm nay sẽ góp phần tạo nên một ngày mai tốt đẹp hơn.”
+> “Một lựa chọn có kỷ luật hôm nay có thể dẫn bạn đến một ngày mai tốt đẹp hơn.”
 >
 > — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 21/08/2026 lúc 11:59</sub>
-<!-- quote-id: inspiration-086 -->
+<sub>🕒 Cập nhật 21/08/2026 lúc 12:31</sub>
+<!-- quote-id: inspiration-141 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
