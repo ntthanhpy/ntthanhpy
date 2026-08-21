@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy hướng mọi ý nghĩ về Đấng Christ; đừng nghi ngờ hay sợ hãi.”
+> “Hãy để ánh sáng của mình soi trước mặt người khác qua việc tốt.”
 >
-> — **Giáo Lý và Giao Ước 6:36**
+> — **3 Nê Phi 12:16**
 
-<sub>🕒 Cập nhật 21/08/2026 lúc 23:25</sub>
-<!-- quote-id: scripture-143 -->
+<sub>🕒 Cập nhật 21/08/2026 lúc 23:57</sub>
+<!-- quote-id: scripture-136 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
