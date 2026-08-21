@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### 📖 Scripture today - SMM
 
-> “Đấng Cứu Rỗi mời người mệt mỏi đến để được yên nghỉ.”
+> “And it shall come to pass that whosoever shall believe on the Son of God, the same shall everlasting life.”
 >
-> — **Ma Thi Ơ 11:28**
+> — **Helaman 14: 8**
 
-<sub>🕒 Cập nhật 21/08/2026 lúc 07:29</sub>
-<!-- quote-id: scripture-075 -->
+<sub>🕒 Cập nhật 21/08/2026 lúc 09:07</sub>
+<!-- quote-id: scripture-156 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
