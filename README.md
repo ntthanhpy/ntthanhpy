@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Khi thiếu khôn ngoan, hãy chân thành cầu xin Thượng Đế.”
+> “Một phút biết ơn hôm nay có thể dẫn bạn đến một phiên bản trưởng thành hơn của chính mình.”
 >
-> — **Gia Cơ 1:5**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 21/08/2026 lúc 20:23</sub>
-<!-- quote-id: scripture-121 -->
+<sub>🕒 Cập nhật 21/08/2026 lúc 21:03</sub>
+<!-- quote-id: inspiration-167 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
