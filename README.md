@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Ân điển có thể đủ cho ta ngay trong sự yếu đuối.”
+> “Khi thiếu khôn ngoan, hãy chân thành cầu xin Thượng Đế.”
 >
-> — **2 Cô Rinh Tô 12:9**
+> — **Gia Cơ 1:5**
 
-<sub>🕒 Cập nhật 22/08/2026 lúc 00:51</sub>
-<!-- quote-id: scripture-106 -->
+<sub>🕒 Cập nhật 22/08/2026 lúc 01:17</sub>
+<!-- quote-id: scripture-121 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
