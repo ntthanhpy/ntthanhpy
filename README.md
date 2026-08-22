@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một quyết định đúng hôm nay là nền móng của một phiên bản trưởng thành hơn của chính mình.”
+> “Trong lúc bất an, hãy tìm một nơi nương náu thuộc linh.”
 >
-> — **Daily Inspiration**
+> — **2 Sa Mu Ên 22:3**
 
-<sub>🕒 Cập nhật 23/08/2026 lúc 05:43</sub>
-<!-- quote-id: inspiration-047 -->
+<sub>🕒 Cập nhật 23/08/2026 lúc 06:08</sub>
+<!-- quote-id: scripture-014 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
