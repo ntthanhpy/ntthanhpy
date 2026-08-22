@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lựa chọn có kỷ luật hôm nay sẽ góp phần tạo nên một ngày mai tốt đẹp hơn.”
+> “Hai người đồng lòng có thể nâng đỡ nhau tốt hơn một người đơn độc.”
 >
-> — **Daily Inspiration**
+> — **Truyền Đạo 4:9**
 
-<sub>🕒 Cập nhật 23/08/2026 lúc 04:41</sub>
-<!-- quote-id: inspiration-136 -->
+<sub>🕒 Cập nhật 23/08/2026 lúc 05:07</sub>
+<!-- quote-id: scripture-052 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
