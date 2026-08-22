@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### ✨ Câu truyền cảm hứng
 
-> “Một giờ tập trung hôm nay có thể dẫn bạn đến một kết quả lớn hơn điều bạn đang tưởng tượng.”
+> “Một lựa chọn có kỷ luật hôm nay là nền móng của một phiên bản trưởng thành hơn của chính mình.”
 >
 > — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 22/08/2026 lúc 08:55</sub>
-<!-- quote-id: inspiration-069 -->
+<sub>🕒 Cập nhật 22/08/2026 lúc 09:44</sub>
+<!-- quote-id: inspiration-147 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
