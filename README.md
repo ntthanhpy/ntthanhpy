@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một quyết định đúng hôm nay đang âm thầm xây nên một phiên bản trưởng thành hơn của chính mình.”
+> “Trong cám dỗ, luôn có một lối thoát để ta chọn điều đúng.”
 >
-> — **Daily Inspiration**
+> — **1 Cô Rinh Tô 10:13**
 
-<sub>🕒 Cập nhật 22/08/2026 lúc 23:45</sub>
-<!-- quote-id: inspiration-032 -->
+<sub>🕒 Cập nhật 23/08/2026 lúc 00:09</sub>
+<!-- quote-id: scripture-100 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
