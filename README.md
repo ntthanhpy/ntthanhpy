@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hãy đến cùng Đấng Christ và để ân điển Ngài hoàn thiện bạn.”
+> “Một hành động can đảm hôm nay đang âm thầm xây nên một cuộc đời có nhiều ý nghĩa hơn.”
 >
-> — **Mô Rô Ni 10:32**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 22/08/2026 lúc 14:50</sub>
-<!-- quote-id: scripture-142 -->
+<sub>🕒 Cập nhật 22/08/2026 lúc 15:13</sub>
+<!-- quote-id: inspiration-185 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
