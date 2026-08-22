@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lựa chọn có kỷ luật hôm nay có thể mở ra một cuộc đời có nhiều ý nghĩa hơn.”
+> “Đấng Cứu Rỗi muốn ban một đời sống đầy đủ và có ý nghĩa.”
 >
-> — **Daily Inspiration**
+> — **Giăng 10:10**
 
-<sub>🕒 Cập nhật 22/08/2026 lúc 21:43</sub>
-<!-- quote-id: inspiration-130 -->
+<sub>🕒 Cập nhật 22/08/2026 lúc 22:08</sub>
+<!-- quote-id: scripture-087 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
