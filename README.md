@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lựa chọn có kỷ luật hôm nay đang âm thầm xây nên một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Bạn không bị bỏ lại một mình trên hành trình môn đồ.”
 >
-> — **Daily Inspiration**
+> — **Ma Thi Ơ 28:20**
 
-<sub>🕒 Cập nhật 22/08/2026 lúc 17:09</sub>
-<!-- quote-id: inspiration-133 -->
+<sub>🕒 Cập nhật 22/08/2026 lúc 17:44</sub>
+<!-- quote-id: scripture-079 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
