@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Người đi theo Đấng Christ không cần bước mãi trong bóng tối.”
+> “Hãy đến cùng Đấng Christ và để ân điển Ngài hoàn thiện bạn.”
 >
-> — **Giăng 8:12**
+> — **Mô Rô Ni 10:32**
 
-<sub>🕒 Cập nhật 22/08/2026 lúc 14:05</sub>
-<!-- quote-id: scripture-086 -->
+<sub>🕒 Cập nhật 22/08/2026 lúc 14:50</sub>
+<!-- quote-id: scripture-142 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
