@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một giờ tập trung hôm nay có thể mở ra một cuộc đời có nhiều ý nghĩa hơn.”
+> “Sự đổi mới trong tâm trí sẽ dẫn đến một đời sống được biến đổi.”
 >
-> — **Daily Inspiration**
+> — **Rô Ma 12:2**
 
-<sub>🕒 Cập nhật 22/08/2026 lúc 22:41</sub>
-<!-- quote-id: inspiration-055 -->
+<sub>🕒 Cập nhật 22/08/2026 lúc 23:08</sub>
+<!-- quote-id: scripture-098 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
