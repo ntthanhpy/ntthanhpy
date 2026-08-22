@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hai người đồng lòng có thể nâng đỡ nhau tốt hơn một người đơn độc.”
+> “Một quyết định đúng hôm nay là nền móng của một phiên bản trưởng thành hơn của chính mình.”
 >
-> — **Truyền Đạo 4:9**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 23/08/2026 lúc 05:07</sub>
-<!-- quote-id: scripture-052 -->
+<sub>🕒 Cập nhật 23/08/2026 lúc 05:43</sub>
+<!-- quote-id: inspiration-047 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
