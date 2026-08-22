@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Trong lúc bất an, hãy tìm một nơi nương náu thuộc linh.”
+> “Một lần đứng dậy hôm nay sẽ góp phần tạo nên một cuộc đời có nhiều ý nghĩa hơn.”
 >
-> — **2 Sa Mu Ên 22:3**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 23/08/2026 lúc 06:08</sub>
-<!-- quote-id: scripture-014 -->
+<sub>🕒 Cập nhật 23/08/2026 lúc 06:40</sub>
+<!-- quote-id: inspiration-115 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
