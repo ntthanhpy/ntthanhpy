@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Con người nhìn bề ngoài, nhưng Thượng Đế nhìn vào tấm lòng.”
+> “Một lựa chọn có kỷ luật hôm nay có thể mở ra một phiên bản trưởng thành hơn của chính mình.”
 >
-> — **1 Sa Mu Ên 16:7**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 24/08/2026 lúc 04:41</sub>
-<!-- quote-id: scripture-012 -->
+<sub>🕒 Cập nhật 24/08/2026 lúc 05:07</sub>
+<!-- quote-id: inspiration-127 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
