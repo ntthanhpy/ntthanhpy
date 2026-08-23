@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một quyết định đúng hôm nay sẽ góp phần tạo nên một kết quả lớn hơn điều bạn đang tưởng tượng.”
+> “Hãy để ánh sáng của mình soi trước mặt người khác qua việc tốt.”
 >
-> — **Daily Inspiration**
+> — **3 Nê Phi 12:16**
 
-<sub>🕒 Cập nhật 24/08/2026 lúc 03:07</sub>
-<!-- quote-id: inspiration-039 -->
+<sub>🕒 Cập nhật 24/08/2026 lúc 03:44</sub>
+<!-- quote-id: scripture-136 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
