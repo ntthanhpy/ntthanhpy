@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Ngay trong mất mát, lòng biết ơn vẫn có thể gìn giữ đức tin.”
+> “Hãy hướng mọi ý nghĩ về Đấng Christ; đừng nghi ngờ hay sợ hãi.”
 >
-> — **Gióp 1:21**
+> — **Giáo Lý và Giao Ước 6:36**
 
-<sub>🕒 Cập nhật 23/08/2026 lúc 11:57</sub>
-<!-- quote-id: scripture-019 -->
+<sub>🕒 Cập nhật 23/08/2026 lúc 12:22</sub>
+<!-- quote-id: scripture-143 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
