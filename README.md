@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đức tin chân thật vẫn đứng vững ngay cả khi kết quả chưa như mong muốn.”
+> “Hãy tự mình trải nghiệm sự tốt lành của Thượng Đế.”
 >
-> — **Đa Ni Ên 3:17-18**
+> — **Thi Thiên 34:8**
 
-<sub>🕒 Cập nhật 23/08/2026 lúc 19:12</sub>
-<!-- quote-id: scripture-067 -->
+<sub>🕒 Cập nhật 23/08/2026 lúc 20:06</sub>
+<!-- quote-id: scripture-029 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
