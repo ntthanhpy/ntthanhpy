@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một phút biết ơn hôm nay có thể dẫn bạn đến một cuộc đời có nhiều ý nghĩa hơn.”
+> “Thượng Đế có thể dùng cả những điều khó hiểu để tạo nên điều tốt.”
 >
-> — **Daily Inspiration**
+> — **Rô Ma 8:28**
 
-<sub>🕒 Cập nhật 23/08/2026 lúc 21:10</sub>
-<!-- quote-id: inspiration-170 -->
+<sub>🕒 Cập nhật 23/08/2026 lúc 21:44</sub>
+<!-- quote-id: scripture-096 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
