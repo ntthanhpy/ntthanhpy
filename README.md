@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### ✨ Câu truyền cảm hứng
 
-> “Một lựa chọn có kỷ luật hôm nay có thể dẫn bạn đến một cuộc đời có nhiều ý nghĩa hơn.”
+> “Một quyết định đúng hôm nay là nền móng của một ngày mai tốt đẹp hơn.”
 >
 > — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 23/08/2026 lúc 14:52</sub>
-<!-- quote-id: inspiration-145 -->
+<sub>🕒 Cập nhật 23/08/2026 lúc 15:14</sub>
+<!-- quote-id: inspiration-046 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
