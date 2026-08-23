@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một quyết định đúng hôm nay sẽ góp phần tạo nên một ngày mai tốt đẹp hơn.”
+> “Qua nước sâu hay lửa nóng, bạn vẫn không bị bỏ rơi.”
 >
-> — **Daily Inspiration**
+> — **Ê Sai 43:2**
 
-<sub>🕒 Cập nhật 23/08/2026 lúc 13:18</sub>
-<!-- quote-id: inspiration-036 -->
+<sub>🕒 Cập nhật 23/08/2026 lúc 14:07</sub>
+<!-- quote-id: scripture-057 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
