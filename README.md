@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hãy để ánh sáng của mình soi trước mặt người khác qua việc tốt.”
+> “Một lựa chọn có kỷ luật hôm nay có thể mở ra một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
-> — **3 Nê Phi 12:16**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 24/08/2026 lúc 03:44</sub>
-<!-- quote-id: scripture-136 -->
+<sub>🕒 Cập nhật 24/08/2026 lúc 04:09</sub>
+<!-- quote-id: inspiration-128 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
