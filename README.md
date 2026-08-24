@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lời tử tế hôm nay sẽ góp phần tạo nên một ngày mai tốt đẹp hơn.”
+> “Tình yêu lớn lao được chứng minh bằng sự hy sinh.”
 >
-> — **Daily Inspiration**
+> — **Giăng 15:13**
 
-<sub>🕒 Cập nhật 24/08/2026 lúc 12:07</sub>
-<!-- quote-id: inspiration-086 -->
+<sub>🕒 Cập nhật 24/08/2026 lúc 12:58</sub>
+<!-- quote-id: scripture-093 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
