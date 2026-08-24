@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Người bạn thật vẫn yêu thương trong những thời điểm khó khăn.”
+> “Ngay trong mất mát, lòng biết ơn vẫn có thể gìn giữ đức tin.”
 >
-> — **Châm Ngôn 17:17**
+> — **Gióp 1:21**
 
-<sub>🕒 Cập nhật 25/08/2026 lúc 05:48</sub>
-<!-- quote-id: scripture-047 -->
+<sub>🕒 Cập nhật 25/08/2026 lúc 06:11</sub>
+<!-- quote-id: scripture-019 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
