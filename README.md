@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Qua nước sâu hay lửa nóng, bạn vẫn không bị bỏ rơi.”
+> “Hãy trang bị đời sống thuộc linh để đứng vững trước điều xấu.”
 >
-> — **Ê Sai 43:2**
+> — **Ê Phê Sô 6:11**
 
-<sub>🕒 Cập nhật 25/08/2026 lúc 00:01</sub>
-<!-- quote-id: scripture-057 -->
+<sub>🕒 Cập nhật 25/08/2026 lúc 00:52</sub>
+<!-- quote-id: scripture-111 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
