@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Tình yêu trọn vẹn có thể đẩy lui nỗi sợ.”
+> “Tình yêu có khả năng che phủ và chữa lành nhiều tổn thương.”
 >
-> — **1 Giăng 4:18**
+> — **Châm Ngôn 10:12**
 
-<sub>🕒 Cập nhật 24/08/2026 lúc 17:58</sub>
-<!-- quote-id: scripture-124 -->
+<sub>🕒 Cập nhật 24/08/2026 lúc 18:23</sub>
+<!-- quote-id: scripture-043 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
