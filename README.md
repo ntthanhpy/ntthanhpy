@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Cuộc đời bạn có ý nghĩa trước cả khi bạn hiểu hết chính mình.”
+> “Một phút biết ơn hôm nay có thể mở ra một kết quả lớn hơn điều bạn đang tưởng tượng.”
 >
-> — **Giê Rê Mi 1:5**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 24/08/2026 lúc 07:28</sub>
-<!-- quote-id: scripture-061 -->
+<sub>🕒 Cập nhật 24/08/2026 lúc 09:06</sub>
+<!-- quote-id: inspiration-154 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
