@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lần đứng dậy hôm nay là nền móng của một cuộc đời có nhiều ý nghĩa hơn.”
+> “Cuộc đời bạn có ý nghĩa trước cả khi bạn hiểu hết chính mình.”
 >
-> — **Daily Inspiration**
+> — **Giê Rê Mi 1:5**
 
-<sub>🕒 Cập nhật 24/08/2026 lúc 06:40</sub>
-<!-- quote-id: inspiration-125 -->
+<sub>🕒 Cập nhật 24/08/2026 lúc 07:28</sub>
+<!-- quote-id: scripture-061 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
