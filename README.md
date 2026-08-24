@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy để ánh sáng của mình soi trước mặt người khác qua việc tốt.”
+> “Người bạn thật vẫn yêu thương trong những thời điểm khó khăn.”
 >
-> — **3 Nê Phi 12:16**
+> — **Châm Ngôn 17:17**
 
-<sub>🕒 Cập nhật 25/08/2026 lúc 05:11</sub>
-<!-- quote-id: scripture-136 -->
+<sub>🕒 Cập nhật 25/08/2026 lúc 05:48</sub>
+<!-- quote-id: scripture-047 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
