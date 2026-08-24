@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Tình yêu lớn lao được chứng minh bằng sự hy sinh.”
+> “Có lúc ta phải bước đi bằng đức tin thay vì bằng điều mắt thấy.”
 >
-> — **Giăng 15:13**
+> — **2 Cô Rinh Tô 5:7**
 
-<sub>🕒 Cập nhật 24/08/2026 lúc 12:58</sub>
-<!-- quote-id: scripture-093 -->
+<sub>🕒 Cập nhật 24/08/2026 lúc 13:51</sub>
+<!-- quote-id: scripture-105 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
