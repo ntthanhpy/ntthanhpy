@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Suy ngẫm lời Thượng Đế mỗi ngày giúp ta hành động khôn ngoan.”
+> “Một lần đứng dậy hôm nay đang âm thầm xây nên một ngày mai tốt đẹp hơn.”
 >
-> — **Giô Suê 1:8**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 24/08/2026 lúc 16:32</sub>
-<!-- quote-id: scripture-008 -->
+<sub>🕒 Cập nhật 24/08/2026 lúc 17:24</sub>
+<!-- quote-id: inspiration-106 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
