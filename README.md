@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Tình yêu có khả năng che phủ và chữa lành nhiều tổn thương.”
+> “Ân điển có thể đủ cho ta ngay trong sự yếu đuối.”
 >
-> — **Châm Ngôn 10:12**
+> — **2 Cô Rinh Tô 12:9**
 
-<sub>🕒 Cập nhật 24/08/2026 lúc 18:23</sub>
-<!-- quote-id: scripture-043 -->
+<sub>🕒 Cập nhật 24/08/2026 lúc 18:49</sub>
+<!-- quote-id: scripture-106 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
