@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Có lúc ta phải bước đi bằng đức tin thay vì bằng điều mắt thấy.”
+> “Một hành động can đảm hôm nay đang âm thầm xây nên một phiên bản trưởng thành hơn của chính mình.”
 >
-> — **2 Cô Rinh Tô 5:7**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 24/08/2026 lúc 13:51</sub>
-<!-- quote-id: scripture-105 -->
+<sub>🕒 Cập nhật 24/08/2026 lúc 14:46</sub>
+<!-- quote-id: inspiration-182 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
