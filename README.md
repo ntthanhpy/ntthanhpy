@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Trong lúc bất an, hãy tìm một nơi nương náu thuộc linh.”
+> “Hãy để ánh sáng của mình soi trước mặt người khác qua việc tốt.”
 >
-> — **2 Sa Mu Ên 22:3**
+> — **3 Nê Phi 12:16**
 
-<sub>🕒 Cập nhật 25/08/2026 lúc 04:49</sub>
-<!-- quote-id: scripture-014 -->
+<sub>🕒 Cập nhật 25/08/2026 lúc 05:11</sub>
+<!-- quote-id: scripture-136 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
