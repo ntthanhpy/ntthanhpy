@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### ✨ Câu truyền cảm hứng
 
-> “Một lần đứng dậy hôm nay có thể dẫn bạn đến một ngày mai tốt đẹp hơn.”
+> “Một lần đứng dậy hôm nay sẽ góp phần tạo nên một phiên bản trưởng thành hơn của chính mình.”
 >
 > — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 25/08/2026 lúc 03:54</sub>
-<!-- quote-id: inspiration-116 -->
+<sub>🕒 Cập nhật 25/08/2026 lúc 04:16</sub>
+<!-- quote-id: inspiration-112 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
