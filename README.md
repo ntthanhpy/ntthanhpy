@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đấng Cứu Rỗi muốn ban một đời sống đầy đủ và có ý nghĩa.”
+> “Suy ngẫm lời Thượng Đế mỗi ngày giúp ta hành động khôn ngoan.”
 >
-> — **Giăng 10:10**
+> — **Giô Suê 1:8**
 
-<sub>🕒 Cập nhật 24/08/2026 lúc 15:32</sub>
-<!-- quote-id: scripture-087 -->
+<sub>🕒 Cập nhật 24/08/2026 lúc 16:32</sub>
+<!-- quote-id: scripture-008 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
