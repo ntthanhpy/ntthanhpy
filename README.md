@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy trang bị đời sống thuộc linh để đứng vững trước điều xấu.”
+> “Phước lành đến với người đặt niềm tin nơi Chúa.”
 >
-> — **Ê Phê Sô 6:11**
+> — **Giê Rê Mi 17:7**
 
-<sub>🕒 Cập nhật 25/08/2026 lúc 00:52</sub>
-<!-- quote-id: scripture-111 -->
+<sub>🕒 Cập nhật 25/08/2026 lúc 01:19</sub>
+<!-- quote-id: scripture-062 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
