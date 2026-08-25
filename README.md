@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Nỗi buồn có thể kéo dài một đêm, nhưng niềm vui vẫn có thể trở lại.”
+> “Trong lúc bất an, hãy tìm một nơi nương náu thuộc linh.”
 >
-> — **Thi Thiên 30:5**
+> — **2 Sa Mu Ên 22:3**
 
-<sub>🕒 Cập nhật 26/08/2026 lúc 04:14</sub>
-<!-- quote-id: scripture-028 -->
+<sub>🕒 Cập nhật 26/08/2026 lúc 04:49</sub>
+<!-- quote-id: scripture-014 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
