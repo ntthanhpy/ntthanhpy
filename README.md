@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy sống công bình, yêu sự thương xót và bước đi khiêm nhường.”
+> “Hãy tử tế, cảm thông và biết tha thứ.”
 >
-> — **Mi Chê 6:8**
+> — **Ê Phê Sô 4:32**
 
-<sub>🕒 Cập nhật 25/08/2026 lúc 20:24</sub>
-<!-- quote-id: scripture-068 -->
+<sub>🕒 Cập nhật 25/08/2026 lúc 21:10</sub>
+<!-- quote-id: scripture-110 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
