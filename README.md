@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### ✨ Câu truyền cảm hứng
 
-> “Một lời tử tế hôm nay sẽ góp phần tạo nên một ngày mai tốt đẹp hơn.”
+> “Một lần đứng dậy hôm nay có thể mở ra một phiên bản trưởng thành hơn của chính mình.”
 >
 > — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 26/08/2026 lúc 06:14</sub>
-<!-- quote-id: inspiration-086 -->
+<sub>🕒 Cập nhật 26/08/2026 lúc 06:44</sub>
+<!-- quote-id: inspiration-102 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
