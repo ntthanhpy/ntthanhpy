@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### ✨ Câu truyền cảm hứng
 
-> “Một hành động can đảm hôm nay đang âm thầm xây nên một kết quả lớn hơn điều bạn đang tưởng tượng.”
+> “Một lựa chọn có kỷ luật hôm nay là nền móng của một kết quả lớn hơn điều bạn đang tưởng tượng.”
 >
 > — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 25/08/2026 lúc 08:58</sub>
-<!-- quote-id: inspiration-184 -->
+<sub>🕒 Cập nhật 25/08/2026 lúc 09:54</sub>
+<!-- quote-id: inspiration-149 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
