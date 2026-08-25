@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lần lắng nghe thật lòng hôm nay đang âm thầm xây nên một cuộc đời có nhiều ý nghĩa hơn.”
+> “Nỗi buồn có thể kéo dài một đêm, nhưng niềm vui vẫn có thể trở lại.”
 >
-> — **Daily Inspiration**
+> — **Thi Thiên 30:5**
 
-<sub>🕒 Cập nhật 26/08/2026 lúc 03:51</sub>
-<!-- quote-id: inspiration-210 -->
+<sub>🕒 Cập nhật 26/08/2026 lúc 04:14</sub>
+<!-- quote-id: scripture-028 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
