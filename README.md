@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một quyết định đúng hôm nay có thể mở ra một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Khi Thượng Đế truyền lệnh, Ngài cũng có thể chuẩn bị con đường để thực hiện.”
 >
-> — **Daily Inspiration**
+> — **1 Nê Phi 3:7**
 
-<sub>🕒 Cập nhật 26/08/2026 lúc 02:05</sub>
-<!-- quote-id: inspiration-028 -->
+<sub>🕒 Cập nhật 26/08/2026 lúc 02:50</sub>
+<!-- quote-id: scripture-126 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
