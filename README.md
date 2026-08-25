@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lựa chọn có kỷ luật hôm nay là nền móng của một kết quả lớn hơn điều bạn đang tưởng tượng.”
+> “Cầu nguyện với lòng biết ơn có thể đưa tâm hồn đến sự bình an.”
 >
-> — **Daily Inspiration**
+> — **Phi Líp 4:6-7**
 
-<sub>🕒 Cập nhật 25/08/2026 lúc 09:54</sub>
-<!-- quote-id: inspiration-149 -->
+<sub>🕒 Cập nhật 25/08/2026 lúc 10:36</sub>
+<!-- quote-id: scripture-113 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
