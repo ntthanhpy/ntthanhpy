@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy yêu mến Thượng Đế bằng cả tấm lòng, tâm hồn và sức lực.”
+> “Hãy sống công bình, yêu sự thương xót và bước đi khiêm nhường.”
 >
-> — **Phục Truyền Luật Lệ Ký 6:5**
+> — **Mi Chê 6:8**
 
-<sub>🕒 Cập nhật 25/08/2026 lúc 19:20</sub>
-<!-- quote-id: scripture-006 -->
+<sub>🕒 Cập nhật 25/08/2026 lúc 20:24</sub>
+<!-- quote-id: scripture-068 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
