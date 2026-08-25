@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Khi Thượng Đế truyền lệnh, Ngài cũng có thể chuẩn bị con đường để thực hiện.”
+> “Không lời hứa tốt lành nào của Thượng Đế là bất khả thi.”
 >
-> — **1 Nê Phi 3:7**
+> — **Lu Ca 1:37**
 
-<sub>🕒 Cập nhật 26/08/2026 lúc 02:50</sub>
-<!-- quote-id: scripture-126 -->
+<sub>🕒 Cập nhật 26/08/2026 lúc 03:13</sub>
+<!-- quote-id: scripture-082 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
