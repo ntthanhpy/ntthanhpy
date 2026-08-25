@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Tình yêu, niềm vui, bình an và tự chủ là những trái của đời sống thuộc linh.”
+> “Bạn có thể làm điều cần làm nhờ sức mạnh Đấng Christ ban cho.”
 >
-> — **Ga La Ti 5:22-23**
+> — **Phi Líp 4:13**
 
-<sub>🕒 Cập nhật 25/08/2026 lúc 15:03</sub>
-<!-- quote-id: scripture-107 -->
+<sub>🕒 Cập nhật 25/08/2026 lúc 16:04</sub>
+<!-- quote-id: scripture-115 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
