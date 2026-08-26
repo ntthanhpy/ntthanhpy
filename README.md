@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lựa chọn có kỷ luật hôm nay sẽ góp phần tạo nên một cuộc đời có nhiều ý nghĩa hơn.”
+> “Hãy để mọi việc mình làm được dẫn dắt bởi tình yêu.”
 >
-> — **Daily Inspiration**
+> — **1 Cô Rinh Tô 16:14**
 
-<sub>🕒 Cập nhật 26/08/2026 lúc 11:09</sub>
-<!-- quote-id: inspiration-140 -->
+<sub>🕒 Cập nhật 26/08/2026 lúc 12:01</sub>
+<!-- quote-id: scripture-103 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
