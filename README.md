@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lựa chọn có kỷ luật hôm nay có thể dẫn bạn đến một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Người đặt lòng tin nơi Thượng Đế sẽ được nâng đỡ trong thử thách.”
 >
-> — **Daily Inspiration**
+> — **An Ma 36:3**
 
-<sub>🕒 Cập nhật 26/08/2026 lúc 23:41</sub>
-<!-- quote-id: inspiration-143 -->
+<sub>🕒 Cập nhật 27/08/2026 lúc 01:31</sub>
+<!-- quote-id: scripture-132 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
