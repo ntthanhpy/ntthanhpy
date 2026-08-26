@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Tình yêu có khả năng che phủ và chữa lành nhiều tổn thương.”
+> “Một lựa chọn có kỷ luật hôm nay có thể dẫn bạn đến một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
-> — **Châm Ngôn 10:12**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 26/08/2026 lúc 22:56</sub>
-<!-- quote-id: scripture-043 -->
+<sub>🕒 Cập nhật 26/08/2026 lúc 23:41</sub>
+<!-- quote-id: inspiration-143 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
