@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lựa chọn có kỷ luật hôm nay có thể dẫn bạn đến một kết quả lớn hơn điều bạn đang tưởng tượng.”
+> “Cầu nguyện luôn luôn giúp ta đứng vững trước điều xấu.”
 >
-> — **Daily Inspiration**
+> — **Giáo Lý và Giao Ước 10:5**
 
-<sub>🕒 Cập nhật 31/08/2026 lúc 09:50</sub>
-<!-- quote-id: inspiration-144 -->
+<sub>🕒 Cập nhật 31/08/2026 lúc 15:57</sub>
+<!-- quote-id: scripture-144 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
