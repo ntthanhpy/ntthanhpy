@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Cầu nguyện luôn luôn giúp ta đứng vững trước điều xấu.”
+> “Một lời tử tế hôm nay sẽ góp phần tạo nên một cuộc đời có nhiều ý nghĩa hơn.”
 >
-> — **Giáo Lý và Giao Ước 10:5**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 31/08/2026 lúc 15:57</sub>
-<!-- quote-id: scripture-144 -->
+<sub>🕒 Cập nhật 31/08/2026 lúc 23:33</sub>
+<!-- quote-id: inspiration-090 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
