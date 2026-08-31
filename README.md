@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lời tử tế hôm nay sẽ góp phần tạo nên một cuộc đời có nhiều ý nghĩa hơn.”
+> “Đức tin nhỏ nhưng chân thành vẫn có thể tạo nên thay đổi lớn.”
 >
-> — **Daily Inspiration**
+> — **Ma Thi Ơ 17:20**
 
-<sub>🕒 Cập nhật 31/08/2026 lúc 23:33</sub>
-<!-- quote-id: inspiration-090 -->
+<sub>🕒 Cập nhật 01/09/2026 lúc 04:40</sub>
+<!-- quote-id: scripture-076 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
