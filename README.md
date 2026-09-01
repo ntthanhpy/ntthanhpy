@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Người bạn thật vẫn yêu thương trong những thời điểm khó khăn.”
+> “Người trông cậy Chúa sẽ nhận được sức mới để tiếp tục.”
 >
-> — **Châm Ngôn 17:17**
+> — **Ê Sai 40:31**
 
-<sub>🕒 Cập nhật 02/09/2026 lúc 01:39</sub>
-<!-- quote-id: scripture-047 -->
+<sub>🕒 Cập nhật 02/09/2026 lúc 04:27</sub>
+<!-- quote-id: scripture-055 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
