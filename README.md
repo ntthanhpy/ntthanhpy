@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đức tin nhỏ nhưng chân thành vẫn có thể tạo nên thay đổi lớn.”
+> “Ân điển có thể đủ cho ta ngay trong sự yếu đuối.”
 >
-> — **Ma Thi Ơ 17:20**
+> — **2 Cô Rinh Tô 12:9**
 
-<sub>🕒 Cập nhật 01/09/2026 lúc 04:40</sub>
-<!-- quote-id: scripture-076 -->
+<sub>🕒 Cập nhật 01/09/2026 lúc 07:50</sub>
+<!-- quote-id: scripture-106 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
