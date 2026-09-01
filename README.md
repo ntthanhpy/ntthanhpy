@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Ân điển có thể đủ cho ta ngay trong sự yếu đuối.”
+> “Trong hoạn nạn, Thượng Đế là nơi nương náu luôn sẵn có.”
 >
-> — **2 Cô Rinh Tô 12:9**
+> — **Thi Thiên 46:1**
 
-<sub>🕒 Cập nhật 01/09/2026 lúc 07:50</sub>
-<!-- quote-id: scripture-106 -->
+<sub>🕒 Cập nhật 01/09/2026 lúc 12:46</sub>
+<!-- quote-id: scripture-031 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
