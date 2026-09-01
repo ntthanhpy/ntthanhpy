@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Trong hoạn nạn, Thượng Đế là nơi nương náu luôn sẵn có.”
+> “Một lựa chọn có kỷ luật hôm nay là nền móng của một kết quả lớn hơn điều bạn đang tưởng tượng.”
 >
-> — **Thi Thiên 46:1**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 01/09/2026 lúc 12:46</sub>
-<!-- quote-id: scripture-031 -->
+<sub>🕒 Cập nhật 01/09/2026 lúc 17:35</sub>
+<!-- quote-id: inspiration-149 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
