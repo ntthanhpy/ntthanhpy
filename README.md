@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy làm việc cho sự cứu rỗi của mình với lòng tôn kính và kiên trì.”
+> “Người bạn thật vẫn yêu thương trong những thời điểm khó khăn.”
 >
-> — **Mặc Môn 9:27**
+> — **Châm Ngôn 17:17**
 
-<sub>🕒 Cập nhật 01/09/2026 lúc 22:14</sub>
-<!-- quote-id: scripture-138 -->
+<sub>🕒 Cập nhật 02/09/2026 lúc 01:39</sub>
+<!-- quote-id: scripture-047 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
