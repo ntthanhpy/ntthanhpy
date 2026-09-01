@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Người trông cậy Chúa sẽ nhận được sức mới để tiếp tục.”
+> “Hãy kiên trì chạy cuộc đua của mình và bỏ xuống những gánh nặng không cần thiết.”
 >
-> — **Ê Sai 40:31**
+> — **Hê Bơ Rơ 12:1**
 
-<sub>🕒 Cập nhật 02/09/2026 lúc 04:27</sub>
-<!-- quote-id: scripture-055 -->
+<sub>🕒 Cập nhật 02/09/2026 lúc 06:26</sub>
+<!-- quote-id: scripture-120 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
