@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Ngay trong mất mát, lòng biết ơn vẫn có thể gìn giữ đức tin.”
+> “Hãy yêu mến Thượng Đế bằng cả tấm lòng, tâm hồn và sức lực.”
 >
-> — **Gióp 1:21**
+> — **Phục Truyền Luật Lệ Ký 6:5**
 
-<sub>🕒 Cập nhật 02/09/2026 lúc 12:58</sub>
-<!-- quote-id: scripture-019 -->
+<sub>🕒 Cập nhật 02/09/2026 lúc 17:29</sub>
+<!-- quote-id: scripture-006 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
