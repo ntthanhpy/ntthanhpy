@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hãy yêu mến Thượng Đế bằng cả tấm lòng, tâm hồn và sức lực.”
+> “Một bước nhỏ hôm nay có thể mở ra một cuộc đời có nhiều ý nghĩa hơn.”
 >
-> — **Phục Truyền Luật Lệ Ký 6:5**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 02/09/2026 lúc 17:29</sub>
-<!-- quote-id: scripture-006 -->
+<sub>🕒 Cập nhật 02/09/2026 lúc 21:36</sub>
+<!-- quote-id: inspiration-005 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
