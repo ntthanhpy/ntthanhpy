@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Người đi theo Đấng Christ không cần bước mãi trong bóng tối.”
+> “Ngay trong mất mát, lòng biết ơn vẫn có thể gìn giữ đức tin.”
 >
-> — **Giăng 8:12**
+> — **Gióp 1:21**
 
-<sub>🕒 Cập nhật 02/09/2026 lúc 08:09</sub>
-<!-- quote-id: scripture-086 -->
+<sub>🕒 Cập nhật 02/09/2026 lúc 12:58</sub>
+<!-- quote-id: scripture-019 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
