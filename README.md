@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy kiên trì chạy cuộc đua của mình và bỏ xuống những gánh nặng không cần thiết.”
+> “Người đi theo Đấng Christ không cần bước mãi trong bóng tối.”
 >
-> — **Hê Bơ Rơ 12:1**
+> — **Giăng 8:12**
 
-<sub>🕒 Cập nhật 02/09/2026 lúc 06:26</sub>
-<!-- quote-id: scripture-120 -->
+<sub>🕒 Cập nhật 02/09/2026 lúc 08:09</sub>
+<!-- quote-id: scripture-086 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
