@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Bạn được tạo dựng cách kỳ diệu và có giá trị.”
+> “Lời Thượng Đế có thể soi sáng bước kế tiếp, dù chưa cho thấy toàn bộ con đường.”
 >
-> — **Thi Thiên 139:14**
+> — **Thi Thiên 119:105**
 
-<sub>🕒 Cập nhật 03/09/2026 lúc 06:23</sub>
-<!-- quote-id: scripture-040 -->
+<sub>🕒 Cập nhật 03/09/2026 lúc 08:13</sub>
+<!-- quote-id: scripture-038 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
