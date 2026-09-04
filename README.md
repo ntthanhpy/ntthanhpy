@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một giờ tập trung hôm nay có thể dẫn bạn đến một cuộc đời có nhiều ý nghĩa hơn.”
+> “Người trông cậy Chúa sẽ nhận được sức mới để tiếp tục.”
 >
-> — **Daily Inspiration**
+> — **Ê Sai 40:31**
 
-<sub>🕒 Cập nhật 04/09/2026 lúc 06:21</sub>
-<!-- quote-id: inspiration-070 -->
+<sub>🕒 Cập nhật 04/09/2026 lúc 08:05</sub>
+<!-- quote-id: scripture-055 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
