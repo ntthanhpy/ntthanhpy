@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Điều bạn trân quý sẽ dần định hình tấm lòng bạn.”
+> “Một giờ tập trung hôm nay có thể dẫn bạn đến một phiên bản trưởng thành hơn của chính mình.”
 >
-> — **Ma Thi Ơ 6:21**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 05/09/2026 lúc 01:29</sub>
-<!-- quote-id: scripture-072 -->
+<sub>🕒 Cập nhật 05/09/2026 lúc 03:55</sub>
+<!-- quote-id: inspiration-067 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
