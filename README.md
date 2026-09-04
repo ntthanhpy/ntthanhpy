@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Người trông cậy Chúa sẽ nhận được sức mới để tiếp tục.”
+> “Một lần lắng nghe thật lòng hôm nay đang âm thầm xây nên một kết quả lớn hơn điều bạn đang tưởng tượng.”
 >
-> — **Ê Sai 40:31**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 04/09/2026 lúc 08:05</sub>
-<!-- quote-id: scripture-055 -->
+<sub>🕒 Cập nhật 04/09/2026 lúc 13:03</sub>
+<!-- quote-id: inspiration-209 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
