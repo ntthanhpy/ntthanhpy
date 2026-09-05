@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một bước nhỏ hôm nay là nền móng của một cuộc đời có nhiều ý nghĩa hơn.”
+> “Người kiên định trong điều tốt lành sẽ sinh trái đúng mùa.”
 >
-> — **Daily Inspiration**
+> — **Thi Thiên 1:3**
 
-<sub>🕒 Cập nhật 05/09/2026 lúc 22:21</sub>
-<!-- quote-id: inspiration-025 -->
+<sub>🕒 Cập nhật 06/09/2026 lúc 00:24</sub>
+<!-- quote-id: scripture-021 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
