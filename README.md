@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Không lời hứa tốt lành nào của Thượng Đế là bất khả thi.”
+> “Một lần lắng nghe thật lòng hôm nay có thể mở ra một kết quả lớn hơn điều bạn đang tưởng tượng.”
 >
-> — **Lu Ca 1:37**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 05/09/2026 lúc 05:35</sub>
-<!-- quote-id: scripture-082 -->
+<sub>🕒 Cập nhật 05/09/2026 lúc 07:26</sub>
+<!-- quote-id: inspiration-204 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
