@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lời tử tế hôm nay là nền móng của một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Hãy nói, vui mừng và làm chứng về Đấng Christ.”
 >
-> — **Daily Inspiration**
+> — **2 Nê Phi 25:26**
 
-<sub>🕒 Cập nhật 06/09/2026 lúc 13:05</sub>
-<!-- quote-id: inspiration-098 -->
+<sub>🕒 Cập nhật 06/09/2026 lúc 18:07</sub>
+<!-- quote-id: scripture-128 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
