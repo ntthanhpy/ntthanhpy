@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Ta có thể lập kế hoạch, nhưng Thượng Đế vẫn có thể điều chỉnh từng bước.”
+> “Hãy tiếp tục xin, tìm kiếm và gõ cửa với lòng chân thành.”
 >
-> — **Châm Ngôn 16:9**
+> — **Ma Thi Ơ 7:7**
 
-<sub>🕒 Cập nhật 07/09/2026 lúc 04:28</sub>
-<!-- quote-id: scripture-046 -->
+<sub>🕒 Cập nhật 07/09/2026 lúc 05:57</sub>
+<!-- quote-id: scripture-074 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
