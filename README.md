@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy nói, vui mừng và làm chứng về Đấng Christ.”
+> “Người nhận mọi điều với lòng biết ơn sẽ được ban phước.”
 >
-> — **2 Nê Phi 25:26**
+> — **Giáo Lý và Giao Ước 78:19**
 
-<sub>🕒 Cập nhật 06/09/2026 lúc 18:07</sub>
-<!-- quote-id: scripture-128 -->
+<sub>🕒 Cập nhật 06/09/2026 lúc 21:15</sub>
+<!-- quote-id: scripture-152 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
