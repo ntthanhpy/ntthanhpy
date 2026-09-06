@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đúng lúc cần thiết, Thượng Đế có thể chuẩn bị một con đường.”
+> “Ta có thể lập kế hoạch, nhưng Thượng Đế vẫn có thể điều chỉnh từng bước.”
 >
-> — **Sáng Thế Ký 22:14**
+> — **Châm Ngôn 16:9**
 
-<sub>🕒 Cập nhật 07/09/2026 lúc 02:19</sub>
-<!-- quote-id: scripture-003 -->
+<sub>🕒 Cập nhật 07/09/2026 lúc 04:28</sub>
+<!-- quote-id: scripture-046 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
