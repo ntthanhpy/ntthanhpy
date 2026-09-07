@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lần đứng dậy hôm nay có thể mở ra một phiên bản trưởng thành hơn của chính mình.”
+> “Đức tin, hy vọng và tình yêu đều quý giá, nhưng tình yêu là lớn nhất.”
 >
-> — **Daily Inspiration**
+> — **1 Cô Rinh Tô 13:13**
 
-<sub>🕒 Cập nhật 07/09/2026 lúc 17:30</sub>
-<!-- quote-id: inspiration-102 -->
+<sub>🕒 Cập nhật 07/09/2026 lúc 23:07</sub>
+<!-- quote-id: scripture-102 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
