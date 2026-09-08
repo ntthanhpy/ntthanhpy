@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đức tin không đòi hỏi phải biết chắc mọi điều trước khi hành động.”
+> “Hãy để ánh sáng của mình soi trước mặt người khác qua việc tốt.”
 >
-> — **An Ma 32:21**
+> — **3 Nê Phi 12:16**
 
-<sub>🕒 Cập nhật 08/09/2026 lúc 12:23</sub>
-<!-- quote-id: scripture-131 -->
+<sub>🕒 Cập nhật 08/09/2026 lúc 16:51</sub>
+<!-- quote-id: scripture-136 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
