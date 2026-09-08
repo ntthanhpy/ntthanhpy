@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Ta có thể lập kế hoạch, nhưng Thượng Đế vẫn có thể điều chỉnh từng bước.”
+> “Một quyết định đúng hôm nay đang âm thầm xây nên một ngày mai tốt đẹp hơn.”
 >
-> — **Châm Ngôn 16:9**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 09/09/2026 lúc 03:22</sub>
-<!-- quote-id: scripture-046 -->
+<sub>🕒 Cập nhật 09/09/2026 lúc 05:46</sub>
+<!-- quote-id: inspiration-031 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
