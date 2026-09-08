@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy học nơi Đấng Christ để nhận được sự bình an.”
+> “Ta có thể lập kế hoạch, nhưng Thượng Đế vẫn có thể điều chỉnh từng bước.”
 >
-> — **Giáo Lý và Giao Ước 19:23**
+> — **Châm Ngôn 16:9**
 
-<sub>🕒 Cập nhật 09/09/2026 lúc 00:39</sub>
-<!-- quote-id: scripture-146 -->
+<sub>🕒 Cập nhật 09/09/2026 lúc 03:22</sub>
+<!-- quote-id: scripture-046 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
