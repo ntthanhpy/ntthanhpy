@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một bước nhỏ hôm nay sẽ góp phần tạo nên một phiên bản trưởng thành hơn của chính mình.”
+> “Hãy học nơi Đấng Christ để nhận được sự bình an.”
 >
-> — **Daily Inspiration**
+> — **Giáo Lý và Giao Ước 19:23**
 
-<sub>🕒 Cập nhật 08/09/2026 lúc 20:56</sub>
-<!-- quote-id: inspiration-012 -->
+<sub>🕒 Cập nhật 09/09/2026 lúc 00:39</sub>
+<!-- quote-id: scripture-146 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
