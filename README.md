@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đức tin, hy vọng và tình yêu đều quý giá, nhưng tình yêu là lớn nhất.”
+> “Đấng Cứu Rỗi mang đến sự bình an vượt trên quyền lực của thế gian.”
 >
-> — **1 Cô Rinh Tô 13:13**
+> — **Ê Sai 9:6**
 
-<sub>🕒 Cập nhật 09/09/2026 lúc 20:59</sub>
-<!-- quote-id: scripture-102 -->
+<sub>🕒 Cập nhật 10/09/2026 lúc 00:33</sub>
+<!-- quote-id: scripture-053 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
