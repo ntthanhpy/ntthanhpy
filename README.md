@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Đấng Cứu Rỗi mang đến sự bình an vượt trên quyền lực của thế gian.”
+> “Một quyết định đúng hôm nay đang âm thầm xây nên một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
-> — **Ê Sai 9:6**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 10/09/2026 lúc 00:33</sub>
-<!-- quote-id: scripture-053 -->
+<sub>🕒 Cập nhật 10/09/2026 lúc 03:05</sub>
+<!-- quote-id: inspiration-033 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
