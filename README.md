@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Nhiều kế hoạch có thể thay đổi, nhưng mục đích tốt lành vẫn đứng vững.”
+> “Khi ở gần Đấng Christ, đời sống ta có thể sinh nhiều trái tốt.”
 >
-> — **Châm Ngôn 19:21**
+> — **Giăng 15:5**
 
-<sub>🕒 Cập nhật 11/09/2026 lúc 04:59</sub>
-<!-- quote-id: scripture-049 -->
+<sub>🕒 Cập nhật 11/09/2026 lúc 06:44</sub>
+<!-- quote-id: scripture-092 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
