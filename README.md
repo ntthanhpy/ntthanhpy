@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lựa chọn có kỷ luật hôm nay đang âm thầm xây nên một phiên bản trưởng thành hơn của chính mình.”
+> “Hãy tìm kiếm nước Thượng Đế trước, rồi những điều cần thiết sẽ được thêm cho.”
 >
-> — **Daily Inspiration**
+> — **3 Nê Phi 13:33**
 
-<sub>🕒 Cập nhật 10/09/2026 lúc 16:52</sub>
-<!-- quote-id: inspiration-132 -->
+<sub>🕒 Cập nhật 10/09/2026 lúc 20:54</sub>
+<!-- quote-id: scripture-137 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
