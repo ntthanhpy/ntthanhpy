@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Thử thách có thể rèn nên sự kiên trì, phẩm chất và hy vọng.”
+> “Nhiều kế hoạch có thể thay đổi, nhưng mục đích tốt lành vẫn đứng vững.”
 >
-> — **Rô Ma 5:3-4**
+> — **Châm Ngôn 19:21**
 
-<sub>🕒 Cập nhật 11/09/2026 lúc 02:51</sub>
-<!-- quote-id: scripture-095 -->
+<sub>🕒 Cập nhật 11/09/2026 lúc 04:59</sub>
+<!-- quote-id: scripture-049 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
