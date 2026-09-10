@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hôm nay đã có đủ việc của hôm nay; đừng để ngày mai cướp mất bình an.”
+> “Thử thách có thể rèn nên sự kiên trì, phẩm chất và hy vọng.”
 >
-> — **Ma Thi Ơ 6:34**
+> — **Rô Ma 5:3-4**
 
-<sub>🕒 Cập nhật 11/09/2026 lúc 00:20</sub>
-<!-- quote-id: scripture-073 -->
+<sub>🕒 Cập nhật 11/09/2026 lúc 02:51</sub>
+<!-- quote-id: scripture-095 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
