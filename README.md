@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy tìm kiếm nước Thượng Đế trước, rồi những điều cần thiết sẽ được thêm cho.”
+> “Hôm nay đã có đủ việc của hôm nay; đừng để ngày mai cướp mất bình an.”
 >
-> — **3 Nê Phi 13:33**
+> — **Ma Thi Ơ 6:34**
 
-<sub>🕒 Cập nhật 10/09/2026 lúc 20:54</sub>
-<!-- quote-id: scripture-137 -->
+<sub>🕒 Cập nhật 11/09/2026 lúc 00:20</sub>
+<!-- quote-id: scripture-073 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
