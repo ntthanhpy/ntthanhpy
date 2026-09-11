@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một bước nhỏ hôm nay sẽ góp phần tạo nên một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Qua sự hy sinh của Đấng Cứu Rỗi, sự chữa lành trở nên khả thi.”
 >
-> — **Daily Inspiration**
+> — **Ê Sai 53:5**
 
-<sub>🕒 Cập nhật 11/09/2026 lúc 22:18</sub>
-<!-- quote-id: inspiration-013 -->
+<sub>🕒 Cập nhật 12/09/2026 lúc 01:39</sub>
+<!-- quote-id: scripture-058 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
