@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Con người trưởng thành hơn khi biết học hỏi và mài giũa lẫn nhau.”
+> “Tôn kính cha mẹ là nền tảng của một đời sống có trật tự.”
 >
-> — **Châm Ngôn 27:17**
+> — **Xuất Ê Díp Tô Ký 20:12**
 
-<sub>🕒 Cập nhật 12/09/2026 lúc 04:22</sub>
-<!-- quote-id: scripture-050 -->
+<sub>🕒 Cập nhật 12/09/2026 lúc 06:22</sub>
+<!-- quote-id: scripture-005 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
