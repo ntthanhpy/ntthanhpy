@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy vui mừng, cầu nguyện và biết ơn trong mọi hoàn cảnh.”
+> “Tình yêu thật biết kiên nhẫn và nhân từ.”
 >
-> — **1 Tê Sa Lô Ni Ca 5:16-18**
+> — **1 Cô Rinh Tô 13:4**
 
-<sub>🕒 Cập nhật 12/09/2026 lúc 23:23</sub>
-<!-- quote-id: scripture-117 -->
+<sub>🕒 Cập nhật 13/09/2026 lúc 01:30</sub>
+<!-- quote-id: scripture-101 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
