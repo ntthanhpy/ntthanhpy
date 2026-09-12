@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Tôn kính cha mẹ là nền tảng của một đời sống có trật tự.”
+> “Một phút biết ơn hôm nay sẽ góp phần tạo nên một ngày mai tốt đẹp hơn.”
 >
-> — **Xuất Ê Díp Tô Ký 20:12**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 12/09/2026 lúc 06:22</sub>
-<!-- quote-id: scripture-005 -->
+<sub>🕒 Cập nhật 12/09/2026 lúc 08:16</sub>
+<!-- quote-id: inspiration-161 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
