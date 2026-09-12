@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một bước nhỏ hôm nay là nền móng của một phiên bản trưởng thành hơn của chính mình.”
+> “Hãy vui mừng, cầu nguyện và biết ơn trong mọi hoàn cảnh.”
 >
-> — **Daily Inspiration**
+> — **1 Tê Sa Lô Ni Ca 5:16-18**
 
-<sub>🕒 Cập nhật 12/09/2026 lúc 20:11</sub>
-<!-- quote-id: inspiration-022 -->
+<sub>🕒 Cập nhật 12/09/2026 lúc 23:23</sub>
+<!-- quote-id: scripture-117 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
