@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy đối xử với người khác theo cách bạn mong được đối xử.”
+> “Lời chứng thường đến sau khi đức tin đã được thử thách.”
 >
-> — **Lu Ca 6:31**
+> — **Ê The 12:6**
 
-<sub>🕒 Cập nhật 13/09/2026 lúc 06:05</sub>
-<!-- quote-id: scripture-083 -->
+<sub>🕒 Cập nhật 13/09/2026 lúc 08:11</sub>
+<!-- quote-id: scripture-139 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
