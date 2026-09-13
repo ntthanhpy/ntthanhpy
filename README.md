@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Niềm vui trong Chúa có thể trở thành sức mạnh cho ngày mới.”
+> “Qua sự hy sinh của Đấng Cứu Rỗi, sự chữa lành trở nên khả thi.”
 >
-> — **Nê Hê Mi 8:10**
+> — **Ê Sai 53:5**
 
-<sub>🕒 Cập nhật 14/09/2026 lúc 01:51</sub>
-<!-- quote-id: scripture-017 -->
+<sub>🕒 Cập nhật 14/09/2026 lúc 04:09</sub>
+<!-- quote-id: scripture-058 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
