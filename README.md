@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Lời chứng thường đến sau khi đức tin đã được thử thách.”
+> “Hai người đồng lòng có thể nâng đỡ nhau tốt hơn một người đơn độc.”
 >
-> — **Ê The 12:6**
+> — **Truyền Đạo 4:9**
 
-<sub>🕒 Cập nhật 13/09/2026 lúc 08:11</sub>
-<!-- quote-id: scripture-139 -->
+<sub>🕒 Cập nhật 13/09/2026 lúc 13:25</sub>
+<!-- quote-id: scripture-052 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
