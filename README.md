@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Qua sự hy sinh của Đấng Cứu Rỗi, sự chữa lành trở nên khả thi.”
+> “Một phút biết ơn hôm nay là nền móng của một ngày mai tốt đẹp hơn.”
 >
-> — **Ê Sai 53:5**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 14/09/2026 lúc 04:09</sub>
-<!-- quote-id: scripture-058 -->
+<sub>🕒 Cập nhật 14/09/2026 lúc 06:14</sub>
+<!-- quote-id: inspiration-171 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
