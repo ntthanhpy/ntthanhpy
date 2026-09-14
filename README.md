@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Tình yêu, niềm vui, bình an và tự chủ là những trái của đời sống thuộc linh.”
+> “Hãy trang bị đời sống thuộc linh để đứng vững trước điều xấu.”
 >
-> — **Ga La Ti 5:22-23**
+> — **Ê Phê Sô 6:11**
 
-<sub>🕒 Cập nhật 14/09/2026 lúc 13:29</sub>
-<!-- quote-id: scripture-107 -->
+<sub>🕒 Cập nhật 14/09/2026 lúc 20:09</sub>
+<!-- quote-id: scripture-111 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
