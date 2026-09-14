@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một phút biết ơn hôm nay là nền móng của một ngày mai tốt đẹp hơn.”
+> “Giá trị của mỗi linh hồn đều lớn lao trước mắt Thượng Đế.”
 >
-> — **Daily Inspiration**
+> — **Giáo Lý và Giao Ước 18:10**
 
-<sub>🕒 Cập nhật 14/09/2026 lúc 06:14</sub>
-<!-- quote-id: inspiration-171 -->
+<sub>🕒 Cập nhật 14/09/2026 lúc 08:15</sub>
+<!-- quote-id: scripture-145 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
