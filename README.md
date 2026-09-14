@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Giá trị của mỗi linh hồn đều lớn lao trước mắt Thượng Đế.”
+> “Tình yêu, niềm vui, bình an và tự chủ là những trái của đời sống thuộc linh.”
 >
-> — **Giáo Lý và Giao Ước 18:10**
+> — **Ga La Ti 5:22-23**
 
-<sub>🕒 Cập nhật 14/09/2026 lúc 08:15</sub>
-<!-- quote-id: scripture-145 -->
+<sub>🕒 Cập nhật 14/09/2026 lúc 13:29</sub>
+<!-- quote-id: scripture-107 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
