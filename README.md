@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Khi thiếu khôn ngoan, hãy chân thành cầu xin Thượng Đế.”
+> “Một lời đáp dịu dàng có thể làm nguôi cơn giận.”
 >
-> — **Gia Cơ 1:5**
+> — **Châm Ngôn 15:1**
 
-<sub>🕒 Cập nhật 16/09/2026 lúc 02:06</sub>
-<!-- quote-id: scripture-121 -->
+<sub>🕒 Cập nhật 16/09/2026 lúc 05:20</sub>
+<!-- quote-id: scripture-044 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
