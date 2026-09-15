@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Scripture today - SMM
+### 📖 Câu thánh thư hôm nay
 
-> “And it shall come to pass that whosoever shall believe on the Son of God, the same shall everlasting life.”
+> “Đấng Cứu Rỗi muốn ban một đời sống đầy đủ và có ý nghĩa.”
 >
-> — **Helaman 14: 8**
+> — **Giăng 10:10**
 
-<sub>🕒 Cập nhật 15/09/2026 lúc 17:31</sub>
-<!-- quote-id: scripture-156 -->
+<sub>🕒 Cập nhật 15/09/2026 lúc 22:18</sub>
+<!-- quote-id: scripture-087 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
