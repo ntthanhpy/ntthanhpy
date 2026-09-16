@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một giờ tập trung hôm nay đang âm thầm xây nên một ngày mai tốt đẹp hơn.”
+> “Thượng Đế có thể dùng cả những điều khó hiểu để tạo nên điều tốt.”
 >
-> — **Daily Inspiration**
+> — **Rô Ma 8:28**
 
-<sub>🕒 Cập nhật 16/09/2026 lúc 07:32</sub>
-<!-- quote-id: inspiration-056 -->
+<sub>🕒 Cập nhật 16/09/2026 lúc 12:23</sub>
+<!-- quote-id: scripture-096 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
