@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Một lời đáp dịu dàng có thể làm nguôi cơn giận.”
+> “Một giờ tập trung hôm nay đang âm thầm xây nên một ngày mai tốt đẹp hơn.”
 >
-> — **Châm Ngôn 15:1**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 16/09/2026 lúc 05:20</sub>
-<!-- quote-id: scripture-044 -->
+<sub>🕒 Cập nhật 16/09/2026 lúc 07:32</sub>
+<!-- quote-id: inspiration-056 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
