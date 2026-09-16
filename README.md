@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đức tin tạo nên một nền đá vững chắc giữa những biến động.”
+> “Biết quý từng ngày giúp ta sống khôn ngoan hơn.”
 >
-> — **Thi Thiên 18:2**
+> — **Thi Thiên 90:12**
 
-<sub>🕒 Cập nhật 17/09/2026 lúc 04:48</sub>
-<!-- quote-id: scripture-024 -->
+<sub>🕒 Cập nhật 17/09/2026 lúc 06:55</sub>
+<!-- quote-id: scripture-035 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
