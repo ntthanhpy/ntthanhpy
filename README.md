@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Biết quý từng ngày giúp ta sống khôn ngoan hơn.”
+> “Tình yêu, niềm vui, bình an và tự chủ là những trái của đời sống thuộc linh.”
 >
-> — **Thi Thiên 90:12**
+> — **Ga La Ti 5:22-23**
 
-<sub>🕒 Cập nhật 17/09/2026 lúc 06:55</sub>
-<!-- quote-id: scripture-035 -->
+<sub>🕒 Cập nhật 17/09/2026 lúc 08:59</sub>
+<!-- quote-id: scripture-107 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
