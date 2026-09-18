@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy tử tế, cảm thông và biết tha thứ.”
+> “Tình yêu lớn lao được chứng minh bằng sự hy sinh.”
 >
-> — **Ê Phê Sô 4:32**
+> — **Giăng 15:13**
 
-<sub>🕒 Cập nhật 18/09/2026 lúc 05:55</sub>
-<!-- quote-id: scripture-110 -->
+<sub>🕒 Cập nhật 18/09/2026 lúc 07:51</sub>
+<!-- quote-id: scripture-093 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
