@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Một tâm trí hướng về Thượng Đế có thể được gìn giữ trong bình an.”
+> “Một phút biết ơn hôm nay là nền móng của một phiên bản trưởng thành hơn của chính mình.”
 >
-> — **Ê Sai 26:3**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 18/09/2026 lúc 12:19</sub>
-<!-- quote-id: scripture-054 -->
+<sub>🕒 Cập nhật 18/09/2026 lúc 16:54</sub>
+<!-- quote-id: inspiration-172 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
