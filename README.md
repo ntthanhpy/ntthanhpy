@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một phút biết ơn hôm nay sẽ góp phần tạo nên một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Nhiều kế hoạch có thể thay đổi, nhưng mục đích tốt lành vẫn đứng vững.”
 >
-> — **Daily Inspiration**
+> — **Châm Ngôn 19:21**
 
-<sub>🕒 Cập nhật 18/09/2026 lúc 20:55</sub>
-<!-- quote-id: inspiration-163 -->
+<sub>🕒 Cập nhật 19/09/2026 lúc 00:19</sub>
+<!-- quote-id: scripture-049 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
