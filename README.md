@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Tình yêu lớn lao được chứng minh bằng sự hy sinh.”
+> “Một tâm trí hướng về Thượng Đế có thể được gìn giữ trong bình an.”
 >
-> — **Giăng 15:13**
+> — **Ê Sai 26:3**
 
-<sub>🕒 Cập nhật 18/09/2026 lúc 07:51</sub>
-<!-- quote-id: scripture-093 -->
+<sub>🕒 Cập nhật 18/09/2026 lúc 12:19</sub>
+<!-- quote-id: scripture-054 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
