@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Giá trị của mỗi linh hồn đều lớn lao trước mắt Thượng Đế.”
+> “Một lần đứng dậy hôm nay sẽ góp phần tạo nên một kết quả lớn hơn điều bạn đang tưởng tượng.”
 >
-> — **Giáo Lý và Giao Ước 18:10**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 19/09/2026 lúc 08:46</sub>
-<!-- quote-id: scripture-145 -->
+<sub>🕒 Cập nhật 19/09/2026 lúc 13:44</sub>
+<!-- quote-id: inspiration-114 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
