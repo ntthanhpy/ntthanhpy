@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Đức tin mở ra những khả năng mà nỗi sợ không thể nhìn thấy.”
+> “Một bước nhỏ hôm nay có thể mở ra một kết quả lớn hơn điều bạn đang tưởng tượng.”
 >
-> — **Mác 9:23**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 19/09/2026 lúc 21:52</sub>
-<!-- quote-id: scripture-080 -->
+<sub>🕒 Cập nhật 20/09/2026 lúc 00:30</sub>
+<!-- quote-id: inspiration-004 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
