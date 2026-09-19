@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lần lắng nghe thật lòng hôm nay có thể mở ra một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Giá trị của mỗi linh hồn đều lớn lao trước mắt Thượng Đế.”
 >
-> — **Daily Inspiration**
+> — **Giáo Lý và Giao Ước 18:10**
 
-<sub>🕒 Cập nhật 19/09/2026 lúc 06:49</sub>
-<!-- quote-id: inspiration-203 -->
+<sub>🕒 Cập nhật 19/09/2026 lúc 08:46</sub>
+<!-- quote-id: scripture-145 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
