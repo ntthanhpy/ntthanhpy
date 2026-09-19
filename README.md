@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy xây nền móng đời mình trên Đấng Christ để bão tố không thể quật ngã.”
+> “Đức tin mở ra những khả năng mà nỗi sợ không thể nhìn thấy.”
 >
-> — **Hê La Man 5:12**
+> — **Mác 9:23**
 
-<sub>🕒 Cập nhật 19/09/2026 lúc 18:38</sub>
-<!-- quote-id: scripture-134 -->
+<sub>🕒 Cập nhật 19/09/2026 lúc 21:52</sub>
+<!-- quote-id: scripture-080 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
