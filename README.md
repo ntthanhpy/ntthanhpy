@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lần đứng dậy hôm nay sẽ góp phần tạo nên một kết quả lớn hơn điều bạn đang tưởng tượng.”
+> “Hãy xây nền móng đời mình trên Đấng Christ để bão tố không thể quật ngã.”
 >
-> — **Daily Inspiration**
+> — **Hê La Man 5:12**
 
-<sub>🕒 Cập nhật 19/09/2026 lúc 13:44</sub>
-<!-- quote-id: inspiration-114 -->
+<sub>🕒 Cập nhật 19/09/2026 lúc 18:38</sub>
+<!-- quote-id: scripture-134 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
