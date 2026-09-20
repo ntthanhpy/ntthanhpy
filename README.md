@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Khi ở gần Đấng Christ, đời sống ta có thể sinh nhiều trái tốt.”
+> “Thượng Đế sẽ tiếp tục hoàn thành công việc tốt lành Ngài đã bắt đầu nơi bạn.”
 >
-> — **Giăng 15:5**
+> — **Phi Líp 1:6**
 
-<sub>🕒 Cập nhật 20/09/2026 lúc 08:49</sub>
-<!-- quote-id: scripture-092 -->
+<sub>🕒 Cập nhật 20/09/2026 lúc 14:08</sub>
+<!-- quote-id: scripture-112 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
