@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lựa chọn có kỷ luật hôm nay có thể dẫn bạn đến một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Sự yếu đuối có thể trở thành sức mạnh khi ta khiêm nhường.”
 >
-> — **Daily Inspiration**
+> — **Ê The 12:27**
 
-<sub>🕒 Cập nhật 21/09/2026 lúc 04:39</sub>
-<!-- quote-id: inspiration-143 -->
+<sub>🕒 Cập nhật 21/09/2026 lúc 06:37</sub>
+<!-- quote-id: scripture-140 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
