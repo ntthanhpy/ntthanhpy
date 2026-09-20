@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Khi được chuẩn bị, ta sẽ bớt sợ hãi.”
+> “Khi ở gần Đấng Christ, đời sống ta có thể sinh nhiều trái tốt.”
 >
-> — **Giáo Lý và Giao Ước 38:30**
+> — **Giăng 15:5**
 
-<sub>🕒 Cập nhật 20/09/2026 lúc 06:41</sub>
-<!-- quote-id: scripture-148 -->
+<sub>🕒 Cập nhật 20/09/2026 lúc 08:49</sub>
+<!-- quote-id: scripture-092 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
