@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Thượng Đế sẽ tiếp tục hoàn thành công việc tốt lành Ngài đã bắt đầu nơi bạn.”
+> “Một quyết định đúng hôm nay sẽ góp phần tạo nên một cuộc đời có nhiều ý nghĩa hơn.”
 >
-> — **Phi Líp 1:6**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 20/09/2026 lúc 14:08</sub>
-<!-- quote-id: scripture-112 -->
+<sub>🕒 Cập nhật 20/09/2026 lúc 19:30</sub>
+<!-- quote-id: inspiration-040 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
