@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lựa chọn có kỷ luật hôm nay có thể dẫn bạn đến một ngày mai tốt đẹp hơn.”
+> “Hãy sống công bình, yêu sự thương xót và bước đi khiêm nhường.”
 >
-> — **Daily Inspiration**
+> — **Mi Chê 6:8**
 
-<sub>🕒 Cập nhật 22/09/2026 lúc 02:36</sub>
-<!-- quote-id: inspiration-141 -->
+<sub>🕒 Cập nhật 22/09/2026 lúc 05:52</sub>
+<!-- quote-id: scripture-068 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
