@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Trong hoạn nạn, Thượng Đế là nơi nương náu luôn sẵn có.”
+> “Nghịch cảnh chỉ kéo dài trong một thời gian; hãy giữ lòng trung tín.”
 >
-> — **Thi Thiên 46:1**
+> — **Giáo Lý và Giao Ước 121:7-8**
 
-<sub>🕒 Cập nhật 21/09/2026 lúc 08:50</sub>
-<!-- quote-id: scripture-031 -->
+<sub>🕒 Cập nhật 21/09/2026 lúc 14:17</sub>
+<!-- quote-id: scripture-154 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
