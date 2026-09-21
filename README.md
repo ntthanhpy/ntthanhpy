@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Lòng can đảm lớn lên khi ta nhớ rằng Thượng Đế ở cùng mình.”
+> “Một lựa chọn có kỷ luật hôm nay có thể dẫn bạn đến một ngày mai tốt đẹp hơn.”
 >
-> — **Giô Suê 1:9**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 21/09/2026 lúc 21:22</sub>
-<!-- quote-id: scripture-009 -->
+<sub>🕒 Cập nhật 22/09/2026 lúc 02:36</sub>
+<!-- quote-id: inspiration-141 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
