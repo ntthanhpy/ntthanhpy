@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Nghịch cảnh chỉ kéo dài trong một thời gian; hãy giữ lòng trung tín.”
+> “Lòng can đảm lớn lên khi ta nhớ rằng Thượng Đế ở cùng mình.”
 >
-> — **Giáo Lý và Giao Ước 121:7-8**
+> — **Giô Suê 1:9**
 
-<sub>🕒 Cập nhật 21/09/2026 lúc 14:17</sub>
-<!-- quote-id: scripture-154 -->
+<sub>🕒 Cập nhật 21/09/2026 lúc 21:22</sub>
+<!-- quote-id: scripture-009 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
