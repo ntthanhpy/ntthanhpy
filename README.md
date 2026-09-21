@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Sự yếu đuối có thể trở thành sức mạnh khi ta khiêm nhường.”
+> “Trong hoạn nạn, Thượng Đế là nơi nương náu luôn sẵn có.”
 >
-> — **Ê The 12:27**
+> — **Thi Thiên 46:1**
 
-<sub>🕒 Cập nhật 21/09/2026 lúc 06:37</sub>
-<!-- quote-id: scripture-140 -->
+<sub>🕒 Cập nhật 21/09/2026 lúc 08:50</sub>
+<!-- quote-id: scripture-031 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
