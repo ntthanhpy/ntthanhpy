@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Bạn được tạo dựng cách kỳ diệu và có giá trị.”
+> “Một hành động can đảm hôm nay có thể dẫn bạn đến một phiên bản trưởng thành hơn của chính mình.”
 >
-> — **Thi Thiên 139:14**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 22/09/2026 lúc 13:23</sub>
-<!-- quote-id: scripture-040 -->
+<sub>🕒 Cập nhật 22/09/2026 lúc 18:52</sub>
+<!-- quote-id: inspiration-192 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
