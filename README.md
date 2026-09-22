@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy trao đường lối mình cho Thượng Đế và tiếp tục làm phần việc của mình.”
+> “Đừng sợ, vì Thượng Đế có thể thêm sức và nâng đỡ bạn.”
 >
-> — **Thi Thiên 37:5**
+> — **Ê Sai 41:10**
 
-<sub>🕒 Cập nhật 22/09/2026 lúc 22:47</sub>
-<!-- quote-id: scripture-030 -->
+<sub>🕒 Cập nhật 23/09/2026 lúc 02:17</sub>
+<!-- quote-id: scripture-056 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
