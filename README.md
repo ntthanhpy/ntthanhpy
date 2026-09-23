@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Đôi khi sự hướng dẫn đến trong một tiếng nói rất nhỏ nhẹ.”
+> “Một lựa chọn có kỷ luật hôm nay có thể dẫn bạn đến một cuộc đời có nhiều ý nghĩa hơn.”
 >
-> — **1 Các Vua 19:12**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 23/09/2026 lúc 12:19</sub>
-<!-- quote-id: scripture-015 -->
+<sub>🕒 Cập nhật 23/09/2026 lúc 17:07</sub>
+<!-- quote-id: inspiration-145 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
