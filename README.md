@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Bạn được tạo dựng để thực hiện những việc tốt lành có ý nghĩa.”
+> “Một phút biết ơn hôm nay là nền móng của một cuộc đời có nhiều ý nghĩa hơn.”
 >
-> — **Ê Phê Sô 2:10**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 24/09/2026 lúc 22:31</sub>
-<!-- quote-id: scripture-109 -->
+<sub>🕒 Cập nhật 25/09/2026 lúc 02:31</sub>
+<!-- quote-id: inspiration-175 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
