@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### ✨ Câu truyền cảm hứng
 
-> “Một phút biết ơn hôm nay sẽ góp phần tạo nên một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Một lựa chọn có kỷ luật hôm nay là nền móng của một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
 > — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 25/09/2026 lúc 05:45</sub>
-<!-- quote-id: inspiration-163 -->
+<sub>🕒 Cập nhật 25/09/2026 lúc 07:56</sub>
+<!-- quote-id: inspiration-148 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
