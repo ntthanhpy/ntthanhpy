@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đừng để lòng bối rối; hãy tiếp tục tin cậy.”
+> “Người đi theo Đấng Christ không cần bước mãi trong bóng tối.”
 >
-> — **Giăng 14:1**
+> — **Giăng 8:12**
 
-<sub>🕒 Cập nhật 25/09/2026 lúc 17:37</sub>
-<!-- quote-id: scripture-089 -->
+<sub>🕒 Cập nhật 25/09/2026 lúc 22:35</sub>
+<!-- quote-id: scripture-086 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
