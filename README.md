@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Người đi theo Đấng Christ không cần bước mãi trong bóng tối.”
+> “Một bước nhỏ hôm nay có thể mở ra một ngày mai tốt đẹp hơn.”
 >
-> — **Giăng 8:12**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 25/09/2026 lúc 22:35</sub>
-<!-- quote-id: scripture-086 -->
+<sub>🕒 Cập nhật 26/09/2026 lúc 02:35</sub>
+<!-- quote-id: inspiration-001 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
