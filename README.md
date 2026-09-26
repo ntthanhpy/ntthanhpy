@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy trao mọi lo âu cho Thượng Đế vì Ngài quan tâm đến bạn.”
+> “Lòng thương xót được làm mới mỗi buổi sáng.”
 >
-> — **1 Phi E Rơ 5:7**
+> — **Ca Thương 3:22-23**
 
-<sub>🕒 Cập nhật 26/09/2026 lúc 05:51</sub>
-<!-- quote-id: scripture-123 -->
+<sub>🕒 Cập nhật 26/09/2026 lúc 07:58</sub>
+<!-- quote-id: scripture-065 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
