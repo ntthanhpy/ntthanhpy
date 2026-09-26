@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Điều ta làm cho người nhỏ bé cũng là điều ta dâng lên Chúa.”
+> “Một giờ tập trung hôm nay sẽ góp phần tạo nên một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
-> — **Ma Thi Ơ 25:40**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 26/09/2026 lúc 17:21</sub>
-<!-- quote-id: scripture-078 -->
+<sub>🕒 Cập nhật 26/09/2026 lúc 21:35</sub>
+<!-- quote-id: inspiration-063 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
