@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Lòng thương xót được làm mới mỗi buổi sáng.”
+> “Những điều nhỏ bé và đơn giản có thể đem lại kết quả lớn lao.”
 >
-> — **Ca Thương 3:22-23**
+> — **An Ma 37:6**
 
-<sub>🕒 Cập nhật 26/09/2026 lúc 07:58</sub>
-<!-- quote-id: scripture-065 -->
+<sub>🕒 Cập nhật 26/09/2026 lúc 12:48</sub>
+<!-- quote-id: scripture-133 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
