@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Những điều nhỏ bé và đơn giản có thể đem lại kết quả lớn lao.”
+> “Điều ta làm cho người nhỏ bé cũng là điều ta dâng lên Chúa.”
 >
-> — **An Ma 37:6**
+> — **Ma Thi Ơ 25:40**
 
-<sub>🕒 Cập nhật 26/09/2026 lúc 12:48</sub>
-<!-- quote-id: scripture-133 -->
+<sub>🕒 Cập nhật 26/09/2026 lúc 17:21</sub>
+<!-- quote-id: scripture-078 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
