@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Điều thuộc về Thượng Đế đem lại ánh sáng và ngày càng sáng hơn.”
+> “Một giờ tập trung hôm nay đang âm thầm xây nên một cuộc đời có nhiều ý nghĩa hơn.”
 >
-> — **Giáo Lý và Giao Ước 50:24**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 27/09/2026 lúc 20:21</sub>
-<!-- quote-id: scripture-149 -->
+<sub>🕒 Cập nhật 28/09/2026 lúc 00:50</sub>
+<!-- quote-id: inspiration-060 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
