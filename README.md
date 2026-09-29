@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đừng sợ, vì Thượng Đế có thể thêm sức và nâng đỡ bạn.”
+> “Hãy bảo vệ tấm lòng vì từ đó phát sinh hướng đi của cuộc đời.”
 >
-> — **Ê Sai 41:10**
+> — **Châm Ngôn 4:23**
 
-<sub>🕒 Cập nhật 29/09/2026 lúc 15:44</sub>
-<!-- quote-id: scripture-056 -->
+<sub>🕒 Cập nhật 29/09/2026 lúc 22:09</sub>
+<!-- quote-id: scripture-042 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
