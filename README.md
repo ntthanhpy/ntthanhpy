@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy bảo vệ tấm lòng vì từ đó phát sinh hướng đi của cuộc đời.”
+> “Hãy mạnh mẽ vì bạn không phải bước đi một mình.”
 >
-> — **Châm Ngôn 4:23**
+> — **Phục Truyền Luật Lệ Ký 31:6**
 
-<sub>🕒 Cập nhật 29/09/2026 lúc 22:09</sub>
-<!-- quote-id: scripture-042 -->
+<sub>🕒 Cập nhật 30/09/2026 lúc 03:03</sub>
+<!-- quote-id: scripture-007 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
