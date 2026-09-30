@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Con người hiện hữu để có được niềm vui.”
+> “Một giờ tập trung hôm nay đang âm thầm xây nên một phiên bản trưởng thành hơn của chính mình.”
 >
-> — **2 Nê Phi 2:25**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 30/09/2026 lúc 22:59</sub>
-<!-- quote-id: scripture-127 -->
+<sub>🕒 Cập nhật 01/10/2026 lúc 03:31</sub>
+<!-- quote-id: inspiration-057 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
