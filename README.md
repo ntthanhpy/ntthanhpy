@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Đừng mệt mỏi khi làm điều tốt; kết quả sẽ đến đúng mùa.”
+> “Một giờ tập trung hôm nay sẽ góp phần tạo nên một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
-> — **Ga La Ti 6:9**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 01/10/2026 lúc 07:12</sub>
-<!-- quote-id: scripture-108 -->
+<sub>🕒 Cập nhật 01/10/2026 lúc 13:11</sub>
+<!-- quote-id: inspiration-063 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
