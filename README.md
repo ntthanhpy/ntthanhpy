@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Yêu Thượng Đế và yêu người khác là trọng tâm của một đời sống tốt lành.”
+> “Con người trưởng thành hơn khi biết học hỏi và mài giũa lẫn nhau.”
 >
-> — **Ma Thi Ơ 22:37-39**
+> — **Châm Ngôn 27:17**
 
-<sub>🕒 Cập nhật 01/10/2026 lúc 20:34</sub>
-<!-- quote-id: scripture-077 -->
+<sub>🕒 Cập nhật 02/10/2026 lúc 02:05</sub>
+<!-- quote-id: scripture-050 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
