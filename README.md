@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Sự đổi mới trong tâm trí sẽ dẫn đến một đời sống được biến đổi.”
+> “Bạn được kêu gọi để mang ánh sáng đến nơi mình sống.”
 >
-> — **Rô Ma 12:2**
+> — **Ma Thi Ơ 5:14**
 
-<sub>🕒 Cập nhật 02/10/2026 lúc 15:41</sub>
-<!-- quote-id: scripture-098 -->
+<sub>🕒 Cập nhật 02/10/2026 lúc 22:07</sub>
+<!-- quote-id: scripture-071 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
