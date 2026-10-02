@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Người xây dựng hòa bình đang làm một công việc thiêng liêng.”
+> “Sự đổi mới trong tâm trí sẽ dẫn đến một đời sống được biến đổi.”
 >
-> — **Ma Thi Ơ 5:9**
+> — **Rô Ma 12:2**
 
-<sub>🕒 Cập nhật 02/10/2026 lúc 09:20</sub>
-<!-- quote-id: scripture-070 -->
+<sub>🕒 Cập nhật 02/10/2026 lúc 15:41</sub>
+<!-- quote-id: scripture-098 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
