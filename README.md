@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Bạn được kêu gọi để mang ánh sáng đến nơi mình sống.”
+> “Cầu nguyện luôn luôn giúp ta đứng vững trước điều xấu.”
 >
-> — **Ma Thi Ơ 5:14**
+> — **Giáo Lý và Giao Ước 10:5**
 
-<sub>🕒 Cập nhật 02/10/2026 lúc 22:07</sub>
-<!-- quote-id: scripture-071 -->
+<sub>🕒 Cập nhật 03/10/2026 lúc 02:59</sub>
+<!-- quote-id: scripture-144 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
