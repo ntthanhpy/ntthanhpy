@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một giờ tập trung hôm nay là nền móng của một kết quả lớn hơn điều bạn đang tưởng tượng.”
+> “Người kiên định trong điều tốt lành sẽ sinh trái đúng mùa.”
 >
-> — **Daily Inspiration**
+> — **Thi Thiên 1:3**
 
-<sub>🕒 Cập nhật 04/10/2026 lúc 00:39</sub>
-<!-- quote-id: inspiration-074 -->
+<sub>🕒 Cập nhật 04/10/2026 lúc 03:14</sub>
+<!-- quote-id: scripture-021 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
