@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Người kiên định trong điều tốt lành sẽ sinh trái đúng mùa.”
+> “Con người hiện hữu để có được niềm vui.”
 >
-> — **Thi Thiên 1:3**
+> — **2 Nê Phi 2:25**
 
-<sub>🕒 Cập nhật 04/10/2026 lúc 03:14</sub>
-<!-- quote-id: scripture-021 -->
+<sub>🕒 Cập nhật 04/10/2026 lúc 06:10</sub>
+<!-- quote-id: scripture-127 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
