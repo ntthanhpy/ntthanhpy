@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lời tử tế hôm nay có thể dẫn bạn đến một cuộc đời có nhiều ý nghĩa hơn.”
+> “Yêu Thượng Đế và yêu người khác là trọng tâm của một đời sống tốt lành.”
 >
-> — **Daily Inspiration**
+> — **Ma Thi Ơ 22:37-39**
 
-<sub>🕒 Cập nhật 04/10/2026 lúc 15:53</sub>
-<!-- quote-id: inspiration-095 -->
+<sub>🕒 Cập nhật 04/10/2026 lúc 21:27</sub>
+<!-- quote-id: scripture-077 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
