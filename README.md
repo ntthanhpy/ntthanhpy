@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Yêu Thượng Đế và yêu người khác là trọng tâm của một đời sống tốt lành.”
+> “Trong cám dỗ, luôn có một lối thoát để ta chọn điều đúng.”
 >
-> — **Ma Thi Ơ 22:37-39**
+> — **1 Cô Rinh Tô 10:13**
 
-<sub>🕒 Cập nhật 04/10/2026 lúc 21:27</sub>
-<!-- quote-id: scripture-077 -->
+<sub>🕒 Cập nhật 05/10/2026 lúc 01:15</sub>
+<!-- quote-id: scripture-100 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
