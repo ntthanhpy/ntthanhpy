@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Mọi điều đều có thời điểm thích hợp của nó.”
+> “Một lần đứng dậy hôm nay có thể mở ra một ngày mai tốt đẹp hơn.”
 >
-> — **Truyền Đạo 3:1**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 05/10/2026 lúc 12:56</sub>
-<!-- quote-id: scripture-051 -->
+<sub>🕒 Cập nhật 05/10/2026 lúc 20:01</sub>
+<!-- quote-id: inspiration-101 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
