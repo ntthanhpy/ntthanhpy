@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lời tử tế hôm nay là nền móng của một cuộc đời có nhiều ý nghĩa hơn.”
+> “Mọi điều đều có thời điểm thích hợp của nó.”
 >
-> — **Daily Inspiration**
+> — **Truyền Đạo 3:1**
 
-<sub>🕒 Cập nhật 05/10/2026 lúc 07:15</sub>
-<!-- quote-id: inspiration-100 -->
+<sub>🕒 Cập nhật 05/10/2026 lúc 12:56</sub>
+<!-- quote-id: scripture-051 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
