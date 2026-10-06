@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Người đặt lòng tin nơi Thượng Đế sẽ được nâng đỡ trong thử thách.”
+> “Một giờ tập trung hôm nay đang âm thầm xây nên một kết quả lớn hơn điều bạn đang tưởng tượng.”
 >
-> — **An Ma 36:3**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 06/10/2026 lúc 04:09</sub>
-<!-- quote-id: scripture-132 -->
+<sub>🕒 Cập nhật 06/10/2026 lúc 08:47</sub>
+<!-- quote-id: inspiration-059 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
