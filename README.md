@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Ngay trong thung lũng tối tăm, ta vẫn có thể bước đi mà không sợ hãi.”
+> “Hãy học nơi Đấng Christ để nhận được sự bình an.”
 >
-> — **Thi Thiên 23:4**
+> — **Giáo Lý và Giao Ước 19:23**
 
-<sub>🕒 Cập nhật 08/10/2026 lúc 08:22</sub>
-<!-- quote-id: scripture-026 -->
+<sub>🕒 Cập nhật 08/10/2026 lúc 14:34</sub>
+<!-- quote-id: scripture-146 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
