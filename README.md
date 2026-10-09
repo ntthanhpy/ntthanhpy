@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Scripture today - Doctrine and Covenants
+### ✨ Câu truyền cảm hứng
 
-> “That by him, and through him, and of him, the worlds are and were created, and the inhabitants thereof are begotten sons and daughters unto God.”
+> “Một lựa chọn có kỷ luật hôm nay có thể mở ra một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
-> — **Doctrine and Covenants 76:24**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 09/10/2026 lúc 07:31</sub>
-<!-- quote-id: scripture-159 -->
+<sub>🕒 Cập nhật 09/10/2026 lúc 13:50</sub>
+<!-- quote-id: inspiration-128 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
