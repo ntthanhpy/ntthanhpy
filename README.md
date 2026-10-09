@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Scripture today - Doctrine and Covenants
 
-> “Một lần đứng dậy hôm nay là nền móng của một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “That by him, and through him, and of him, the worlds are and were created, and the inhabitants thereof are begotten sons and daughters unto God.”
 >
-> — **Daily Inspiration**
+> — **Doctrine and Covenants 76:24**
 
-<sub>🕒 Cập nhật 09/10/2026 lúc 03:28</sub>
-<!-- quote-id: inspiration-123 -->
+<sub>🕒 Cập nhật 09/10/2026 lúc 07:31</sub>
+<!-- quote-id: scripture-159 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
