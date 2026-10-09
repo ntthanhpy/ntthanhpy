@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hãy làm việc hết lòng như đang dâng công việc ấy lên Chúa.”
+> “Một bước nhỏ hôm nay là nền móng của một cuộc đời có nhiều ý nghĩa hơn.”
 >
-> — **Cô Lô Se 3:23**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 09/10/2026 lúc 20:53</sub>
-<!-- quote-id: scripture-116 -->
+<sub>🕒 Cập nhật 10/10/2026 lúc 02:05</sub>
+<!-- quote-id: inspiration-025 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
