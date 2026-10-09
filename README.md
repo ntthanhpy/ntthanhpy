@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lựa chọn có kỷ luật hôm nay có thể mở ra một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Hãy làm việc hết lòng như đang dâng công việc ấy lên Chúa.”
 >
-> — **Daily Inspiration**
+> — **Cô Lô Se 3:23**
 
-<sub>🕒 Cập nhật 09/10/2026 lúc 13:50</sub>
-<!-- quote-id: inspiration-128 -->
+<sub>🕒 Cập nhật 09/10/2026 lúc 20:53</sub>
+<!-- quote-id: scripture-116 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
