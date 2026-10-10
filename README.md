@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một hành động can đảm hôm nay đang âm thầm xây nên một phiên bản trưởng thành hơn của chính mình.”
+> “Lời Thượng Đế có thể soi sáng bước kế tiếp, dù chưa cho thấy toàn bộ con đường.”
 >
-> — **Daily Inspiration**
+> — **Thi Thiên 119:105**
 
-<sub>🕒 Cập nhật 10/10/2026 lúc 09:26</sub>
-<!-- quote-id: inspiration-182 -->
+<sub>🕒 Cập nhật 10/10/2026 lúc 15:43</sub>
+<!-- quote-id: scripture-038 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
