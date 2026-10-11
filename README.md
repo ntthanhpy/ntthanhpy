@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Đức tin chân thật vẫn đứng vững ngay cả khi kết quả chưa như mong muốn.”
+> “Một lựa chọn có kỷ luật hôm nay đang âm thầm xây nên một cuộc đời có nhiều ý nghĩa hơn.”
 >
-> — **Đa Ni Ên 3:17-18**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 12/10/2026 lúc 02:01</sub>
-<!-- quote-id: scripture-067 -->
+<sub>🕒 Cập nhật 12/10/2026 lúc 05:59</sub>
+<!-- quote-id: inspiration-135 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
