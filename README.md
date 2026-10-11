@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Một tâm trí hướng về Thượng Đế có thể được gìn giữ trong bình an.”
+> “Đức tin chân thật vẫn đứng vững ngay cả khi kết quả chưa như mong muốn.”
 >
-> — **Ê Sai 26:3**
+> — **Đa Ni Ên 3:17-18**
 
-<sub>🕒 Cập nhật 11/10/2026 lúc 21:12</sub>
-<!-- quote-id: scripture-054 -->
+<sub>🕒 Cập nhật 12/10/2026 lúc 02:01</sub>
+<!-- quote-id: scripture-067 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
