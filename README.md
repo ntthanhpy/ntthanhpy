@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lần đứng dậy hôm nay là nền móng của một kết quả lớn hơn điều bạn đang tưởng tượng.”
+> “Hãy tìm kiếm sự học hỏi bằng cả nghiên cứu lẫn đức tin.”
 >
-> — **Daily Inspiration**
+> — **Giáo Lý và Giao Ước 88:118**
 
-<sub>🕒 Cập nhật 12/10/2026 lúc 16:27</sub>
-<!-- quote-id: inspiration-124 -->
+<sub>🕒 Cập nhật 13/10/2026 lúc 02:11</sub>
+<!-- quote-id: scripture-153 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
