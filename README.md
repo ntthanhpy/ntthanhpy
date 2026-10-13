@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một hành động can đảm hôm nay là nền móng của một kết quả lớn hơn điều bạn đang tưởng tượng.”
+> “Ân điển có thể đủ cho ta ngay trong sự yếu đuối.”
 >
-> — **Daily Inspiration**
+> — **2 Cô Rinh Tô 12:9**
 
-<sub>🕒 Cập nhật 13/10/2026 lúc 08:28</sub>
-<!-- quote-id: inspiration-199 -->
+<sub>🕒 Cập nhật 13/10/2026 lúc 15:00</sub>
+<!-- quote-id: scripture-106 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
