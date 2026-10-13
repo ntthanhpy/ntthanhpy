@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hãy tìm kiếm sự học hỏi bằng cả nghiên cứu lẫn đức tin.”
+> “Một hành động can đảm hôm nay là nền móng của một kết quả lớn hơn điều bạn đang tưởng tượng.”
 >
-> — **Giáo Lý và Giao Ước 88:118**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 13/10/2026 lúc 02:11</sub>
-<!-- quote-id: scripture-153 -->
+<sub>🕒 Cập nhật 13/10/2026 lúc 08:28</sub>
+<!-- quote-id: inspiration-199 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
