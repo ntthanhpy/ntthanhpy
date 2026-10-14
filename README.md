@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Thượng Đế ban tinh thần mạnh mẽ, yêu thương và tự chủ, không phải sợ hãi.”
+> “Một quyết định đúng hôm nay đang âm thầm xây nên một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
-> — **2 Ti Mô Thê 1:7**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 14/10/2026 lúc 12:05</sub>
-<!-- quote-id: scripture-118 -->
+<sub>🕒 Cập nhật 14/10/2026 lúc 17:21</sub>
+<!-- quote-id: inspiration-033 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
