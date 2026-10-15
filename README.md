@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Danh của Chúa là nơi an toàn cho người tìm đến.”
+> “Một bước nhỏ hôm nay là nền móng của một ngày mai tốt đẹp hơn.”
 >
-> — **Châm Ngôn 18:10**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 15/10/2026 lúc 05:44</sub>
-<!-- quote-id: scripture-048 -->
+<sub>🕒 Cập nhật 15/10/2026 lúc 07:59</sub>
+<!-- quote-id: inspiration-021 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
