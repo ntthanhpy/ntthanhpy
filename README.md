@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lần đứng dậy hôm nay có thể mở ra một kết quả lớn hơn điều bạn đang tưởng tượng.”
+> “Tinh thần tranh chấp không đến từ Đấng Christ.”
 >
-> — **Daily Inspiration**
+> — **3 Nê Phi 11:29**
 
-<sub>🕒 Cập nhật 17/10/2026 lúc 01:13</sub>
-<!-- quote-id: inspiration-104 -->
+<sub>🕒 Cập nhật 17/10/2026 lúc 04:25</sub>
+<!-- quote-id: scripture-135 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
