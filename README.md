@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lời tử tế hôm nay là nền móng của một cuộc đời có nhiều ý nghĩa hơn.”
+> “Khi thiếu khôn ngoan, hãy chân thành cầu xin Thượng Đế.”
 >
-> — **Daily Inspiration**
+> — **Gia Cơ 1:5**
 
-<sub>🕒 Cập nhật 18/10/2026 lúc 02:32</sub>
-<!-- quote-id: inspiration-100 -->
+<sub>🕒 Cập nhật 18/10/2026 lúc 04:47</sub>
+<!-- quote-id: scripture-121 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
