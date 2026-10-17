@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đức tin biến Thượng Đế thành nơi trú ẩn trong tâm hồn.”
+> “Hãy làm mọi việc trong sự khôn ngoan và trật tự, không chạy nhanh hơn sức mình.”
 >
-> — **Thi Thiên 91:2**
+> — **Mô Si A 4:27**
 
-<sub>🕒 Cập nhật 17/10/2026 lúc 08:43</sub>
-<!-- quote-id: scripture-036 -->
+<sub>🕒 Cập nhật 17/10/2026 lúc 13:17</sub>
+<!-- quote-id: scripture-130 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
