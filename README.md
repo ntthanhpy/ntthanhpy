@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Có những trận chiến ta thắng bằng sự bình tĩnh và tin cậy.”
+> “Một quyết định đúng hôm nay đang âm thầm xây nên một ngày mai tốt đẹp hơn.”
 >
-> — **Xuất Ê Díp Tô Ký 14:14**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 19/10/2026 lúc 00:38</sub>
-<!-- quote-id: scripture-004 -->
+<sub>🕒 Cập nhật 19/10/2026 lúc 02:44</sub>
+<!-- quote-id: inspiration-031 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
