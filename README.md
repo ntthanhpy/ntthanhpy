@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Người trông cậy Chúa sẽ nhận được sức mới để tiếp tục.”
+> “Người kiên định trong điều tốt lành sẽ sinh trái đúng mùa.”
 >
-> — **Ê Sai 40:31**
+> — **Thi Thiên 1:3**
 
-<sub>🕒 Cập nhật 20/10/2026 lúc 06:48</sub>
-<!-- quote-id: scripture-055 -->
+<sub>🕒 Cập nhật 20/10/2026 lúc 09:14</sub>
+<!-- quote-id: scripture-021 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
