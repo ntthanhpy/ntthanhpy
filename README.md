@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Người kiên định trong điều tốt lành sẽ sinh trái đúng mùa.”
+> “Một lần đứng dậy hôm nay có thể mở ra một phiên bản trưởng thành hơn của chính mình.”
 >
-> — **Thi Thiên 1:3**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 20/10/2026 lúc 09:14</sub>
-<!-- quote-id: scripture-021 -->
+<sub>🕒 Cập nhật 20/10/2026 lúc 14:46</sub>
+<!-- quote-id: inspiration-102 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
