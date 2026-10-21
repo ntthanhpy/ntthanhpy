@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Thượng Đế có thể dùng cả những điều khó hiểu để tạo nên điều tốt.”
+> “Một bước nhỏ hôm nay có thể dẫn bạn đến một kết quả lớn hơn điều bạn đang tưởng tượng.”
 >
-> — **Rô Ma 8:28**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 21/10/2026 lúc 17:20</sub>
-<!-- quote-id: scripture-096 -->
+<sub>🕒 Cập nhật 21/10/2026 lúc 22:24</sub>
+<!-- quote-id: inspiration-019 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
