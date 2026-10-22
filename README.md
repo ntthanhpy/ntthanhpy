@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hãy bám chặt các giao ước và vui mừng trong đức tin.”
+> “Một quyết định đúng hôm nay là nền móng của một kết quả lớn hơn điều bạn đang tưởng tượng.”
 >
-> — **Giáo Lý và Giao Ước 25:13**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 23/10/2026 lúc 00:21</sub>
-<!-- quote-id: scripture-147 -->
+<sub>🕒 Cập nhật 23/10/2026 lúc 03:37</sub>
+<!-- quote-id: inspiration-049 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
