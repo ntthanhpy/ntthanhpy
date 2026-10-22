@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một giờ tập trung hôm nay sẽ góp phần tạo nên một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Hãy bám chặt các giao ước và vui mừng trong đức tin.”
 >
-> — **Daily Inspiration**
+> — **Giáo Lý và Giao Ước 25:13**
 
-<sub>🕒 Cập nhật 22/10/2026 lúc 19:07</sub>
-<!-- quote-id: inspiration-063 -->
+<sub>🕒 Cập nhật 23/10/2026 lúc 00:21</sub>
+<!-- quote-id: scripture-147 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
