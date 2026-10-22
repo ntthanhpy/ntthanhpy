@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### ✨ Câu truyền cảm hứng
 
-> “Một lựa chọn có kỷ luật hôm nay đang âm thầm xây nên một ngày mai tốt đẹp hơn.”
+> “Một lần đứng dậy hôm nay đang âm thầm xây nên một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
 > — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 22/10/2026 lúc 05:30</sub>
-<!-- quote-id: inspiration-131 -->
+<sub>🕒 Cập nhật 22/10/2026 lúc 08:00</sub>
+<!-- quote-id: inspiration-108 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
