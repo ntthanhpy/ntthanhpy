@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Ân điển có thể đủ cho ta ngay trong sự yếu đuối.”
+> “Dấu hiệu rõ ràng của người môn đồ là tình yêu dành cho nhau.”
 >
-> — **2 Cô Rinh Tô 12:9**
+> — **Giăng 13:34**
 
-<sub>🕒 Cập nhật 23/10/2026 lúc 06:41</sub>
-<!-- quote-id: scripture-106 -->
+<sub>🕒 Cập nhật 23/10/2026 lúc 09:06</sub>
+<!-- quote-id: scripture-088 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
