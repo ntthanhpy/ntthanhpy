@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Ân điển có thể đủ cho ta ngay trong sự yếu đuối.”
+> “Một lời tử tế hôm nay đang âm thầm xây nên một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
-> — **2 Cô Rinh Tô 12:9**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 23/10/2026 lúc 19:53</sub>
-<!-- quote-id: scripture-106 -->
+<sub>🕒 Cập nhật 24/10/2026 lúc 00:31</sub>
+<!-- quote-id: inspiration-083 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
