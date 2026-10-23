@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Biết quý từng ngày giúp ta sống khôn ngoan hơn.”
+> “Hãy bám chặt các giao ước và vui mừng trong đức tin.”
 >
-> — **Thi Thiên 90:12**
+> — **Giáo Lý và Giao Ước 25:13**
 
-<sub>🕒 Cập nhật 24/10/2026 lúc 03:41</sub>
-<!-- quote-id: scripture-035 -->
+<sub>🕒 Cập nhật 24/10/2026 lúc 06:35</sub>
+<!-- quote-id: scripture-147 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
