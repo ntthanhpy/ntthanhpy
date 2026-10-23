@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Dấu hiệu rõ ràng của người môn đồ là tình yêu dành cho nhau.”
+> “Khi Thượng Đế truyền lệnh, Ngài cũng có thể chuẩn bị con đường để thực hiện.”
 >
-> — **Giăng 13:34**
+> — **1 Nê Phi 3:7**
 
-<sub>🕒 Cập nhật 23/10/2026 lúc 09:06</sub>
-<!-- quote-id: scripture-088 -->
+<sub>🕒 Cập nhật 23/10/2026 lúc 14:44</sub>
+<!-- quote-id: scripture-126 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
