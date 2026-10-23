@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Khi Thượng Đế truyền lệnh, Ngài cũng có thể chuẩn bị con đường để thực hiện.”
+> “Ân điển có thể đủ cho ta ngay trong sự yếu đuối.”
 >
-> — **1 Nê Phi 3:7**
+> — **2 Cô Rinh Tô 12:9**
 
-<sub>🕒 Cập nhật 23/10/2026 lúc 14:44</sub>
-<!-- quote-id: scripture-126 -->
+<sub>🕒 Cập nhật 23/10/2026 lúc 19:53</sub>
+<!-- quote-id: scripture-106 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
