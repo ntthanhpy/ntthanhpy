@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Không lời hứa tốt lành nào của Thượng Đế là bất khả thi.”
+> “Đôi khi sự hướng dẫn đến trong một tiếng nói rất nhỏ nhẹ.”
 >
-> — **Lu Ca 1:37**
+> — **1 Các Vua 19:12**
 
-<sub>🕒 Cập nhật 24/10/2026 lúc 23:05</sub>
-<!-- quote-id: scripture-082 -->
+<sub>🕒 Cập nhật 25/10/2026 lúc 01:51</sub>
+<!-- quote-id: scripture-015 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
