@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy bám chặt các giao ước và vui mừng trong đức tin.”
+> “Lòng thương xót được làm mới mỗi buổi sáng.”
 >
-> — **Giáo Lý và Giao Ước 25:13**
+> — **Ca Thương 3:22-23**
 
-<sub>🕒 Cập nhật 24/10/2026 lúc 06:35</sub>
-<!-- quote-id: scripture-147 -->
+<sub>🕒 Cập nhật 24/10/2026 lúc 09:05</sub>
+<!-- quote-id: scripture-065 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
