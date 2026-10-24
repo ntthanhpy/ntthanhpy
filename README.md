@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy yêu mến Thượng Đế bằng cả tấm lòng, tâm hồn và sức lực.”
+> “Không lời hứa tốt lành nào của Thượng Đế là bất khả thi.”
 >
-> — **Phục Truyền Luật Lệ Ký 6:5**
+> — **Lu Ca 1:37**
 
-<sub>🕒 Cập nhật 24/10/2026 lúc 19:06</sub>
-<!-- quote-id: scripture-006 -->
+<sub>🕒 Cập nhật 24/10/2026 lúc 23:05</sub>
+<!-- quote-id: scripture-082 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
