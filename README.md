@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### 📖 Scripture today - Pearl of Great Price
 
-> “Lòng thương xót được làm mới mỗi buổi sáng.”
+> “And they who keep their first estate shall be added upon; and they who keep not their first estate shall not have glory in the same kingdom with those who keep their first estate; and they who keep their second estate shall have glory added upon their heads for ever and ever.”
 >
-> — **Ca Thương 3:22-23**
+> — **Abraham 3:26**
 
-<sub>🕒 Cập nhật 24/10/2026 lúc 09:05</sub>
-<!-- quote-id: scripture-065 -->
+<sub>🕒 Cập nhật 24/10/2026 lúc 14:26</sub>
+<!-- quote-id: scripture-160 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
