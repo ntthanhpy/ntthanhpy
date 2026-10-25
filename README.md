@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một giờ tập trung hôm nay đang âm thầm xây nên một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Qua nước sâu hay lửa nóng, bạn vẫn không bị bỏ rơi.”
 >
-> — **Daily Inspiration**
+> — **Ê Sai 43:2**
 
-<sub>🕒 Cập nhật 25/10/2026 lúc 22:05</sub>
-<!-- quote-id: inspiration-058 -->
+<sub>🕒 Cập nhật 26/10/2026 lúc 01:27</sub>
+<!-- quote-id: scripture-057 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
