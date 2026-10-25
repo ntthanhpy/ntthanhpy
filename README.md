@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Qua nước sâu hay lửa nóng, bạn vẫn không bị bỏ rơi.”
+> “Mọi điều đều có thời điểm thích hợp của nó.”
 >
-> — **Ê Sai 43:2**
+> — **Truyền Đạo 3:1**
 
-<sub>🕒 Cập nhật 26/10/2026 lúc 01:27</sub>
-<!-- quote-id: scripture-057 -->
+<sub>🕒 Cập nhật 26/10/2026 lúc 04:01</sub>
+<!-- quote-id: scripture-051 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
