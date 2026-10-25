@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hãy để ánh sáng của mình soi trước mặt người khác qua việc tốt.”
+> “Một giờ tập trung hôm nay là nền móng của một cuộc đời có nhiều ý nghĩa hơn.”
 >
-> — **3 Nê Phi 12:16**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 25/10/2026 lúc 06:25</sub>
-<!-- quote-id: scripture-136 -->
+<sub>🕒 Cập nhật 25/10/2026 lúc 08:20</sub>
+<!-- quote-id: inspiration-075 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
