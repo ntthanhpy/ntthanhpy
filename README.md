@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Nhiều kế hoạch có thể thay đổi, nhưng mục đích tốt lành vẫn đứng vững.”
+> “Khi thiếu khôn ngoan, hãy chân thành cầu xin Thượng Đế.”
 >
-> — **Châm Ngôn 19:21**
+> — **Gia Cơ 1:5**
 
-<sub>🕒 Cập nhật 26/10/2026 lúc 20:24</sub>
-<!-- quote-id: scripture-049 -->
+<sub>🕒 Cập nhật 27/10/2026 lúc 02:25</sub>
+<!-- quote-id: scripture-121 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
