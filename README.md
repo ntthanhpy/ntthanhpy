@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Lòng thương xót được làm mới mỗi buổi sáng.”
+> “Bạn có thể làm điều cần làm nhờ sức mạnh Đấng Christ ban cho.”
 >
-> — **Ca Thương 3:22-23**
+> — **Phi Líp 4:13**
 
-<sub>🕒 Cập nhật 28/10/2026 lúc 09:25</sub>
-<!-- quote-id: scripture-065 -->
+<sub>🕒 Cập nhật 28/10/2026 lúc 15:45</sub>
+<!-- quote-id: scripture-115 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
