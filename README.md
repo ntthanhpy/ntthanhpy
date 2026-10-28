@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Bạn có thể làm điều cần làm nhờ sức mạnh Đấng Christ ban cho.”
+> “Một lời tử tế hôm nay có thể dẫn bạn đến một phiên bản trưởng thành hơn của chính mình.”
 >
-> — **Phi Líp 4:13**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 28/10/2026 lúc 15:45</sub>
-<!-- quote-id: scripture-115 -->
+<sub>🕒 Cập nhật 28/10/2026 lúc 22:31</sub>
+<!-- quote-id: inspiration-092 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
