@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một giờ tập trung hôm nay có thể mở ra một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Lòng thương xót được làm mới mỗi buổi sáng.”
 >
-> — **Daily Inspiration**
+> — **Ca Thương 3:22-23**
 
-<sub>🕒 Cập nhật 28/10/2026 lúc 06:16</sub>
-<!-- quote-id: inspiration-053 -->
+<sub>🕒 Cập nhật 28/10/2026 lúc 09:25</sub>
+<!-- quote-id: scripture-065 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
