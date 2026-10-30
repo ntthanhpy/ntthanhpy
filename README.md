@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hãy làm việc cho sự cứu rỗi của mình với lòng tôn kính và kiên trì.”
+> “Một lần đứng dậy hôm nay sẽ góp phần tạo nên một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
-> — **Mặc Môn 9:27**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 30/10/2026 lúc 09:42</sub>
-<!-- quote-id: scripture-138 -->
+<sub>🕒 Cập nhật 30/10/2026 lúc 16:06</sub>
+<!-- quote-id: inspiration-113 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
