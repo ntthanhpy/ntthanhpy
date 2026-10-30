@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lần đứng dậy hôm nay sẽ góp phần tạo nên một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Hãy vui trong hy vọng, kiên nhẫn trong hoạn nạn và bền lòng cầu nguyện.”
 >
-> — **Daily Inspiration**
+> — **Rô Ma 12:12**
 
-<sub>🕒 Cập nhật 30/10/2026 lúc 16:06</sub>
-<!-- quote-id: inspiration-113 -->
+<sub>🕒 Cập nhật 30/10/2026 lúc 23:02</sub>
+<!-- quote-id: scripture-099 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
