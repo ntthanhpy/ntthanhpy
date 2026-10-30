@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hãy vui trong hy vọng, kiên nhẫn trong hoạn nạn và bền lòng cầu nguyện.”
+> “Một hành động can đảm hôm nay sẽ góp phần tạo nên một kết quả lớn hơn điều bạn đang tưởng tượng.”
 >
-> — **Rô Ma 12:12**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 30/10/2026 lúc 23:02</sub>
-<!-- quote-id: scripture-099 -->
+<sub>🕒 Cập nhật 31/10/2026 lúc 03:54</sub>
+<!-- quote-id: inspiration-189 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
