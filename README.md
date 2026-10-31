@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy tự mình trải nghiệm sự tốt lành của Thượng Đế.”
+> “Ngay trong mất mát, lòng biết ơn vẫn có thể gìn giữ đức tin.”
 >
-> — **Thi Thiên 34:8**
+> — **Gióp 1:21**
 
-<sub>🕒 Cập nhật 31/10/2026 lúc 23:22</sub>
-<!-- quote-id: scripture-029 -->
+<sub>🕒 Cập nhật 01/11/2026 lúc 03:07</sub>
+<!-- quote-id: scripture-019 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
