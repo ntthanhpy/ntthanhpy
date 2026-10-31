@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Ngay trong mất mát, lòng biết ơn vẫn có thể gìn giữ đức tin.”
+> “Một bước nhỏ hôm nay đang âm thầm xây nên một ngày mai tốt đẹp hơn.”
 >
-> — **Gióp 1:21**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 01/11/2026 lúc 03:07</sub>
-<!-- quote-id: scripture-019 -->
+<sub>🕒 Cập nhật 01/11/2026 lúc 06:29</sub>
+<!-- quote-id: inspiration-006 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
