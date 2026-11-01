@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Con người trưởng thành hơn khi biết học hỏi và mài giũa lẫn nhau.”
+> “Một giờ tập trung hôm nay có thể mở ra một kết quả lớn hơn điều bạn đang tưởng tượng.”
 >
-> — **Châm Ngôn 27:17**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 02/11/2026 lúc 03:37</sub>
-<!-- quote-id: scripture-050 -->
+<sub>🕒 Cập nhật 02/11/2026 lúc 06:58</sub>
+<!-- quote-id: inspiration-054 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
