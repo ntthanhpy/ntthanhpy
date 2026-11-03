@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hãy làm mọi việc trong sự khôn ngoan và trật tự, không chạy nhanh hơn sức mình.”
+> “Một lần đứng dậy hôm nay có thể dẫn bạn đến một kết quả lớn hơn điều bạn đang tưởng tượng.”
 >
-> — **Mô Si A 4:27**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 03/11/2026 lúc 04:57</sub>
-<!-- quote-id: scripture-130 -->
+<sub>🕒 Cập nhật 03/11/2026 lúc 10:14</sub>
+<!-- quote-id: inspiration-119 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
