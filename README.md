@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Scripture today - Pearl of Great Price
+### ✨ Câu truyền cảm hứng
 
-> “And they who keep their first estate shall be added upon; and they who keep not their first estate shall not have glory in the same kingdom with those who keep their first estate; and they who keep their second estate shall have glory added upon their heads for ever and ever.”
+> “Một hành động can đảm hôm nay đang âm thầm xây nên một cuộc đời có nhiều ý nghĩa hơn.”
 >
-> — **Abraham 3:26**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 05/11/2026 lúc 12:01</sub>
-<!-- quote-id: scripture-160 -->
+<sub>🕒 Cập nhật 05/11/2026 lúc 20:20</sub>
+<!-- quote-id: inspiration-185 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
