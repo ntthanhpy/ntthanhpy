@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Tình yêu, niềm vui, bình an và tự chủ là những trái của đời sống thuộc linh.”
+> “Khi con người khiêm nhường và quay về điều thiện, sự chữa lành có thể bắt đầu.”
 >
-> — **Ga La Ti 5:22-23**
+> — **2 Sử Ký 7:14**
 
-<sub>🕒 Cập nhật 06/11/2026 lúc 15:01</sub>
-<!-- quote-id: scripture-107 -->
+<sub>🕒 Cập nhật 06/11/2026 lúc 23:01</sub>
+<!-- quote-id: scripture-016 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
