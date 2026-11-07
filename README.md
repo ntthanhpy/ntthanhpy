@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một lựa chọn có kỷ luật hôm nay là nền móng của một ngày mai tốt đẹp hơn.”
+> “Hãy nuôi dưỡng tâm trí bằng những điều chân thật, tốt đẹp và đáng quý.”
 >
-> — **Daily Inspiration**
+> — **Phi Líp 4:8**
 
-<sub>🕒 Cập nhật 07/11/2026 lúc 21:12</sub>
-<!-- quote-id: inspiration-146 -->
+<sub>🕒 Cập nhật 08/11/2026 lúc 01:54</sub>
+<!-- quote-id: scripture-114 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
