@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một phút biết ơn hôm nay có thể mở ra một con đường mà hôm qua bạn chưa nhìn thấy.”
+> “Người bạn thật vẫn yêu thương trong những thời điểm khó khăn.”
 >
-> — **Daily Inspiration**
+> — **Châm Ngôn 17:17**
 
-<sub>🕒 Cập nhật 07/11/2026 lúc 04:38</sub>
-<!-- quote-id: inspiration-153 -->
+<sub>🕒 Cập nhật 07/11/2026 lúc 08:19</sub>
+<!-- quote-id: scripture-047 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
