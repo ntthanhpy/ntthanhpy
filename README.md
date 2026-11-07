@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy nuôi dưỡng tâm trí bằng những điều chân thật, tốt đẹp và đáng quý.”
+> “Đức tin không đòi hỏi phải biết chắc mọi điều trước khi hành động.”
 >
-> — **Phi Líp 4:8**
+> — **An Ma 32:21**
 
-<sub>🕒 Cập nhật 08/11/2026 lúc 01:54</sub>
-<!-- quote-id: scripture-114 -->
+<sub>🕒 Cập nhật 08/11/2026 lúc 05:23</sub>
+<!-- quote-id: scripture-131 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
