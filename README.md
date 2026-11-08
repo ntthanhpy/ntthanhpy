@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hôm nay đã có đủ việc của hôm nay; đừng để ngày mai cướp mất bình an.”
+> “Hy vọng vững bền khi ta biết Đấng Cứu Chuộc hằng sống.”
 >
-> — **Ma Thi Ơ 6:34**
+> — **Gióp 19:25**
 
-<sub>🕒 Cập nhật 08/11/2026 lúc 15:07</sub>
-<!-- quote-id: scripture-073 -->
+<sub>🕒 Cập nhật 08/11/2026 lúc 22:24</sub>
+<!-- quote-id: scripture-020 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
