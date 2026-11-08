@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Đức tin không đòi hỏi phải biết chắc mọi điều trước khi hành động.”
+> “Một lựa chọn có kỷ luật hôm nay là nền móng của một cuộc đời có nhiều ý nghĩa hơn.”
 >
-> — **An Ma 32:21**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 08/11/2026 lúc 05:23</sub>
-<!-- quote-id: scripture-131 -->
+<sub>🕒 Cập nhật 08/11/2026 lúc 08:33</sub>
+<!-- quote-id: inspiration-150 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
