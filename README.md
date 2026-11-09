@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Lời chứng thường đến sau khi đức tin đã được thử thách.”
+> “Sự đổi mới trong tâm trí sẽ dẫn đến một đời sống được biến đổi.”
 >
-> — **Ê The 12:6**
+> — **Rô Ma 12:2**
 
-<sub>🕒 Cập nhật 09/11/2026 lúc 17:27</sub>
-<!-- quote-id: scripture-139 -->
+<sub>🕒 Cập nhật 10/11/2026 lúc 03:54</sub>
+<!-- quote-id: scripture-098 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
