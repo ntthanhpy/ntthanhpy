@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một giờ tập trung hôm nay là nền móng của một ngày mai tốt đẹp hơn.”
+> “Lời chứng thường đến sau khi đức tin đã được thử thách.”
 >
-> — **Daily Inspiration**
+> — **Ê The 12:6**
 
-<sub>🕒 Cập nhật 09/11/2026 lúc 09:46</sub>
-<!-- quote-id: inspiration-071 -->
+<sub>🕒 Cập nhật 09/11/2026 lúc 17:27</sub>
+<!-- quote-id: scripture-139 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
