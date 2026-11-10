@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Đức tin biến Thượng Đế thành nơi trú ẩn trong tâm hồn.”
+> “Hy vọng vững bền khi ta biết Đấng Cứu Chuộc hằng sống.”
 >
-> — **Thi Thiên 91:2**
+> — **Gióp 19:25**
 
-<sub>🕒 Cập nhật 10/11/2026 lúc 17:48</sub>
-<!-- quote-id: scripture-036 -->
+<sub>🕒 Cập nhật 11/11/2026 lúc 01:20</sub>
+<!-- quote-id: scripture-020 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
