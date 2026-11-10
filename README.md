@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hy vọng vững bền khi ta biết Đấng Cứu Chuộc hằng sống.”
+> “Một quyết định đúng hôm nay có thể mở ra một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
-> — **Gióp 19:25**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 11/11/2026 lúc 01:20</sub>
-<!-- quote-id: scripture-020 -->
+<sub>🕒 Cập nhật 11/11/2026 lúc 06:34</sub>
+<!-- quote-id: inspiration-028 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
