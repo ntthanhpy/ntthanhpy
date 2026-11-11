@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Biết quý từng ngày giúp ta sống khôn ngoan hơn.”
+> “Đức tin biến Thượng Đế thành nơi trú ẩn trong tâm hồn.”
 >
-> — **Thi Thiên 90:12**
+> — **Thi Thiên 91:2**
 
-<sub>🕒 Cập nhật 11/11/2026 lúc 18:14</sub>
-<!-- quote-id: scripture-035 -->
+<sub>🕒 Cập nhật 12/11/2026 lúc 01:46</sub>
+<!-- quote-id: scripture-036 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
