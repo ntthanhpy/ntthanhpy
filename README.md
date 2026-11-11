@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Hãy làm việc hết lòng như đang dâng công việc ấy lên Chúa.”
+> “Biết quý từng ngày giúp ta sống khôn ngoan hơn.”
 >
-> — **Cô Lô Se 3:23**
+> — **Thi Thiên 90:12**
 
-<sub>🕒 Cập nhật 11/11/2026 lúc 10:17</sub>
-<!-- quote-id: scripture-116 -->
+<sub>🕒 Cập nhật 11/11/2026 lúc 18:14</sub>
+<!-- quote-id: scripture-035 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
