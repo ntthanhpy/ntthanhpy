@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Qua sự hy sinh của Đấng Cứu Rỗi, sự chữa lành trở nên khả thi.”
+> “Một lựa chọn có kỷ luật hôm nay có thể dẫn bạn đến một phiên bản trưởng thành hơn của chính mình.”
 >
-> — **Ê Sai 53:5**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 14/11/2026 lúc 10:23</sub>
-<!-- quote-id: scripture-058 -->
+<sub>🕒 Cập nhật 14/11/2026 lúc 17:42</sub>
+<!-- quote-id: inspiration-142 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
