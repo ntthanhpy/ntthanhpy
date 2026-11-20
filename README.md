@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Đức tin giúp ta nắm giữ điều hy vọng ngay khi chưa nhìn thấy.”
+> “Một bước nhỏ hôm nay là nền móng của một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
-> — **Hê Bơ Rơ 11:1**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 20/11/2026 lúc 07:57</sub>
-<!-- quote-id: scripture-119 -->
+<sub>🕒 Cập nhật 20/11/2026 lúc 14:55</sub>
+<!-- quote-id: inspiration-023 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
