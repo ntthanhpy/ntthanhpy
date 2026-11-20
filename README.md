@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Người đi theo Đấng Christ không cần bước mãi trong bóng tối.”
+> “Đức tin giúp ta nắm giữ điều hy vọng ngay khi chưa nhìn thấy.”
 >
-> — **Giăng 8:12**
+> — **Hê Bơ Rơ 11:1**
 
-<sub>🕒 Cập nhật 20/11/2026 lúc 01:42</sub>
-<!-- quote-id: scripture-086 -->
+<sub>🕒 Cập nhật 20/11/2026 lúc 07:57</sub>
+<!-- quote-id: scripture-119 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
