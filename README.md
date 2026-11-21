@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Người bạn thật vẫn yêu thương trong những thời điểm khó khăn.”
+> “Lời chứng thường đến sau khi đức tin đã được thử thách.”
 >
-> — **Châm Ngôn 17:17**
+> — **Ê The 12:6**
 
-<sub>🕒 Cập nhật 21/11/2026 lúc 05:44</sub>
-<!-- quote-id: scripture-047 -->
+<sub>🕒 Cập nhật 21/11/2026 lúc 10:34</sub>
+<!-- quote-id: scripture-139 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
