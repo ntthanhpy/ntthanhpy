@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Hãy trao đường lối mình cho Thượng Đế và tiếp tục làm phần việc của mình.”
+> “Một lời tử tế hôm nay đang âm thầm xây nên một cuộc đời có nhiều ý nghĩa hơn.”
 >
-> — **Thi Thiên 37:5**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 23/11/2026 lúc 01:43</sub>
-<!-- quote-id: scripture-030 -->
+<sub>🕒 Cập nhật 23/11/2026 lúc 06:54</sub>
+<!-- quote-id: inspiration-085 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
