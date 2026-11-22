@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### ✨ Câu truyền cảm hứng
 
-> “Một lần đứng dậy hôm nay có thể dẫn bạn đến một cuộc đời có nhiều ý nghĩa hơn.”
+> “Một lựa chọn có kỷ luật hôm nay có thể dẫn bạn đến một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
 > — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 22/11/2026 lúc 10:20</sub>
-<!-- quote-id: inspiration-120 -->
+<sub>🕒 Cập nhật 22/11/2026 lúc 18:42</sub>
+<!-- quote-id: inspiration-143 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
