@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Đức tin tạo nên một nền đá vững chắc giữa những biến động.”
+> “Một phút biết ơn hôm nay đang âm thầm xây nên một con đường mà hôm qua bạn chưa nhìn thấy.”
 >
-> — **Thi Thiên 18:2**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 23/11/2026 lúc 11:11</sub>
-<!-- quote-id: scripture-024 -->
+<sub>🕒 Cập nhật 23/11/2026 lúc 22:01</sub>
+<!-- quote-id: inspiration-158 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
