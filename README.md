@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Người trông cậy Chúa sẽ nhận được sức mới để tiếp tục.”
+> “Thượng Đế có thể ban một tấm lòng mới và một tinh thần mới.”
 >
-> — **Ê Sai 40:31**
+> — **Ê Xê Chi Ên 36:26**
 
-<sub>🕒 Cập nhật 24/11/2026 lúc 09:24</sub>
-<!-- quote-id: scripture-055 -->
+<sub>🕒 Cập nhật 24/11/2026 lúc 19:41</sub>
+<!-- quote-id: scripture-066 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
