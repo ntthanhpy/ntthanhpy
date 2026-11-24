@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Thượng Đế có thể ban một tấm lòng mới và một tinh thần mới.”
+> “Sự giúp đỡ thật đến từ Đấng dựng nên trời và đất.”
 >
-> — **Ê Xê Chi Ên 36:26**
+> — **Thi Thiên 121:1-2**
 
-<sub>🕒 Cập nhật 24/11/2026 lúc 19:41</sub>
-<!-- quote-id: scripture-066 -->
+<sub>🕒 Cập nhật 25/11/2026 lúc 05:48</sub>
+<!-- quote-id: scripture-039 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
