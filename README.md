@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### 📖 Câu thánh thư hôm nay
+### ✨ Câu truyền cảm hứng
 
-> “Suy ngẫm lời Thượng Đế mỗi ngày giúp ta hành động khôn ngoan.”
+> “Một lần lắng nghe thật lòng hôm nay có thể mở ra một kết quả lớn hơn điều bạn đang tưởng tượng.”
 >
-> — **Giô Suê 1:8**
+> — **Daily Inspiration**
 
-<sub>🕒 Cập nhật 27/11/2026 lúc 07:07</sub>
-<!-- quote-id: scripture-008 -->
+<sub>🕒 Cập nhật 27/11/2026 lúc 15:50</sub>
+<!-- quote-id: inspiration-204 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
