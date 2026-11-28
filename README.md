@@ -14,12 +14,12 @@
 <!-- DAILY_QUOTE:START -->
 ### 📖 Câu thánh thư hôm nay
 
-> “Thử thách có thể rèn nên sự kiên trì, phẩm chất và hy vọng.”
+> “Dù bên ngoài mệt mỏi, con người bên trong vẫn có thể được đổi mới mỗi ngày.”
 >
-> — **Rô Ma 5:3-4**
+> — **2 Cô Rinh Tô 4:16**
 
-<sub>🕒 Cập nhật 28/11/2026 lúc 16:30</sub>
-<!-- quote-id: scripture-095 -->
+<sub>🕒 Cập nhật 29/11/2026 lúc 00:50</sub>
+<!-- quote-id: scripture-104 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
