@@ -12,14 +12,14 @@
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ntthanhpy&langs_count=8&theme=great-gatsby)](https://github.com/ntthanhpy)
 
 <!-- DAILY_QUOTE:START -->
-### ✨ Câu truyền cảm hứng
+### 📖 Câu thánh thư hôm nay
 
-> “Một hành động can đảm hôm nay có thể mở ra một kết quả lớn hơn điều bạn đang tưởng tượng.”
+> “Thử thách có thể rèn nên sự kiên trì, phẩm chất và hy vọng.”
 >
-> — **Daily Inspiration**
+> — **Rô Ma 5:3-4**
 
-<sub>🕒 Cập nhật 28/11/2026 lúc 08:41</sub>
-<!-- quote-id: inspiration-179 -->
+<sub>🕒 Cập nhật 28/11/2026 lúc 16:30</sub>
+<!-- quote-id: scripture-095 -->
 <!-- DAILY_QUOTE:END -->
 
 - Updating
